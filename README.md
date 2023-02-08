@@ -1,74 +1,170 @@
 # Leetcode Summary
-[**Grind 169 questions**](https://www.techinterviewhandbook.org/grind75?hours=10&weeks=15&order=topics&grouping=topics)
-[**wisdompeak/LeetCode**](https://github.com/wisdompeak/LeetCode)
-[**wisdompeak/YouTube**](https://www.youtube.com/@wisdompeak)
+[**Grind 169 questions**](https://www.techinterviewhandbook.org/grind75?hours=10&weeks=15&order=topics&grouping=topics)  
+[**wisdompeak/LeetCode**](https://github.com/wisdompeak/LeetCode)  
+[**wisdompeak/YouTube**](https://www.youtube.com/@wisdompeak)  
 
-> **Two Pointers**
+> **Two Pointers**  
 
-[11. Container With Most Water (M+)](https://hackmd.io/x8eAmORIQme2AHYVjomQPA?view)  
-[15. 3Sum (M)](https://hackmd.io/UDpXOzB_TW6be_-hhnYwZA?view)  
-[16. 3Sum Closest (M)](https://hackmd.io/bdMPOJdsQf63BSCLZt5Y6A?view)  
-[39. Combination Sum (M)](https://medium.com/@markchen83115/leetcode-39-combination-sum-medium-56da10769525)  
-[56. Merge Intervals (M)](https://medium.com/@markchen83115/leetcode-56-merge-intervals-medium-c0240febf3a2)  
-[57. Insert Interval (M)](https://medium.com/@markchen83115/leetcode-57-insert-interval-medium-740ad4e63526)  
-[75. Sort Colors (M)](https://medium.com/@markchen83115/leetcode-75-sort-colors-medium-f9ba4cd23e1c)  
-[121. Best Time to Buy and Sell Stock (E)](https://medium.com/@markchen83115/leetcode-121-best-time-to-buy-and-sell-stock-easy-7a6bd09248d5)  
-[128. Longest Consecutive Sequence (M)](https://medium.com/@markchen83115/leetcode-128-longest-consecutive-sequence-medium-f4582ab2d350)  
-[134. Gas Station (M)](https://medium.com/@markchen83115/leetcode-134-gas-station-medium-f17173ddbc42)  
-[169. Majority Element (E)](https://medium.com/@markchen83115/leetcode-169-majority-element-easy-8044cfcdc193)  
-[189. Rotate Array (M)](https://medium.com/@markchen83115/leetcode-189-rotate-array-medium-e2d1d3cfec8d)  
-[217. Contains Duplicate (E)](https://medium.com/@markchen83115/leetcode-217-contains-duplicate-easy-7fe43fbebcc9)  
-[238. Product of Array Except Self (M)](https://medium.com/@markchen83115/leetcode-238-product-of-array-except-self-medium-95ab4ff3de4f)  
-[239. Sliding Window Maximum (H)](https://medium.com/@markchen83115/leetcode-239-sliding-window-maximum-hard-f63c40f71fd3)  
-[283. Move Zeroes (E)](https://medium.com/@markchen83115/leetcode-283-move-zeroes-easy-b8d4c8e1208c)  
-[435. Non-overlapping Intervals (M)](https://medium.com/@markchen83115/leetcode-435-non-overlapping-intervals-medium-6eeefee39c6b)  
-[525. Contiguous Array (M)](https://medium.com/@markchen83115/leetcode-525-contiguous-array-medium-4b16b2de57d8)  
-[560. Subarray Sum Equals K (M)](https://medium.com/@markchen83115/leetcode-560-subarray-sum-equals-k-medium-e99b27f11852)  
-[977. Squares of a Sorted Array (E)](https://medium.com/@markchen83115/leetcode-977-squares-of-a-sorted-array-easy-a7cdbb7ea287)  
+[011. Container With Most Water (M+)](https://hackmd.io/x8eAmORIQme2AHYVjomQPA?view)  
+[015. 3Sum (M)](https://hackmd.io/UDpXOzB_TW6be_-hhnYwZA?view)  
+[016. 3Sum Closest (M)](https://hackmd.io/bdMPOJdsQf63BSCLZt5Y6A?view)  
+[075. Sort Colors (M+)](https://hackmd.io/H2MWiPunSgm1LPMAd3_gjg?view)  
+[125. Valid Palindrome(E)](https://hackmd.io/eLJ1oBVtTMawK0Qulvjmeg?view)  
+[283. Move Zeroes (M)](https://hackmd.io/dHDMn0piTkKVUuCE-LRG3Q?view)  
+[977. Squares of a Sorted Array (E)](https://hackmd.io/hDA2bwzWR4W_HKNZHUrIsw?view)  
 
-> **HashMap**
-
-[1. Two Sum (E)](https://hackmd.io/p-86fLPOTsC_WEZpTYNCKg?view)  
+* `Sliding window`  
+[424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
+* `Sliding window : Distinct Characters`  
+[003. Longest Substring Without Repeating Characters (M)](https://hackmd.io/FqmVMnUlQbKuz3XJrBZxVQ?view)  
+[076. Minimum Window Substring (H)](https://hackmd.io/KYxO5ku4TYqU9YQ2HHJwDg?view)  
+[2537. Count the Number of Good Subarrays (M+)](https://hackmd.io/FqLVIl01SraQxqwWy2YZ0A?view)  
 
 
 
-> **String**
+> **Union Find**  
 
-[3. Longest Substring Without Repeating Characters (M)](https://hackmd.io/FqmVMnUlQbKuz3XJrBZxVQ?view)  
-[5. Longest Palindromic Substring (M)](https://medium.com/@markchen83115/leetcode-5-longest-palindromic-substring-medium-b453be63465c)  
-[8. String to Integer (atoi) (M)](https://medium.com/@markchen83115/leetcode-8-string-to-integer-atoi-medium-f6af12878642)  
-[14. Longest Common Prefix (E)](https://medium.com/@markchen83115/leetcode-14-longest-common-prefix-easy-67f8e7e214d)  
-[49. Group Anagrams (M)](https://medium.com/@markchen83115/leetcode-49-group-anagrams-medium-f080fb491a29)  
-[76. Minimum Window Substring (H)](https://medium.com/@markchen83115/76-minimum-window-substring-hard-655d91e805fc)  
-[125. Valid Palindrome(E)](https://medium.com/@markchen83115/leetcode-125-valid-palindrome-easy-689456625602)  
-[179. Largest Number (M)](https://medium.com/@markchen83115/leetcode-179-largest-number-medium-21868dff4a6c)  
-[242. Valid Anagram (E)](https://medium.com/@markchen83115/leetcode-242-valid-anagram-easy-f7f720b79e0d)  
-[336. Palindrome Pairs (H)](https://medium.com/@markchen83115/leetcode-336-palindrome-pairs-hard-30f68609909d)  
-[409. Longest Palindrome (E)](https://medium.com/@markchen83115/leetcode-409-longest-palindrome-easy-1b63f3f59ded)  
-[424. Longest Repeating Character Replacement (M)](https://medium.com/@markchen83115/leetcode-424-longest-repeating-character-replacement-medium-4cfde054788c)  
-[438. Find All Anagrams in a String (M)](https://medium.com/@markchen83115/leetcode-438-find-all-anagrams-in-a-string-medium-95df066d10c4)  
+[128. Longest Consecutive Sequence (H-)](https://hackmd.io/RIV_NM2ZRaqHwx8cZFCAFg?view)  
+[721. Accounts Merge (M+)](https://hackmd.io/Xb4feMS3RdeiBGMU-mqKbA?view)  
 
-> **Matrix**
+> **Greedy**  
 
-[36. Valid Sudoku (M)](https://medium.com/@markchen83115/leetcode-36-valid-sudoku-medium-5c32e4de2d00)  
-[37. Sudoku Solver (H)](https://medium.com/@markchen83115/leetcode-37-sudoku-solver-hard-c9d315732763)  
-[48. Rotate Image (M)](https://medium.com/@markchen83115/leetcode-48-rotate-image-medium-e19823ea9961)  
-[54. Spiral Matrix(M)](https://medium.com/@markchen83115/leetcode-54-spiral-matrix-medium-9c5e338fcfd)  
-[73. Set Matrix Zeroes (M)](https://medium.com/@markchen83115/leetcode-73-set-matrix-zeroes-medium-b4d39b21b10f)  
+[134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 
-> **Binary Search**
+* `Intervals`  
+[435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
+[1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
+* `Sort`  
+[179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
+[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
+* `Three Pass`  
+[2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
 
-[33. Search in Rotated Sorted Array (M)](https://medium.com/@markchen83115/leetcode-33-search-in-rotated-sorted-array-medium-5e5a10605fa8)  
-[278. First Bad Version (E)](https://medium.com/@markchen83115/leetcode-278-first-bad-version-easy-6627e4c545cc)  
-[704. Binary Search (E)](https://medium.com/@markchen83115/704-binary-search-easy-6f9a4d759255)  
-[981. Time Based Key-Value Store (M)](https://medium.com/@markchen83115/leetcode-981-time-based-key-value-store-medium-44d5e3d6d360)  
-[1235. Maximum Profit in Job Scheduling (H)](https://medium.com/@markchen83115/leetcode-1235-maximum-profit-in-job-scheduling-hard-b22b01245ef6)  
+> **Deque**  
 
-> **Graph**
+[239. Sliding Window Maximum (H-)](https://hackmd.io/npC3CaTlRim0EbYno2PsFg?view)  
+
+> **Priority Queue**  
+
+* `Sort+PQ`  
+[2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
+
+> **HashMap**  
+
+[001. Two Sum (E)](https://hackmd.io/p-86fLPOTsC_WEZpTYNCKg?view)  
+[049. Group Anagrams (M+)](https://hackmd.io/FKmmsGB-QD-ym-MICUW0Kg?view)  
+[217. Contains Duplicate (E)](https://hackmd.io/oLLdsZoDQpuPIcP-flzPdg?view)  
+[438. Find All Anagrams in a String (M)](https://hackmd.io/AugPdiZsSp2YTR_6GzADdQ?view)  
+[2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
+* `Hash+Prefix`  
+[525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
+[560. Subarray Sum Equals K (M)](https://hackmd.io/NUW0LxU4QimnkDewOAVr4g?view)  
+[2559. Count Vowel Strings in Ranges (M-)](https://hackmd.io/nYfodvlKTd-xPRmvGcAVLQ?view)  
+
+> **BackTracking**  
+
+[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
+
+> **String**  
+
+[008. String to Integer (atoi) (M)](https://hackmd.io/GjWKBGy6TmSTJfwNE-t4rA?view)  
+[014. Longest Common Prefix (E)](https://hackmd.io/HLSG36tsTsiUC2npRKwyMg?view)  
+[242. Valid Anagram (E)](https://hackmd.io/qDumxx3aQmeit23RZlj24A?view)  
+[336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
+[409. Longest Palindrome (E)](https://hackmd.io/i9Aif8A5S0-0c1zRRpQkBg?view)  
+
+* `Manacher`  
+[005. Longest Palindromic Substring (H)](https://hackmd.io/p4Idh9bpSiO41XWY9PIJLQ?view)  
 
 
+> **DFS**  
 
+[037. Sudoku Solver (M+)](https://hackmd.io/nS12B5FlTfC_fOpD8gnjOA?view)  
+[079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
+[200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
+[417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
+[733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
 
+> **BFS**  
+
+[127. Word Ladder(H)](https://hackmd.io/4x__rR2vShKpRM-Z6rVxQg?view)  
+[815. Bus Routes (M+)](https://hackmd.io/22U1ROYERHWq-ZXcpISmLw?view)  
+[994. Rotting Oranges (M)](https://hackmd.io/bfBJuM6MQpeyEBsG9Zp_1g?view)  
+
+* `拓扑排序`  
+[207. Course Schedule(H-)](https://hackmd.io/74G-1QzOR_SQHw-gpyz9wQ?view)  
+[210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
+[310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
+* `Dijkstra (BFS+PQ)`  
+[787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
+
+> **Trie**  
+
+[212. Word Search II (H)](https://hackmd.io/GvMtD1yNRYC0RH16NKP8Nw?view)  
+
+> **Tree**  
+
+[098. Validate Binary Search Tree (M)](https://hackmd.io/7-RKT4m_TeWyNCM19bVYKg?view)  
+[108. Convert Sorted Array to Binary Search Tree (E)](https://hackmd.io/xarDtpMwRcGNykuPFY0blw?view)  
+[110. Balanced Binary Tree (M+)](https://hackmd.io/tb1Q92p5Rcebzk7N45efMQ?view)  
+[226. Invert Binary Tree (M)](https://hackmd.io/u0536J0mTy-Q92ufPgqLGw?view)  
+[230. Kth Smallest Element in a BST (M)](https://hackmd.io/qrUsdIMiSiycHZIabDYAhQ?view)  
+
+* `LCA`  
+[235. Lowest Common Ancestor of a Binary Search Tree](https://hackmd.io/uYaKmosKTtyBRVtGUmZxyQ?view)  
+
+> **Binary Search**  
+
+[004. Median of Two Sorted Arrays(H)](https://hackmd.io/SuHppr9gT6GQksjDi9OOZQ?view)  
+[033. Search in Rotated Sorted Array (M)](https://hackmd.io/MIvR4t6QQOa2ZAFRsOaTyQ?view)  
+[074. Search a 2D Matrix (M)](https://hackmd.io/jlw0JaWGQxekpRXmo0nZ4g?view)  
+[153. Find Minimum in Rotated Sorted Array (M+)](https://hackmd.io/7-XWy0N8Q3iW2RwwP9VQ0g?view)  
+[278. First Bad Version (E)](https://hackmd.io/UPKecvtYRJm4gbkn7al5IQ?view)  
+[704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
+[981. Time Based Key-Value Store (M)](https://hackmd.io/u6b9tPeBRt26S2ysXimXIQ?view)  
+
+* `Binary Search by Value`  
+[2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
+[2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
+* `memorization`  
+[329. Longest Increasing Path in a Matrix (M)](https://hackmd.io/YaKwvp2UQJaaokyPyXIt4g?view)  
+
+> **Dynamic Programming**  
+
+[542. 01 Matrix (M)](https://hackmd.io/-nL8rzAlQHacc18cZv-rfg?view)  
+* `Enumeration`  
+[2552. Count Increasing Quadruplets (H-)](https://hackmd.io/63w0pWHnS7imHwm_YUewHQ?view)  
+
+> **Recursion**  
+
+[133. Clone Graph (M+)](https://hackmd.io/-Tjs6kg9RgmuQ0-9-UvJIQ?view)  
+
+> **Graph**  
+
+[2556. Disconnect Path in a Binary Matrix by at Most One Flip (H)](https://hackmd.io/Y72-pUmhTDyGetymI_MudQ?view)  
+
+> **Math**  
+
+* `Numerical Theory`  
+[2543. Check if Point Is Reachable (H)](https://hackmd.io/6HdEpR2dT5OnV1V0S_tPPQ?view)  
+
+> **Others**  
+
+[121. Best Time to Buy and Sell Stock (E)](https://hackmd.io/_iGjQ5UVTR2Ge-5UFarK2w?view)  
+[169. Majority Element (E)](https://hackmd.io/0-ieigwaRhSbmC-0cP8dcw?view)  
+[189. Rotate Array (M)](https://hackmd.io/vp2PMKmrQludRCmpHdjuKQ?view)  
+[238. Product of Array Except Self (M)](https://hackmd.io/mNZmK-UtTSGEtdv9rE-NOw?view)  
+[2550. Count Collisions of Monkeys on a Polygon (M-)](https://hackmd.io/_QzXJq50TL6qRBqcI8spLw?view)  
+* `掃描線/差分陣列`  
+[056. Merge Intervals (M)](https://hackmd.io/6jaM6VeJRX64oyNTD8kjgA?view)  
+[057. Insert Interval (M)](https://hackmd.io/zahPB5qUS2Og7socv5dqXw?view)  
+* `二維差分`  
+[2536. Increment Submatrices by One (H-)](https://hackmd.io/grkBOMRoRD-EzRTr_qb7xA?view)  
+* `Matrix`  
+[036. Valid Sudoku (M)](https://hackmd.io/PMgDKfUfTqGfoa1Ohm3Dpw?view)  
+[048. Rotate Image (M+)](https://hackmd.io/250xKM-WQjGrlHjlOEfh7w?view)  
+[054. Spiral Matrix(M)](https://hackmd.io/FWH6iLB1SOehkzC75NMYHw?view)  
+[073. Set Matrix Zeroes (M)](https://hackmd.io/7H4S6-EHQOaqoURYcP_T-A?view)  
 
 
 
