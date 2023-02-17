@@ -12,6 +12,7 @@
 [125. Valid Palindrome(E)](https://hackmd.io/eLJ1oBVtTMawK0Qulvjmeg?view)  
 [283. Move Zeroes (M)](https://hackmd.io/dHDMn0piTkKVUuCE-LRG3Q?view)  
 [977. Squares of a Sorted Array (E)](https://hackmd.io/hDA2bwzWR4W_HKNZHUrIsw?view)  
+[2563. Count the Number of Fair Pairs (M+)](https://hackmd.io/H0NhbPRZTluiVbB_kOjbtg?view)  
 
 * `Sliding window`  
 [424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
@@ -19,7 +20,6 @@
 [003. Longest Substring Without Repeating Characters (M)](https://hackmd.io/FqmVMnUlQbKuz3XJrBZxVQ?view)  
 [076. Minimum Window Substring (H)](https://hackmd.io/KYxO5ku4TYqU9YQ2HHJwDg?view)  
 [2537. Count the Number of Good Subarrays (M+)](https://hackmd.io/FqLVIl01SraQxqwWy2YZ0A?view)  
-
 
 
 > **Union Find**  
@@ -30,7 +30,7 @@
 > **Greedy**  
 
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
-
+[2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 * `Intervals`  
 [435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
 [1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
@@ -39,6 +39,7 @@
 [2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 * `Three Pass`  
 [2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
+[2565. Subsequence With the Minimum Score (H-)](https://hackmd.io/Rp--sEMRQUyjm0F1vQrjiw?view)  
 
 > **Deque**  
 
@@ -55,11 +56,11 @@
 [049. Group Anagrams (M+)](https://hackmd.io/FKmmsGB-QD-ym-MICUW0Kg?view)  
 [217. Contains Duplicate (E)](https://hackmd.io/oLLdsZoDQpuPIcP-flzPdg?view)  
 [438. Find All Anagrams in a String (M)](https://hackmd.io/AugPdiZsSp2YTR_6GzADdQ?view)  
-[2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 * `Hash+Prefix`  
 [525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
 [560. Subarray Sum Equals K (M)](https://hackmd.io/NUW0LxU4QimnkDewOAVr4g?view)  
 [2559. Count Vowel Strings in Ranges (M-)](https://hackmd.io/nYfodvlKTd-xPRmvGcAVLQ?view)  
+[2564. Substring XOR Queries (H-)](https://hackmd.io/nGAO7iK4Qdu1ejSr1kNOZw?view)  
 
 > **BackTracking**  
 
@@ -72,7 +73,8 @@
 [242. Valid Anagram (E)](https://hackmd.io/qDumxx3aQmeit23RZlj24A?view)  
 [336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
 [409. Longest Palindrome (E)](https://hackmd.io/i9Aif8A5S0-0c1zRRpQkBg?view)  
-
+* `KMP`  
+[572. Subtree of Another Tree (H)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)
 * `Manacher`  
 [005. Longest Palindromic Substring (H)](https://hackmd.io/p4Idh9bpSiO41XWY9PIJLQ?view)  
 
@@ -90,7 +92,6 @@
 [127. Word Ladder(H)](https://hackmd.io/4x__rR2vShKpRM-Z6rVxQg?view)  
 [815. Bus Routes (M+)](https://hackmd.io/22U1ROYERHWq-ZXcpISmLw?view)  
 [994. Rotting Oranges (M)](https://hackmd.io/bfBJuM6MQpeyEBsG9Zp_1g?view)  
-
 * `拓扑排序`  
 [207. Course Schedule(H-)](https://hackmd.io/74G-1QzOR_SQHw-gpyz9wQ?view)  
 [210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
@@ -105,13 +106,32 @@
 > **Tree**  
 
 [098. Validate Binary Search Tree (M)](https://hackmd.io/7-RKT4m_TeWyNCM19bVYKg?view)  
+[100. Same Tree (E)](https://hackmd.io/eAUpxVlGQDmftYE4FNRfAQ?view)  
+[101. Symmetric Tree (E)](https://hackmd.io/DXGAlYBvTlWEvAsQZI-cYQ?view)  
+[102. Binary Tree Level Order Traversal (M-)](https://hackmd.io/VkpuYURgR2C4SlLBbXLs2g?view)  
+[103. Binary Tree Zigzag Level Order Traversal (M-)](https://hackmd.io/8tilHPUGSgOwpTWwQ41jKA?view)  
+[104. Maximum Depth of Binary Tree (E)](https://hackmd.io/-FWezzI6RtmMBvavc-pALw?view)  
 [108. Convert Sorted Array to Binary Search Tree (E)](https://hackmd.io/xarDtpMwRcGNykuPFY0blw?view)  
 [110. Balanced Binary Tree (M+)](https://hackmd.io/tb1Q92p5Rcebzk7N45efMQ?view)  
+[199. Binary Tree Right Side View (M)](https://hackmd.io/6VitciErSK-XBcAjuLdTsw?view)  
 [226. Invert Binary Tree (M)](https://hackmd.io/u0536J0mTy-Q92ufPgqLGw?view)  
 [230. Kth Smallest Element in a BST (M)](https://hackmd.io/qrUsdIMiSiycHZIabDYAhQ?view)  
+[437. Path Sum III (H-)](https://hackmd.io/dEqZhjnWRM6oJE-KtHkmGw?view)  
+[572. Subtree of Another Tree (M)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)  
+[662. Maximum Width of Binary Tree (H-)](https://hackmd.io/DEsomi3iR2Gt96deXnOIbQ?view)  
+[863. All Nodes Distance K in Binary Tree (H-)](https://hackmd.io/4yiLqDvHR4iP6LHPV5O8WA?view)  
 
+* `Path in a tree`  
+[113. Path Sum II (M)](https://hackmd.io/F3aTPgoaQYuyZv9lQucwPg?view)  
+[124. Binary Tree Maximum Path Sum (M)](https://hackmd.io/ygtZ3IpTSWmVWc2DDYC6Qw?view)  
+[543. Diameter of Binary Tree (M)](https://hackmd.io/XwS59g56Tr6o7gnqKN7t3g?view)  
+* `Serialization & Hashing`  
+[297. Serialize and Deserialize Binary Tree (H-)](https://hackmd.io/793ybFN-QqWgAcfqXv9CzQ?view)  
+* `Tree & Sequence`  
+[105. Construct Binary Tree from Preorder and Inorder Traversal (H-)](https://hackmd.io/4hC6uXAVR7WBcwAeeWjI5g?view)  
 * `LCA`  
 [235. Lowest Common Ancestor of a Binary Search Tree](https://hackmd.io/uYaKmosKTtyBRVtGUmZxyQ?view)  
+[236. Lowest Common Ancestor of a Binary Tree (M+)](https://hackmd.io/ld2o1WqASS-dvsfjR_aLXg?view)  
 
 > **Binary Search**  
 
@@ -126,7 +146,7 @@
 * `Binary Search by Value`  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
 [2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
-* `memorization`  
+* `Memorization`  
 [329. Longest Increasing Path in a Matrix (M)](https://hackmd.io/YaKwvp2UQJaaokyPyXIt4g?view)  
 
 > **Dynamic Programming**  
@@ -146,6 +166,7 @@
 > **Math**  
 
 * `Numerical Theory`  
+[1071. Greatest Common Divisor of Strings (M)](https://hackmd.io/-jyxGTqHQPS6rASSk3SbqA?view)  
 [2543. Check if Point Is Reachable (H)](https://hackmd.io/6HdEpR2dT5OnV1V0S_tPPQ?view)  
 
 > **Others**  
