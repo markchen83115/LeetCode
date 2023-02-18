@@ -116,7 +116,7 @@
 [127. Word Ladder(H)](https://hackmd.io/4x__rR2vShKpRM-Z6rVxQg?view)  
 [815. Bus Routes (M+)](https://hackmd.io/22U1ROYERHWq-ZXcpISmLw?view)  
 [994. Rotting Oranges (M)](https://hackmd.io/bfBJuM6MQpeyEBsG9Zp_1g?view)  
-* `拓扑排序`  
+* `拓撲排序`  
 [207. Course Schedule(H-)](https://hackmd.io/74G-1QzOR_SQHw-gpyz9wQ?view)  
 [210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
 [310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
