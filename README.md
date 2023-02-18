@@ -3,6 +3,7 @@
 [**wisdompeak/LeetCode**](https://github.com/wisdompeak/LeetCode)  
 [**wisdompeak/YouTube**](https://www.youtube.com/@wisdompeak)  
 
+
 > **Two Pointers**  
 
 [011. Container With Most Water (M+)](https://hackmd.io/x8eAmORIQme2AHYVjomQPA?view)  
@@ -22,39 +23,29 @@
 [2537. Count the Number of Good Subarrays (M+)](https://hackmd.io/FqLVIl01SraQxqwWy2YZ0A?view)  
 
 
-> **Union Find**  
+> **Binary Search**  
 
-[128. Longest Consecutive Sequence (H-)](https://hackmd.io/RIV_NM2ZRaqHwx8cZFCAFg?view)  
-[721. Accounts Merge (M+)](https://hackmd.io/Xb4feMS3RdeiBGMU-mqKbA?view)  
+[004. Median of Two Sorted Arrays(H)](https://hackmd.io/SuHppr9gT6GQksjDi9OOZQ?view)  
+[033. Search in Rotated Sorted Array (M)](https://hackmd.io/MIvR4t6QQOa2ZAFRsOaTyQ?view)  
+[074. Search a 2D Matrix (M)](https://hackmd.io/jlw0JaWGQxekpRXmo0nZ4g?view)  
+[153. Find Minimum in Rotated Sorted Array (M+)](https://hackmd.io/7-XWy0N8Q3iW2RwwP9VQ0g?view)  
+[278. First Bad Version (E)](https://hackmd.io/UPKecvtYRJm4gbkn7al5IQ?view)  
+[704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
+[981. Time Based Key-Value Store (M)](https://hackmd.io/u6b9tPeBRt26S2ysXimXIQ?view)  
 
-> **Greedy**  
+* `Binary Search by Value`  
+[2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
+[2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
+* `Memorization`  
+[329. Longest Increasing Path in a Matrix (M)](https://hackmd.io/YaKwvp2UQJaaokyPyXIt4g?view)  
 
-[134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
-[2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
-* `Intervals`  
-[435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
-[1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
-* `Sort`  
-[179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
-[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
-* `Three Pass`  
-[2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
-[2565. Subsequence With the Minimum Score (H-)](https://hackmd.io/Rp--sEMRQUyjm0F1vQrjiw?view)  
-
-> **Deque**  
-
-[239. Sliding Window Maximum (H-)](https://hackmd.io/npC3CaTlRim0EbYno2PsFg?view)  
-
-> **Priority Queue**  
-
-* `Sort+PQ`  
-[2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
 
 > **HashMap**  
 
 [001. Two Sum (E)](https://hackmd.io/p-86fLPOTsC_WEZpTYNCKg?view)  
 [049. Group Anagrams (M+)](https://hackmd.io/FKmmsGB-QD-ym-MICUW0Kg?view)  
 [217. Contains Duplicate (E)](https://hackmd.io/oLLdsZoDQpuPIcP-flzPdg?view)  
+[383. Ransom Note (E)](https://hackmd.io/0qN9FP00SECXb4jnQqaj9g?view)  
 [438. Find All Anagrams in a String (M)](https://hackmd.io/AugPdiZsSp2YTR_6GzADdQ?view)  
 * `Hash+Prefix`  
 [525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
@@ -62,46 +53,6 @@
 [2559. Count Vowel Strings in Ranges (M-)](https://hackmd.io/nYfodvlKTd-xPRmvGcAVLQ?view)  
 [2564. Substring XOR Queries (H-)](https://hackmd.io/nGAO7iK4Qdu1ejSr1kNOZw?view)  
 
-> **BackTracking**  
-
-[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
-
-> **String**  
-
-[008. String to Integer (atoi) (M)](https://hackmd.io/GjWKBGy6TmSTJfwNE-t4rA?view)  
-[014. Longest Common Prefix (E)](https://hackmd.io/HLSG36tsTsiUC2npRKwyMg?view)  
-[242. Valid Anagram (E)](https://hackmd.io/qDumxx3aQmeit23RZlj24A?view)  
-[336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
-[409. Longest Palindrome (E)](https://hackmd.io/i9Aif8A5S0-0c1zRRpQkBg?view)  
-* `KMP`  
-[572. Subtree of Another Tree (H)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)
-* `Manacher`  
-[005. Longest Palindromic Substring (H)](https://hackmd.io/p4Idh9bpSiO41XWY9PIJLQ?view)  
-
-
-> **DFS**  
-
-[037. Sudoku Solver (M+)](https://hackmd.io/nS12B5FlTfC_fOpD8gnjOA?view)  
-[079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
-[200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
-[417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
-[733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
-
-> **BFS**  
-
-[127. Word Ladder(H)](https://hackmd.io/4x__rR2vShKpRM-Z6rVxQg?view)  
-[815. Bus Routes (M+)](https://hackmd.io/22U1ROYERHWq-ZXcpISmLw?view)  
-[994. Rotting Oranges (M)](https://hackmd.io/bfBJuM6MQpeyEBsG9Zp_1g?view)  
-* `拓扑排序`  
-[207. Course Schedule(H-)](https://hackmd.io/74G-1QzOR_SQHw-gpyz9wQ?view)  
-[210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
-[310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
-* `Dijkstra (BFS+PQ)`  
-[787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
-
-> **Trie**  
-
-[212. Word Search II (H)](https://hackmd.io/GvMtD1yNRYC0RH16NKP8Nw?view)  
 
 > **Tree**  
 
@@ -133,21 +84,50 @@
 [235. Lowest Common Ancestor of a Binary Search Tree](https://hackmd.io/uYaKmosKTtyBRVtGUmZxyQ?view)  
 [236. Lowest Common Ancestor of a Binary Tree (M+)](https://hackmd.io/ld2o1WqASS-dvsfjR_aLXg?view)  
 
-> **Binary Search**  
 
-[004. Median of Two Sorted Arrays(H)](https://hackmd.io/SuHppr9gT6GQksjDi9OOZQ?view)  
-[033. Search in Rotated Sorted Array (M)](https://hackmd.io/MIvR4t6QQOa2ZAFRsOaTyQ?view)  
-[074. Search a 2D Matrix (M)](https://hackmd.io/jlw0JaWGQxekpRXmo0nZ4g?view)  
-[153. Find Minimum in Rotated Sorted Array (M+)](https://hackmd.io/7-XWy0N8Q3iW2RwwP9VQ0g?view)  
-[278. First Bad Version (E)](https://hackmd.io/UPKecvtYRJm4gbkn7al5IQ?view)  
-[704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
-[981. Time Based Key-Value Store (M)](https://hackmd.io/u6b9tPeBRt26S2ysXimXIQ?view)  
+> **Design**  
 
-* `Binary Search by Value`  
-[2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
-[2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
-* `Memorization`  
-[329. Longest Increasing Path in a Matrix (M)](https://hackmd.io/YaKwvp2UQJaaokyPyXIt4g?view)  
+[380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
+
+
+> **Deque**  
+
+[239. Sliding Window Maximum (H-)](https://hackmd.io/npC3CaTlRim0EbYno2PsFg?view)  
+
+
+> **Priority Queue**  
+
+* `Sort+PQ`  
+[2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
+
+
+> **DFS**  
+
+[037. Sudoku Solver (M+)](https://hackmd.io/nS12B5FlTfC_fOpD8gnjOA?view)  
+[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
+[079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
+[200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
+[417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
+[733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
+
+
+> **BFS**  
+
+[127. Word Ladder(H)](https://hackmd.io/4x__rR2vShKpRM-Z6rVxQg?view)  
+[815. Bus Routes (M+)](https://hackmd.io/22U1ROYERHWq-ZXcpISmLw?view)  
+[994. Rotting Oranges (M)](https://hackmd.io/bfBJuM6MQpeyEBsG9Zp_1g?view)  
+* `拓扑排序`  
+[207. Course Schedule(H-)](https://hackmd.io/74G-1QzOR_SQHw-gpyz9wQ?view)  
+[210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
+[310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
+* `Dijkstra (BFS+PQ)`  
+[787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
+
+
+> **Trie**  
+
+[212. Word Search II (H)](https://hackmd.io/GvMtD1yNRYC0RH16NKP8Nw?view)  
+
 
 > **Dynamic Programming**  
 
@@ -155,19 +135,57 @@
 * `Enumeration`  
 [2552. Count Increasing Quadruplets (H-)](https://hackmd.io/63w0pWHnS7imHwm_YUewHQ?view)  
 
+
+> **String**  
+
+[008. String to Integer (atoi) (M)](https://hackmd.io/GjWKBGy6TmSTJfwNE-t4rA?view)  
+[014. Longest Common Prefix (E)](https://hackmd.io/HLSG36tsTsiUC2npRKwyMg?view)  
+[242. Valid Anagram (E)](https://hackmd.io/qDumxx3aQmeit23RZlj24A?view)  
+[336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
+[409. Longest Palindrome (E)](https://hackmd.io/i9Aif8A5S0-0c1zRRpQkBg?view)  
+* `KMP`  
+[572. Subtree of Another Tree (H)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)
+* `Manacher`  
+[005. Longest Palindromic Substring (H)](https://hackmd.io/p4Idh9bpSiO41XWY9PIJLQ?view)  
+
+
+> **Union Find**  
+
+[128. Longest Consecutive Sequence (H-)](https://hackmd.io/RIV_NM2ZRaqHwx8cZFCAFg?view)  
+[721. Accounts Merge (M+)](https://hackmd.io/Xb4feMS3RdeiBGMU-mqKbA?view)  
+
+
 > **Recursion**  
 
 [133. Clone Graph (M+)](https://hackmd.io/-Tjs6kg9RgmuQ0-9-UvJIQ?view)  
 
+
 > **Graph**  
 
 [2556. Disconnect Path in a Binary Matrix by at Most One Flip (H)](https://hackmd.io/Y72-pUmhTDyGetymI_MudQ?view)  
+
 
 > **Math**  
 
 * `Numerical Theory`  
 [1071. Greatest Common Divisor of Strings (M)](https://hackmd.io/-jyxGTqHQPS6rASSk3SbqA?view)  
 [2543. Check if Point Is Reachable (H)](https://hackmd.io/6HdEpR2dT5OnV1V0S_tPPQ?view)  
+
+
+> **Greedy**  
+
+[134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
+[2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
+* `Intervals`  
+[435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
+[1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
+* `Sort`  
+[179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
+[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
+* `Three Pass`  
+[2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
+[2565. Subsequence With the Minimum Score (H-)](https://hackmd.io/Rp--sEMRQUyjm0F1vQrjiw?view)  
+
 
 > **Others**  
 
