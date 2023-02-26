@@ -10,8 +10,10 @@
 [015. 3Sum (M)](https://hackmd.io/UDpXOzB_TW6be_-hhnYwZA?view)  
 [016. 3Sum Closest (M)](https://hackmd.io/bdMPOJdsQf63BSCLZt5Y6A?view)  
 [075. Sort Colors (M+)](https://hackmd.io/H2MWiPunSgm1LPMAd3_gjg?view)  
+[141. Linked List Cycle (E+)](https://hackmd.io/2tu3y96TQIm1mAM_4qBvtA?view)  
 [125. Valid Palindrome(E)](https://hackmd.io/eLJ1oBVtTMawK0Qulvjmeg?view)  
 [283. Move Zeroes (M)](https://hackmd.io/dHDMn0piTkKVUuCE-LRG3Q?view)  
+[876. Middle of the Linked List (E)](https://hackmd.io/_aZ7GjtpQK6f-JKBbn0cGw?view)  
 [977. Squares of a Sorted Array (E)](https://hackmd.io/hDA2bwzWR4W_HKNZHUrIsw?view)  
 [2563. Count the Number of Fair Pairs (M+)](https://hackmd.io/H0NhbPRZTluiVbB_kOjbtg?view)  
 
@@ -89,6 +91,8 @@
 
 [380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
 
+* `Linked List`  
+[146. LRU Cache (H-)](https://hackmd.io/BAvst0prT22nnJuXSuDBPw?view)  
 
 > **Deque**  
 
@@ -104,7 +108,7 @@
 > **DFS**  
 
 [037. Sudoku Solver (M+)](https://hackmd.io/nS12B5FlTfC_fOpD8gnjOA?view)  
-[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
+[051. N-Queens (M)](https://hackmd.io/5Xw54RPpR5WQcswEL5ZqFA?view)  
 [079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
 [200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
 [417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
@@ -127,6 +131,20 @@
 > **Trie**  
 
 [212. Word Search II (H)](https://hackmd.io/GvMtD1yNRYC0RH16NKP8Nw?view)  
+
+
+> **Linked List**  
+
+[002. Add Two Numbers (M)](https://hackmd.io/Q0ioGfoURzaToMIf7foOuQ?view)  
+[019. Remove Nth Node From End of List (M)](https://hackmd.io/gaw_XFAtSFeu9YBhPpuUlg?view)  
+[021. Merge Two Sorted Lists (E)](https://hackmd.io/WtFPFyXURBybpkvr8OtnIA?view)  
+[024. Swap Nodes in Pairs (M)](https://hackmd.io/UEA19rHSRXW0tMx56OR53A?view)  
+[148. Sort List (M+)](https://hackmd.io/Lkb4VzPSQc2DueFs-e72Bw?view)  
+[234. Palindrome Linked List (M)](https://hackmd.io/u1FXKGFMSjWsaRslZdU7gA?view)  
+* `Reverse Linked List`  
+[143. Reorder List (H-)](https://hackmd.io/fSjgtryRTJS6tnTzcZ245A?view)  
+[206. Reverse Linked List (M)](https://hackmd.io/LG8Sqj39QfWNy7mMgC5VMQ?view)  
+[328. Odd Even Linked List (M)](https://hackmd.io/7yN5VgKSR-uEIBnNbAxxYw?view)  
 
 
 > **Dynamic Programming**  
@@ -167,24 +185,36 @@
 
 > **Math**  
 
+[031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
 * `Numerical Theory`  
 [1071. Greatest Common Divisor of Strings (M)](https://hackmd.io/-jyxGTqHQPS6rASSk3SbqA?view)  
 [2543. Check if Point Is Reachable (H)](https://hackmd.io/6HdEpR2dT5OnV1V0S_tPPQ?view)  
+* `Combinatorics`  
+[017. Letter Combinations of a Phone Number (M)](https://hackmd.io/2wp7NvXzQr6fUX2m2HOcZA?view)  
+[022. Generate Parentheses (M)](https://hackmd.io/5t2VvHVYS9i5UCq7pCvFFw?view)
+[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
+[046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
+[078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
 
 
 > **Greedy**  
 
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
-* `Intervals`  
-[435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
-[1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
-* `Sort`  
-[179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
-[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 * `Three Pass`  
 [2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
 [2565. Subsequence With the Minimum Score (H-)](https://hackmd.io/Rp--sEMRQUyjm0F1vQrjiw?view)  
+* `Sort`  
+[179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
+[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
+* `Indexing Sort`  
+[041. First Missing Positive (H)](https://hackmd.io/WxZ3KFXAQDCJNVLtddLhSg?view)  
+* `Intervals`  
+[435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
+[1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
+* `Constructive Problems`  
+[2568. Minimum Impossible OR (H-)](https://hackmd.io/kFBnG7fwT-iQn5HClvO06w?view)  
+[2571. Minimum Operations to Reduce an Integer to 0 (H-)](https://hackmd.io/ti9hkKdHSg-ky3CsL5yPww?view)  
 
 
 > **Others**  
