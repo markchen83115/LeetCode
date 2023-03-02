@@ -10,8 +10,8 @@
 [015. 3Sum (M)](https://hackmd.io/UDpXOzB_TW6be_-hhnYwZA?view)  
 [016. 3Sum Closest (M)](https://hackmd.io/bdMPOJdsQf63BSCLZt5Y6A?view)  
 [075. Sort Colors (M+)](https://hackmd.io/H2MWiPunSgm1LPMAd3_gjg?view)  
-[141. Linked List Cycle (E+)](https://hackmd.io/2tu3y96TQIm1mAM_4qBvtA?view)  
 [125. Valid Palindrome(E)](https://hackmd.io/eLJ1oBVtTMawK0Qulvjmeg?view)  
+[141. Linked List Cycle (E+)](https://hackmd.io/2tu3y96TQIm1mAM_4qBvtA?view)  
 [283. Move Zeroes (M)](https://hackmd.io/dHDMn0piTkKVUuCE-LRG3Q?view)  
 [876. Middle of the Linked List (E)](https://hackmd.io/_aZ7GjtpQK6f-JKBbn0cGw?view)  
 [977. Squares of a Sorted Array (E)](https://hackmd.io/hDA2bwzWR4W_HKNZHUrIsw?view)  
@@ -90,9 +90,13 @@
 > **Design**  
 
 [380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
-
 * `Linked List`  
 [146. LRU Cache (H-)](https://hackmd.io/BAvst0prT22nnJuXSuDBPw?view)  
+
+> **Stack**  
+
+[020. Valid Parentheses (E)](https://hackmd.io/56uVRQcBQRWcW6VBQdfCxA?view)  
+[232. Implement Queue using Stacks (H-)](https://hackmd.io/9lt-MDD6S_uV3XM2RJosFA?view)  
 
 > **Deque**  
 
@@ -139,9 +143,11 @@
 [019. Remove Nth Node From End of List (M)](https://hackmd.io/gaw_XFAtSFeu9YBhPpuUlg?view)  
 [021. Merge Two Sorted Lists (E)](https://hackmd.io/WtFPFyXURBybpkvr8OtnIA?view)  
 [024. Swap Nodes in Pairs (M)](https://hackmd.io/UEA19rHSRXW0tMx56OR53A?view)  
+[061. Rotate List (M)](https://hackmd.io/WmRQAHY4Q8WnmX0xES3YMA?view)
 [148. Sort List (M+)](https://hackmd.io/Lkb4VzPSQc2DueFs-e72Bw?view)  
 [234. Palindrome Linked List (M)](https://hackmd.io/u1FXKGFMSjWsaRslZdU7gA?view)  
 * `Reverse Linked List`  
+[025. Reverse Nodes in k-Group (M+)](https://hackmd.io/vNu5AzwWS9i9x0_x4MCy0Q?view)  
 [143. Reorder List (H-)](https://hackmd.io/fSjgtryRTJS6tnTzcZ245A?view)  
 [206. Reverse Linked List (M)](https://hackmd.io/LG8Sqj39QfWNy7mMgC5VMQ?view)  
 [328. Odd Even Linked List (M)](https://hackmd.io/7yN5VgKSR-uEIBnNbAxxYw?view)  
