@@ -1,0 +1,76 @@
+# Leetcode - 242. Valid Anagram (E)
+
+[Leetcode](https://leetcode.com/problems/valid-anagram/)
+
+Given two strings `s` and `t`, return `true` _if_ `t` _is an anagram of_ `s`_, and_ `false` _otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+```
+Input: s = "anagram", t = "nagaram"  
+Output: true
+```
+**Example 2:**
+```
+Input: s = "rat", t = "car"  
+Output: false
+```
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 104`
+-   `s` and `t` consist of lowercase English letters.
+
+**Follow up:** What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
+
+---
+
+```java
+// Java  
+class Solution {  
+    public boolean isAnagram(String s, String t) {  
+        if (s.length() != t.length()) {  
+            return false;  
+        }  
+        int[] alphabet = new int[26];  
+        for (int i = 0; i < s.length(); i++) {  
+            alphabet[s.charAt(i) - 'a']++;  
+            alphabet[t.charAt(i) - 'a']--;  
+        }  
+        for (int i : alphabet) {  
+            if (i != 0) {  
+                return false;  
+            }  
+        }  
+        return true;  
+    }  
+}
+```
+
+```csharp
+// C#  
+public class Solution {  
+    public bool IsAnagram(string s, string t) {  
+        if (s.Length != t.Length)  
+            return false;  
+          
+        int[] alphabet = new int[26];  
+        for (int i = 0; i < s.Length; i++) {  
+            alphabet[s[i] - 'a']++;  
+            alphabet[t[i] - 'a']--;  
+        }  
+        foreach (int i in alphabet) {  
+            if (i != 0) {  
+                return false;  
+            }  
+        }  
+        return true;  
+    }  
+}
+```
+
+可以用HashMap來儲存各字母個數,  
+但是使用Array的話速度更快
+
+
+###### tags: `Leetcode` `String`
