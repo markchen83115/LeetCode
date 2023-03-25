@@ -92,6 +92,7 @@
 > **Design**  
 
 [380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
+[895. Maximum Frequency Stack (H)](https://hackmd.io/Ft9A6CTXRgm_jQNBlIJd6A?view)  
 * `Linked List`  
 [146. LRU Cache (H-)](https://hackmd.io/BAvst0prT22nnJuXSuDBPw?view)  
 
