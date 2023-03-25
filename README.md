@@ -101,8 +101,11 @@
 [150. Evaluate Reverse Polish Notation (M-)](https://hackmd.io/OpbQq_S1QhezQGp47F_D3w?view)  
 [155. Min Stack (M)](https://hackmd.io/nS9PCzHbQeWAQ6WlQlR5uQ?view)  
 [232. Implement Queue using Stacks (H-)](https://hackmd.io/9lt-MDD6S_uV3XM2RJosFA?view)  
+[844. Backspace String Compare (E)](https://hackmd.io/Amn7VLxsQwe-Tu82C0VX3A?view)  
 * `Monotonic stack: next greater / smaller`  
 [042. Trapping Rain Water (H)](https://hackmd.io/YMAInEDXQcqfEPQ6YcWMoQ?view)  
+[084. Largest Rectangle in Histogram (H)](https://hackmd.io/Ui10lnE1Q7CfhxvTI0ADDg?view)  
+[739. Daily Temperatures (H-)](https://hackmd.io/ZM26Gp6kRxqYSjOreT2uzA?view)  
 * `Parse expression`  
 [224. Basic Calculator (H-)](https://hackmd.io/_mKJUa0nROyP8lzo9Y79pA?view)  
 
@@ -200,7 +203,7 @@
 > **Math**  
 
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
-[2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
+[2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/_QVr0XzzRS6A27Yd_vDuRw?view)  
 * `Numerical Theory`  
 [1071. Greatest Common Divisor of Strings (M)](https://hackmd.io/-jyxGTqHQPS6rASSk3SbqA?view)  
 [2543. Check if Point Is Reachable (H)](https://hackmd.io/6HdEpR2dT5OnV1V0S_tPPQ?view)  
