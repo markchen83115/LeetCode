@@ -34,6 +34,7 @@
 [278. First Bad Version (E)](https://hackmd.io/UPKecvtYRJm4gbkn7al5IQ?view)  
 [704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
 [981. Time Based Key-Value Store (M)](https://hackmd.io/u6b9tPeBRt26S2ysXimXIQ?view)  
+[2602. Minimum Operations to Make All Array Elements Equal](https://hackmd.io/fxrC1FxMTY-OaUxpW2VelA?view)  
 
 * `Binary Search by Value`  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
