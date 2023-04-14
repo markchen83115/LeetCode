@@ -39,7 +39,7 @@
 * `Binary Search by Value`  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
 [2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
-[2616. Minimize the Maximum Difference of Pairs](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
+[2616. Minimize the Maximum Difference of Pairs (M)](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
 * `Memorization`  
 [329. Longest Increasing Path in a Matrix (M)](https://hackmd.io/YaKwvp2UQJaaokyPyXIt4g?view)  
 
@@ -56,6 +56,7 @@
 [560. Subarray Sum Equals K (M)](https://hackmd.io/NUW0LxU4QimnkDewOAVr4g?view)  
 [2559. Count Vowel Strings in Ranges (M-)](https://hackmd.io/nYfodvlKTd-xPRmvGcAVLQ?view)  
 [2564. Substring XOR Queries (H-)](https://hackmd.io/nGAO7iK4Qdu1ejSr1kNOZw?view)  
+[2615. Sum of Distances (M+)](https://hackmd.io/W7TX0o7qS3KSLm60u4F96A?view)  
 
 
 > **Tree**  
