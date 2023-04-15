@@ -58,7 +58,7 @@ class Solution {
 ```
 
 ```java
-// Java 27ms(97.51%), 
+// Java 27ms(97.51%), Time O(N), Space O(N)
 class Solution {
     public long[] distance(int[] nums) {
         int n = nums.length;

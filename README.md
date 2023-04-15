@@ -16,7 +16,6 @@
 [876. Middle of the Linked List (E)](https://hackmd.io/_aZ7GjtpQK6f-JKBbn0cGw?view)  
 [977. Squares of a Sorted Array (E)](https://hackmd.io/hDA2bwzWR4W_HKNZHUrIsw?view)  
 [2563. Count the Number of Fair Pairs (M+)](https://hackmd.io/H0NhbPRZTluiVbB_kOjbtg?view)  
-
 * `Sliding window`  
 [424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
 * `Sliding window : Distinct Characters`  
@@ -35,7 +34,6 @@
 [704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
 [981. Time Based Key-Value Store (M)](https://hackmd.io/u6b9tPeBRt26S2ysXimXIQ?view)  
 [2602. Minimum Operations to Make All Array Elements Equal (M)](https://hackmd.io/fxrC1FxMTY-OaUxpW2VelA?view)  
-
 * `Binary Search by Value`  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
 [2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
@@ -102,6 +100,7 @@
 > **Stack**  
 
 [020. Valid Parentheses (E)](https://hackmd.io/56uVRQcBQRWcW6VBQdfCxA?view)  
+[032. Longest Valid Parentheses (H)](https://hackmd.io/I1cr1hY_TmSTXTpUfNcwZw?view)  
 [150. Evaluate Reverse Polish Notation (M-)](https://hackmd.io/OpbQq_S1QhezQGp47F_D3w?view)  
 [155. Min Stack (M)](https://hackmd.io/nS9PCzHbQeWAQ6WlQlR5uQ?view)  
 [232. Implement Queue using Stacks (H-)](https://hackmd.io/9lt-MDD6S_uV3XM2RJosFA?view)  
