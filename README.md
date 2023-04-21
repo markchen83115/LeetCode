@@ -262,7 +262,8 @@
 [048. Rotate Image (M+)](https://hackmd.io/250xKM-WQjGrlHjlOEfh7w?view)  
 [054. Spiral Matrix(M)](https://hackmd.io/FWH6iLB1SOehkzC75NMYHw?view)  
 [073. Set Matrix Zeroes (M)](https://hackmd.io/7H4S6-EHQOaqoURYcP_T-A?view)  
-
+* `Quick Select`  
+[973. K Closest Points to Origin (M)](https://hackmd.io/Wgx84rPhTpKx-rXfXrP6Kw?view)  
 
 
 ###### tags: `Leetcode`
