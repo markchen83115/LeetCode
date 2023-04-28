@@ -57,6 +57,10 @@
 [2615. Sum of Distances (M+)](https://hackmd.io/W7TX0o7qS3KSLm60u4F96A?view)  
 
 
+> **Heap**  
+
+[295. Find Median from Data Stream (M)](https://hackmd.io/0pwBxH5CTqeCr8s60i9K5w?view)  
+
 > **Tree**  
 
 [098. Validate Binary Search Tree (M)](https://hackmd.io/7-RKT4m_TeWyNCM19bVYKg?view)  
