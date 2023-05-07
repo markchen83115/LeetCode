@@ -126,6 +126,7 @@
 
 > **Priority Queue**  
 
+[023. Merge k Sorted Lists (M)](https://hackmd.io/8APIRMu-TQyweSfZfcSG1g?view)  
 * `Sort+PQ`  
 [2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
 
@@ -224,7 +225,7 @@
 [039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
 [046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
 [078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
-[2597. The Number of Beautiful Subsets (M)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
+[2597. The Number of Beautiful Subsets f(M)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
 
 > **Greedy**  
 
