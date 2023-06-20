@@ -63,6 +63,7 @@
 > **Heap**  
 
 [295. Find Median from Data Stream (M)](https://hackmd.io/0pwBxH5CTqeCr8s60i9K5w?view)  
+[632. Smallest Range Covering Elements from K Lists (H-)](https://hackmd.io/xh4o28IcS-ugjUYrBNMJkA?view)  
 
 > **Tree**  
 
