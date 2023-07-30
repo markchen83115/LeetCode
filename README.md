@@ -166,6 +166,7 @@
 [139. Word Break (M+)](https://hackmd.io/KMhA0O3WQZmg2a0WN2QhVQ?view)  
 [208. Implement Trie (Prefix Tree) (M+)](https://hackmd.io/hTfwjbjXRmWUYGZdWR7SWA?view)  
 [212. Word Search II (H)](https://hackmd.io/GvMtD1yNRYC0RH16NKP8Nw?view)  
+[211. Design Add and Search Words Data Structure (H-)](https://hackmd.io/_ewYhc3vQuGAp9hrfKm1Fg?view)  
 
 
 > **Linked List**  
