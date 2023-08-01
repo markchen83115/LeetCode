@@ -188,8 +188,8 @@
 > **Dynamic Programming**  
 
 [542. 01 Matrix (M)](https://hackmd.io/-nL8rzAlQHacc18cZv-rfg?view)  
-* `Enumeration`  
-[2552. Count Increasing Quadruplets (H-)](https://hackmd.io/63w0pWHnS7imHwm_YUewHQ?view)  
+* `背包型`  
+[322. Coin Change (M)](https://hackmd.io/vhhrL8qgQau79weQZNWNYw?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
 
@@ -273,6 +273,8 @@
 [057. Insert Interval (M)](https://hackmd.io/zahPB5qUS2Og7socv5dqXw?view)  
 * `二維差分`  
 [2536. Increment Submatrices by One (H-)](https://hackmd.io/grkBOMRoRD-EzRTr_qb7xA?view)  
+* `Enumeration`  
+[2552. Count Increasing Quadruplets (H-)](https://hackmd.io/63w0pWHnS7imHwm_YUewHQ?view)  
 * `Matrix`  
 [036. Valid Sudoku (M)](https://hackmd.io/PMgDKfUfTqGfoa1Ohm3Dpw?view)  
 [048. Rotate Image (M+)](https://hackmd.io/250xKM-WQjGrlHjlOEfh7w?view)  
