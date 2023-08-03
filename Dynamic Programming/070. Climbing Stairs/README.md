@@ -50,4 +50,4 @@ dp[i] = can use how many ways to climb to step i
 
 
 
-###### tags: `Leetcode`
+###### tags: `Leetcode` `Dynamic Programming`

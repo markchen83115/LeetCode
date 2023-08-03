@@ -191,6 +191,7 @@
 [542. 01 Matrix (M)](https://hackmd.io/-nL8rzAlQHacc18cZv-rfg?view)  
 * `背包型`  
 [322. Coin Change (M)](https://hackmd.io/vhhrL8qgQau79weQZNWNYw?view)  
+[416. Partition Equal Subset Sum (M+)](https://hackmd.io/lYSTVhpdT4Kc1Gai_wufPQ?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
 
