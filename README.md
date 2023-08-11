@@ -187,6 +187,7 @@
 
 > **Dynamic Programming**  
 
+[062. Unique Paths (E+)](https://hackmd.io/2O_4F8f4TrWs6OteKDAnLQ?view)  
 [070. Climbing Stairs (E)](https://hackmd.io/GGHxb1AEQCG3oAfmBbBYJQ?view)  
 [542. 01 Matrix (M)](https://hackmd.io/-nL8rzAlQHacc18cZv-rfg?view)  
 * `背包型`  
