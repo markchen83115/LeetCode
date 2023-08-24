@@ -248,6 +248,8 @@
 
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
+* `LIS`  
+[300. Longest Increasing Subsequence (M+)](https://hackmd.io/FXtQ9HvFRpWcA8qvaRUhqA?view)  
 * `Three Pass`  
 [042. Trapping Rain Water (H-)](https://hackmd.io/YMAInEDXQcqfEPQ6YcWMoQ?view)  
 [2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
