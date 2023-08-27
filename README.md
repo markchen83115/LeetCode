@@ -246,6 +246,7 @@
 
 > **Greedy**  
 
+[055. Jump Game (E+)](https://hackmd.io/8i4V4KnRRd-vf8HWvbayvA?view)  
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 * `LIS`  
