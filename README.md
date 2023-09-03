@@ -41,6 +41,7 @@
 [2616. Minimize the Maximum Difference of Pairs (M)](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
 * `Find K-th Element`    
 [215. Kth Largest Element in an Array (M)](https://hackmd.io/RSCDGNUnTBCtm0mCPjAHAA?view)  
+[287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  
 * `Memorization`  
 [329. Longest Increasing Path in a Matrix (M)](https://hackmd.io/YaKwvp2UQJaaokyPyXIt4g?view)  
 
@@ -265,6 +266,7 @@
 [2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 * `Indexing Sort`  
 [041. First Missing Positive (H)](https://hackmd.io/WxZ3KFXAQDCJNVLtddLhSg?view)  
+[287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  
 * `Intervals`  
 [435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
 [1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
