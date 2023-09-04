@@ -205,6 +205,11 @@
 [152. Maximum Product Subarray (M+)](https://hackmd.io/i_bOj3PVS0qkvSRdV0Y80w?view)  
 
 
+> **Bit Manipulation**  
+
+[136. Single Number (M)](https://hackmd.io/1J1WnQUvSGydJkMfs5LLnQ?view)  
+
+
 > **String**  
 
 [008. String to Integer (atoi) (M)](https://hackmd.io/GjWKBGy6TmSTJfwNE-t4rA?view)  
