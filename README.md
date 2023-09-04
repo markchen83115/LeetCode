@@ -300,6 +300,7 @@
 [973. K Closest Points to Origin (M)](https://hackmd.io/Wgx84rPhTpKx-rXfXrP6Kw?view)  
 * `位元計算`
 [067. Add Binary (E+)](https://hackmd.io/CjMSo-M5SyqhERQzYrCsOw?view)  
+[191. Number of 1 Bits (E+)](https://hackmd.io/lJ9pYcSOQx6JxihNBnqRHg?view)  
 [338. Counting Bits (E)](https://hackmd.io/FwPzLKj0QHmatwLNCxmP9g?view)  
 
 
