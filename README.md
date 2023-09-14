@@ -178,6 +178,7 @@
 [021. Merge Two Sorted Lists (E)](https://hackmd.io/WtFPFyXURBybpkvr8OtnIA?view)  
 [024. Swap Nodes in Pairs (M)](https://hackmd.io/UEA19rHSRXW0tMx56OR53A?view)  
 [061. Rotate List (M)](https://hackmd.io/WmRQAHY4Q8WnmX0xES3YMA?view)  
+[138. Copy List with Random Pointer (H-)](https://hackmd.io/-Fr_m7MOS3m7YhI3ycMyCQ?view)  
 [148. Sort List (M+)](https://hackmd.io/Lkb4VzPSQc2DueFs-e72Bw?view)  
 [234. Palindrome Linked List (M)](https://hackmd.io/u1FXKGFMSjWsaRslZdU7gA?view)  
 * `Reverse Linked List`  
