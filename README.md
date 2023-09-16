@@ -54,6 +54,7 @@
 [383. Ransom Note (E)](https://hackmd.io/0qN9FP00SECXb4jnQqaj9g?view)  
 [438. Find All Anagrams in a String (M)](https://hackmd.io/AugPdiZsSp2YTR_6GzADdQ?view)  
 [1282. Group the People Given the Group Size They Belong To (E+)](https://hackmd.io/6BHd4_B4QEa3hRaeuAdLlw?view)  
+[1647. Minimum Deletions to Make Character Frequencies Unique (M-)](https://hackmd.io/ypzKIA_-SoCnloiv-VivNw?view)  
 * `Hash+Prefix`  
 [525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
 [560. Subarray Sum Equals K (M)](https://hackmd.io/NUW0LxU4QimnkDewOAVr4g?view)  
