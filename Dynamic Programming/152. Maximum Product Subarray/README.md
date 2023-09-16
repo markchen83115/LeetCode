@@ -30,19 +30,18 @@ Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length;
-        int left = 1, right = 1;
+        int[][] dp = new int[n][2];
         int ret = nums[0];
+        dp[0][0] = nums[0];
+        dp[0][1] = nums[0];
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
+            // Max product of subarray which end at i
+            dp[i][0] = Math.max( Math.max(dp[i-1][0] * nums[i], dp[i-1][1] * nums[i]), nums[i]);
+            // Min product of subarray which end at i
+            dp[i][1] = Math.min( Math.min(dp[i-1][0] * nums[i], dp[i-1][1] * nums[i]), nums[i]);
 
-            //if any of left or right become 0 then update it to 1
-            left = left == 0 ? 1 : left;
-            right = right == 0 ? 1 : right;
-
-            left *= nums[i];
-            right *= nums[n - 1 - i];
-
-            ret = Math.max(ret, Math.max(left, right));
+            ret = Math.max( Math.max(ret, dp[i][0]), dp[i][1]);
         }
         return ret;
     }
@@ -80,9 +79,10 @@ class Solution {
 ```
 ---
 
+[wisdompeak/YouTube解說](https://www.youtube.com/watch?v=LQuZkqx16PU)
+
 > 解法1
 
-[wisdompeak/YouTube解說](https://www.youtube.com/watch?v=LQuZkqx16PU)
 `dp[i]`為以i為結尾的subarray的最大值
 
 因為乘法的關係, 
