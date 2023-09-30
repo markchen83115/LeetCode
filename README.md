@@ -250,6 +250,8 @@
 [013. Roman to Integer (E)](https://hackmd.io/s9Q_ZndPQmGMvPGnGK54Lg?view)  
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
 [2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/_QVr0XzzRS6A27Yd_vDuRw?view)  
+* `Random Pick`  
+[528. Random Pick with Weight (H-)](https://hackmd.io/0kgp_H0OTUGjgSrqCvu2DA?view)  
 * `Numerical Theory`  
 [1071. Greatest Common Divisor of Strings (M)](https://hackmd.io/-jyxGTqHQPS6rASSk3SbqA?view)  
 [2543. Check if Point Is Reachable (H)](https://hackmd.io/6HdEpR2dT5OnV1V0S_tPPQ?view)  
