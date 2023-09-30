@@ -247,6 +247,7 @@
 
 > **Math**  
 
+[013. Roman to Integer (E)](https://hackmd.io/s9Q_ZndPQmGMvPGnGK54Lg?view)  
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
 [2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/_QVr0XzzRS6A27Yd_vDuRw?view)  
 * `Numerical Theory`  
