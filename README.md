@@ -295,6 +295,7 @@
 > **Others**  
 
 [007. Reverse Integer (M)](https://hackmd.io/kU8Z_p6nQLuFV9oXTwt9-g?view)  
+[009. Palindrome Number](https://hackmd.io/aYPUp-iLTSCak2e_k3WUGQ?view)  
 [121. Best Time to Buy and Sell Stock (E)](https://hackmd.io/_iGjQ5UVTR2Ge-5UFarK2w?view)  
 [169. Majority Element (E)](https://hackmd.io/0-ieigwaRhSbmC-0cP8dcw?view)  
 [189. Rotate Array (M)](https://hackmd.io/vp2PMKmrQludRCmpHdjuKQ?view)  
