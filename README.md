@@ -18,6 +18,7 @@
 [2563. Count the Number of Fair Pairs (M+)](https://hackmd.io/H0NhbPRZTluiVbB_kOjbtg?view)  
 * `Sliding window`  
 [424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
+[1838. Frequency of the Most Frequent Element (H-)](https://hackmd.io/qtnEb_l3SEaKXSX5195G6Q?view)  
 * `Sliding window : Distinct Characters`  
 [003. Longest Substring Without Repeating Characters (M)](https://hackmd.io/FqmVMnUlQbKuz3XJrBZxVQ?view)  
 [076. Minimum Window Substring (H)](https://hackmd.io/KYxO5ku4TYqU9YQ2HHJwDg?view)  
