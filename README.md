@@ -203,6 +203,8 @@
 [2707. Extra Characters in a String (M)](https://hackmd.io/Rqt7M9ZuRv2RV4UqMF0Ssg?view)  
 * `基本型 I`  
 [198. House Robber (E)](https://hackmd.io/LRCcfTSdQ8CVW0MOVajV_A?view)  
+* `走迷宮型`  
+[576. Out of Boundary Paths (H)](https://hackmd.io/2AZVmHafR-azmJO7V_jJgQ?view)  
 * `背包型`  
 [322. Coin Change (M)](https://hackmd.io/vhhrL8qgQau79weQZNWNYw?view)  
 [416. Partition Equal Subset Sum (M+)](https://hackmd.io/lYSTVhpdT4Kc1Gai_wufPQ?view)  
