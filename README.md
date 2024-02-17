@@ -139,6 +139,7 @@
 [023. Merge k Sorted Lists (M)](https://hackmd.io/8APIRMu-TQyweSfZfcSG1g?view)  
 [692. Top K Frequent Words (M)](https://hackmd.io/biSWEJK1QAiaJaxMughlrg?view)  
 [1337. The K Weakest Rows in a Matrix (E)](https://hackmd.io/XYcCvhQHQ9SMVEnw3m-4lA?view)  
+[1642. Furthest Building You Can Reach (H-)](https://hackmd.io/g35hZhyCRMCaZh83yZ9J0A?view)  
 * `Sort+PQ`  
 [2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
 * `Arrangement with Stride`  
