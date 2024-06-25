@@ -88,6 +88,7 @@
 [572. Subtree of Another Tree (M)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)  
 [662. Maximum Width of Binary Tree (H-)](https://hackmd.io/DEsomi3iR2Gt96deXnOIbQ?view)  
 [863. All Nodes Distance K in Binary Tree (H-)](https://hackmd.io/4yiLqDvHR4iP6LHPV5O8WA?view)  
+[1038. Binary Search Tree to Greater Sum Tree (M)](https://hackmd.io/GbHlfmjESkCLc_rANzABYg?view)  
 [2385. Amount of Time for Binary Tree to Be Infected (M)](https://hackmd.io/pxlU0qguRySU4WZTtY1jTg?view)
 
 * `Path in a tree`  
