@@ -282,6 +282,7 @@
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 [1717. Maximum Score From Removing Substrings (M+)](https://hackmd.io/Rq_i1gViQJ6QmpQqjS_aww?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
+[3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
 * `LIS`  
 [300. Longest Increasing Subsequence (M+)](https://hackmd.io/FXtQ9HvFRpWcA8qvaRUhqA?view)  
 * `Three Pass`  

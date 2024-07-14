@@ -29,29 +29,37 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 
 
 ```java
-// Java  
-class Solution {  
-    public int characterReplacement(String s, int k) {  
-        int start = 0, end = 0;  
-        int[] freq = new int[26];  
-        int maxLen = 0, maxFreq = 0;  
-        while (end < s.length()) {  
-            freq[s.charAt(end) - 'A']++;  
-            maxFreq = Math.max(maxFreq, freq[s.charAt(end) - 'A']);  
-            //length - max frequency <= k furfill  
-            while (end - start + 1 - maxFreq > k) {  
-                freq[s.charAt(start) - 'A']--;  
-                maxFreq = Math.max(maxFreq, freq[s.charAt(start) - 'A']);  
-                start++;  
-            }  
-            maxLen = Math.max(maxLen, end - start + 1);  
-            end++;  
-        }  
-        return maxLen;  
-    }  
+// Java 5ms (Beats 98.03%), Time O(N), Space O(N)
+class Solution {
+    public int characterReplacement(String s, int k) {
+        //max frequency + k = max length
+        int[] freq = new int[26];
+        int maxFreq = 0;
+        int maxLen = 0;
+        int j = 0;
+        for (int i = 0; i < s.length(); i++)
+        {
+            char end = s.charAt(i);
+            freq[end - 'A']++;
+            maxFreq = Math.max(maxFreq, freq[end - 'A']);
+
+            while (maxFreq + k < i - j + 1)
+            {
+                char start = s.charAt(j);
+                freq[start - 'A']--;
+                j++;
+                maxFreq = 0;
+                for (int t = 0; t < 26; t++)    //find maxFreq
+                    maxFreq = Math.max(maxFreq, freq[t]);
+            }
+
+            maxLen = Math.max(maxLen, i - j + 1);
+        }
+
+        return maxLen;
+    }
 }
 ```
-
 ---
 
 question means  
