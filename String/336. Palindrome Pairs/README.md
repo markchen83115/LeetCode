@@ -41,61 +41,65 @@ Explanation: The palindromes are ["a","a"]
 ---
 
 ```java
-// Java 150ms -> beats 95%  
-class Solution {  
-    public List<List<Integer>> palindromePairs(String[] words) {  
-        List<List<Integer>> ret = new ArrayList<>();  
-        HashMap<String, Integer> map = new HashMap<>();  
-        Set<Integer> set = new TreeSet<>();  
-        for (int i = 0; i < words.length; i++) {  
-            map.put(words[i], i);  
-            set.add(words[i].length());  
-        }  
-  
-        for (int i = 0; i < words.length; i++) {  
-            String reverse = new StringBuilder(words[i]).reverse().toString();  
-            // all reverse words  
-            if (map.containsKey(reverse) && map.get(reverse) != i) {  
-                ret.add(Arrays.asList(i, map.get(reverse)));  
-            }  
-  
-            // partial reverse words  
-            // sssll -> llsss  
-            for (int k : set) {  
-                int length = reverse.length();  
-                if (k == length) {  
-                    break;  
-                }  
-                // forward  
-                if (isPalindrome(reverse, 0, length - 1 - k)) {  
-                    String str1 = reverse.substring(length - k);  
-                    if (map.containsKey(str1)) {  
-                        ret.add(Arrays.asList(i, map.get(str1)));  
-                    }  
-                }  
-                //backward  
-                if (isPalindrome(reverse, k, length - 1)) {  
-                    String str2 = reverse.substring(0, k);  
-                    if (map.containsKey(str2)) {  
-                        ret.add(Arrays.asList(map.get(str2), i));  
-                    }  
-                }  
-            }  
-        }  
-        return ret;  
-    }  
-  
-    public boolean isPalindrome(String str, int i, int j) {  
-        while(i < j) {  
-            if (str.charAt(i++) != str.charAt(j--)) {  
-                return false;  
-            }  
-        }  
-        return true;  
-    }  
+// Java 120ms(Beats 90.96%), Time O(N^2), Space O(N)
+class Solution {
+    public List<List<Integer>> palindromePairs(String[] words) {
+        List<List<Integer>> ret = new LinkedList<>();
+        Map<String, Integer> map = new HashMap<>();
+        Set<Integer> lengthSet = new TreeSet<>();
+        for (int i = 0; i < words.length; i++)
+        {
+            map.put(words[i], i);
+            lengthSet.add(words[i].length());
+        }
+
+        for (int i = 0; i < words.length; i++)
+        {
+            // reverse entire word
+            StringBuilder sb = new StringBuilder(words[i]);
+            String reverse = sb.reverse().toString();
+            if (map.containsKey(reverse) && i != map.get(reverse))
+                ret.add(Arrays.asList(i, map.get(reverse)));
+
+            // reverse partial word
+            // ex: ssall -> llass (reverse)
+            int n = reverse.length();
+            for (int k : lengthSet)
+            {
+                if (k == n)
+                    break;
+                
+                // front "ll"aass
+                if (isPalindrome(reverse, 0, n - 1 - k))
+                {
+                    String partial = reverse.substring(n - k, n);
+                    if (map.containsKey(partial))
+                        ret.add(Arrays.asList(i, map.get(partial)));
+                }
+
+                // back llaa"ss"
+                if (isPalindrome(reverse, k, n - 1))
+                {
+                    String partial = reverse.substring(0, k);
+                    if (map.containsKey(partial))
+                        ret.add(Arrays.asList(map.get(partial), i));
+                }
+            }
+        }
+
+        return ret;
+    }
+
+    boolean isPalindrome(String s, int i, int j)
+    {
+        while (i < j)
+            if (s.charAt(i++) != s.charAt(j--))
+                return false;
+            
+        return true;
+    }
 }
 ```
-
 
 ```csharp
 // C#  
