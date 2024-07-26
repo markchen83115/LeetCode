@@ -173,7 +173,7 @@
 [210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
 [310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
 * `Dijkstra (BFS+PQ)`  
-[787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
+
 
 
 > **Trie**  
@@ -258,6 +258,8 @@
 
 [2556. Disconnect Path in a Binary Matrix by at Most One Flip (H)](https://hackmd.io/Y72-pUmhTDyGetymI_MudQ?view)  
 [2642. Design Graph With Shortest Path Calculator (M+)](https://hackmd.io/CJeJ-Op9RFSYIARsOSi0SA?view)  
+* `Dijkstra`  
+[787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
 
 > **Math**  
 
@@ -295,6 +297,7 @@
 [2565. Subsequence With the Minimum Score (H-)](https://hackmd.io/Rp--sEMRQUyjm0F1vQrjiw?view)  
 * `Sort`  
 [179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
+[912. Sort an Array (M)](https://hackmd.io/6qda4YskQhqhHs_iE2Nd9A?view)  
 [2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 * `Indexing Sort`  
 [041. First Missing Positive (H)](https://hackmd.io/WxZ3KFXAQDCJNVLtddLhSg?view)  
