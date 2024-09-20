@@ -240,9 +240,11 @@
 [336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
 [409. Longest Palindrome (E)](https://hackmd.io/i9Aif8A5S0-0c1zRRpQkBg?view)  
 * `KMP`  
+[214. Shortest Palindrome (H)](https://hackmd.io/adqTPiuBQV-sFpcgdzEKRw?view)  
 [572. Subtree of Another Tree (H)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)
 * `Manacher`  
 [005. Longest Palindromic Substring (H)](https://hackmd.io/p4Idh9bpSiO41XWY9PIJLQ?view)  
+[214. Shortest Palindrome (H)](https://hackmd.io/adqTPiuBQV-sFpcgdzEKRw?view)  
 
 > **Union Find**  
 
