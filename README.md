@@ -160,6 +160,7 @@
 [051. N-Queens (M)](https://hackmd.io/5Xw54RPpR5WQcswEL5ZqFA?view)  
 [079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
 [200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
+[386. Lexicographical Numbers (M)](https://hackmd.io/OByI-KdNQ3mcIJebyzLnug?view)  
 [417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
 [733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
 
@@ -255,6 +256,9 @@
 > **Recursion**  
 
 [133. Clone Graph (M+)](https://hackmd.io/-Tjs6kg9RgmuQ0-9-UvJIQ?view)  
+* `Evaluate Expressions`  
+
+  
 
 
 > **Graph**  
