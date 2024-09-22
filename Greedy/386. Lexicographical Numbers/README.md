@@ -23,7 +23,6 @@ Output: [1,2]
 ---
 ```java
 // Java DFS 1ms (Beats 100.00%), Time O(N), Space O(1)
-
 class Solution {
     List<Integer> ret = new ArrayList<>();
     public List<Integer> lexicalOrder(int n) {

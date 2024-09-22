@@ -257,8 +257,8 @@
 [133. Clone Graph (M+)](https://hackmd.io/-Tjs6kg9RgmuQ0-9-UvJIQ?view)  
 * `Evaluate Expressions`  
 [241. Different Ways to Add Parentheses (M+)](https://hackmd.io/oSfzL2xHQpea8lRCbIlTOg?view)  
-  
-
+* `Digit counting & finding`  
+[440. K-th Smallest in Lexicographical Order (H-)](https://hackmd.io/S4N2vf5zQiSWZJHKhxzA2A?view)  
 
 > **Graph**  
 
