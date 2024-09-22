@@ -1,4 +1,4 @@
-# Leetcode - 386. Lexicographical Numbers (M)
+# Leetcode - 386. Lexicographical Numbers (H)
 
 [Leetcode](https://leetcode.com/problems/lexicographical-numbers/)
 
@@ -47,10 +47,45 @@ class Solution {
     }
 }  
 ```
+```java
+// Java 6ms(Beats 25.95%), Time O(N), Space O(1)
+class Solution {
+    public List<Integer> lexicalOrder(int n) {
+        List<Integer> ret = new ArrayList<>();
+        ret.add(1);
+        int i = 1;
+        while (ret.size() < n)
+        {
+            if (i * 10 <= n)
+            {
+                i *= 10;
+                ret.add(i);
+            }
+            else
+            {
+                while (i+1 > n || (i % 10) == 9)
+                    i /= 10;
+                i++;
+                ret.add(i);
+            }
+        }
+
+        return ret;
+    }
+}
+```
+
 ---
+解1: DFS
 ```
        1        2        3    ...
       /\        /\       /\
    10 ...19  20...29  30...39   ....
 ```
-###### tags: `Leetcode` `DFS`
+
+解2:
+對於字典序列的next，核心就是
+1.  嘗試往後加0, 否则
+2.  找最低的、加1不需要進位的位置，在該位置加1後，捨棄之後的位置即可。
+
+###### tags: `Leetcode` `Greedy`

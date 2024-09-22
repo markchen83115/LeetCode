@@ -160,7 +160,6 @@
 [051. N-Queens (M)](https://hackmd.io/5Xw54RPpR5WQcswEL5ZqFA?view)  
 [079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
 [200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
-[386. Lexicographical Numbers (M)](https://hackmd.io/OByI-KdNQ3mcIJebyzLnug?view)  
 [417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
 [733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
 
@@ -293,6 +292,7 @@
 
 [055. Jump Game (E+)](https://hackmd.io/8i4V4KnRRd-vf8HWvbayvA?view)  
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
+[386. Lexicographical Numbers (H)](https://hackmd.io/OByI-KdNQ3mcIJebyzLnug?view)  
 [1717. Maximum Score From Removing Substrings (M+)](https://hackmd.io/Rq_i1gViQJ6QmpQqjS_aww?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 [3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
