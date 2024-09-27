@@ -34,32 +34,29 @@ myCalendar.book(20, 30); // return True, The event can be booked, as the first e
 
 ---
 ```java
-// Java 25ms(Beats 43.96%), Time O(NlogN), Space O(2N)
+// Java Key 22ms(Beats 62.47%), Time O(NlogN), Space O(N)
 class MyCalendar {
-    TreeMap<Integer, Integer> startMap;
-    TreeMap<Integer, Integer> endMap;
+    TreeMap<Integer, Integer> map;
     public MyCalendar() {
-        startMap = new TreeMap<>();
-        endMap = new TreeMap<>();
+        map = new TreeMap<>();
     }
     
     public boolean book(int start, int end) {
-        Integer biggerEnd = endMap.ceilingKey(start + 1);
-        Integer smallerStart = startMap.floorKey(end - 1);
-        if (biggerEnd != null && endMap.get(biggerEnd) < end)
+        Integer smaller = map.floorKey(start);
+        Integer bigger = map.ceilingKey(start);
+        if (smaller != null && start < map.get(smaller))
             return false;
-        if (smallerStart != null && start < startMap.get(smallerStart))
+        if (bigger != null && bigger < end)
             return false;
         
-        startMap.put(start, end);
-        endMap.put(end, start);
+        map.put(start, end);
         return true;
     }
 }
 ```
 
 ```java
-// Java 22ms(Beats 62.47%), Time O(NlogN), Space O(N)
+// Java Entry 22ms(Beats 62.47%), Time O(NlogN), Space O(N)
 class MyCalendar {
     TreeMap<Integer, Integer> map;
     public MyCalendar() {
