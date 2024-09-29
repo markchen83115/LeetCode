@@ -21,6 +21,7 @@
 [1838. Frequency of the Most Frequent Element (H-)](https://hackmd.io/qtnEb_l3SEaKXSX5195G6Q?view)  
 [1248. Count Number of Nice Subarrays (M+)](https://hackmd.io/TYgGvpOOSCqvJJtk5hQBUQ?view)  
 [2962. Count Subarrays Where Max Element Appears at Least K Times (M)](https://hackmd.io/ujvXJ5r9SNOUxi0D5zsATw?view)  
+[3298. Count Substrings That Can Be Rearranged to Contain a String II (M+)](https://hackmd.io/VFsZVSYfQwuMXJ-W8i5riQ?view)  
 * `Sliding window : Distinct Characters`  
 [003. Longest Substring Without Repeating Characters (M)](https://hackmd.io/FqmVMnUlQbKuz3XJrBZxVQ?view)  
 [076. Minimum Window Substring (H)](https://hackmd.io/KYxO5ku4TYqU9YQ2HHJwDg?view)  
