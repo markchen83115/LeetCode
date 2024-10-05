@@ -45,7 +45,6 @@ Output: 3
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
         while (root != null || !stack.isEmpty()) {
             while (root != null) {
                 stack.push(root);
