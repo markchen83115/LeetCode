@@ -323,6 +323,7 @@
 [041. First Missing Positive (H)](https://hackmd.io/WxZ3KFXAQDCJNVLtddLhSg?view)  
 [287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  
 * `Parenthesis`  
+[921. Minimum Add to Make Parentheses Valid (M+)](https://hackmd.io/NkxBUYnuRsGHAtphQB-AtQ?view)  
 [1963. Minimum Number of Swaps to Make the String Balanced (M+)](https://hackmd.io/nF4CrGSERriY6bBKk2FtXg?view)  
 * `Intervals`  
 [435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
