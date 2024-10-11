@@ -158,6 +158,8 @@
 [692. Top K Frequent Words (M)](https://hackmd.io/biSWEJK1QAiaJaxMughlrg?view)  
 [1337. The K Weakest Rows in a Matrix (E)](https://hackmd.io/XYcCvhQHQ9SMVEnw3m-4lA?view)  
 [1642. Furthest Building You Can Reach (H-)](https://hackmd.io/g35hZhyCRMCaZh83yZ9J0A?view)  
+* `Dual PQ`  
+[1942. The Number of the Smallest Unoccupied Chair (M+)](https://hackmd.io/vTalAppXRDmp6ORqfaoBHQ?view)  
 * `Sort+PQ`  
 [2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
 * `Arrangement with Stride`  
