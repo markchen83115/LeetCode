@@ -109,6 +109,7 @@
 [297. Serialize and Deserialize Binary Tree (H-)](https://hackmd.io/793ybFN-QqWgAcfqXv9CzQ?view)  
 * `Tree & Sequence`  
 [105. Construct Binary Tree from Preorder and Inorder Traversal (H-)](https://hackmd.io/4hC6uXAVR7WBcwAeeWjI5g?view)  
+[106. Construct Binary Tree from Inorder and Postorder Traversal (M+)](https://hackmd.io/oHLC03E2Qp6uzm7v2FD9sA?view)  
 * `LCA`  
 [235. Lowest Common Ancestor of a Binary Search Tree](https://hackmd.io/uYaKmosKTtyBRVtGUmZxyQ?view)  
 [236. Lowest Common Ancestor of a Binary Tree (M+)](https://hackmd.io/ld2o1WqASS-dvsfjR_aLXg?view)  

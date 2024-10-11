@@ -68,9 +68,14 @@ class Solution {
     //             V L   R                      L  V  R
 }
 ```
-
-
-
 ---
+
+參考 [LeetCode/Tree/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal at master · wisdompeak/LeetCode ( github.com )](https://github.com/wisdompeak/LeetCode/tree/master/Tree/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal)
+
+本題是經典的二元樹操作。考慮到preorder的第一個元素必定是root；所以在inorder中找到對應root的位置後，其左邊就是左子樹的所有節點的中序遍歷，右邊就是右子樹的所有節點的中序遍歷。
+
+那麼如何在preorder序列裡面區分出哪些是左子樹的節點，哪些是右子樹的節點呢？透過inorder序列裡左子樹節點的數目！假設inorder序列裡左子樹節點的數目為N，那麼在preorder序列裡，root之後的N個元素就是左子樹的先序遍歷，剩下的元素就是右子樹的先序遍歷。
+
+注意，需要事先依照inorder建立Hash表，這樣從preorder確定root後，就可以立即查找到其在inorder裡的位置。
 
 ###### tags: `Leetcode` `Tree` `Tree & Sequence`
