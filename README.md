@@ -162,6 +162,7 @@
 * `Dual PQ`  
 [1942. The Number of the Smallest Unoccupied Chair (M+)](https://hackmd.io/vTalAppXRDmp6ORqfaoBHQ?view)  
 * `Sort+PQ`  
+[2406. Divide Intervals Into Minimum Number of Groups (M+)](https://hackmd.io/osojF1FFTViLCdE8OTfJZA?view)  
 [2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
 * `Arrangement with Stride`  
 [621. Task Scheduler (H-)](https://hackmd.io/-u00TYypT5Svc8VZTNIqCA?view)  
