@@ -166,6 +166,7 @@
 [2542. Maximum Subsequence Score (M+)](https://hackmd.io/SVdVzaCSRLyiMIggBLfhrQ?view)  
 * `Arrangement with Stride`  
 [621. Task Scheduler (H-)](https://hackmd.io/-u00TYypT5Svc8VZTNIqCA?view)  
+[1405. Longest Happy String (H-)](https://hackmd.io/Y5lIBY5zTYGsboNnv9HR-A?view)  
 
 
 > **DFS**  
