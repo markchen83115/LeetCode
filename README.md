@@ -314,6 +314,7 @@
 [055. Jump Game (E+)](https://hackmd.io/8i4V4KnRRd-vf8HWvbayvA?view)  
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 [386. Lexicographical Numbers (H)](https://hackmd.io/OByI-KdNQ3mcIJebyzLnug?view)  
+[670. Maximum Swap (M+)](https://hackmd.io/xu6MzC_NQIOY8N56EJC30g?view)  
 [1717. Maximum Score From Removing Substrings (M+)](https://hackmd.io/Rq_i1gViQJ6QmpQqjS_aww?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 [3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
