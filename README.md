@@ -150,6 +150,7 @@
 [227. Basic Calculator II (H-)](https://hackmd.io/aWEcLthSRvqTqYYA_PGK_w?view)  
 [1106. Parsing A Boolean Expression (H-)](https://hackmd.io/J21g96XnSBiFZqx7Voa3FQ?view)  
 
+
 > **Deque**  
 
 [239. Sliding Window Maximum (H-)](https://hackmd.io/npC3CaTlRim0EbYno2PsFg?view)  
@@ -179,6 +180,8 @@
 [200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
 [417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
 [733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
+* `search in an array`  
+[1593. Split a String Into the Max Number of Unique Substrings (M)](https://hackmd.io/bqoA_2ynSwazvWchcqyYjA?view)  
 
 
 > **BFS**  
@@ -191,7 +194,6 @@
 [210. Course Schedule II (M)](https://hackmd.io/bnNyVXVlT1mrZxPweRnR_Q?view)  
 [310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
 * `Dijkstra (BFS+PQ)`  
-
 
 
 > **Trie**  
