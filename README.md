@@ -292,7 +292,6 @@
 > **Math**  
 
 [013. Roman to Integer (E)](https://hackmd.io/s9Q_ZndPQmGMvPGnGK54Lg?view)  
-[031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
 [050. Pow(x, n) (M)](https://hackmd.io/qQPe9P7DSN6LqLOqQdb7KQ?view)  
 [1497. Check If Array Pairs Are Divisible by k (M-)](https://hackmd.io/8YJaqvBeTUWlvIx9rdzm2g?view)  
 [2191. Sort the Jumbled Numbers (M)](https://hackmd.io/nWEyn88ISaiTx9iAofx_kw?view)  
@@ -319,8 +318,13 @@
 [386. Lexicographical Numbers (H)](https://hackmd.io/OByI-KdNQ3mcIJebyzLnug?view)  
 [670. Maximum Swap (M+)](https://hackmd.io/xu6MzC_NQIOY8N56EJC30g?view)  
 [1717. Maximum Score From Removing Substrings (M+)](https://hackmd.io/Rq_i1gViQJ6QmpQqjS_aww?view)  
+[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 [3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
+* `Boyer-Moore Majority Voting`  
+* `Lexicographical Sequence`  
+[031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
+* `DI Sequence`  
 * `LIS`  
 [300. Longest Increasing Subsequence (M+)](https://hackmd.io/FXtQ9HvFRpWcA8qvaRUhqA?view)  
 * `Three Pass`  
@@ -331,7 +335,6 @@
 [179. Largest Number (H-)](https://hackmd.io/1f5C43F6Rh6oUvadqfJMag?view)  
 [731. My Calendar II (M+)](https://hackmd.io/6zQzWhvGS5u_K4uQeRzRMA?view)  
 [912. Sort an Array (M)](https://hackmd.io/6qda4YskQhqhHs_iE2Nd9A?view)  
-[2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 * `Indexing Sort`  
 [041. First Missing Positive (H)](https://hackmd.io/WxZ3KFXAQDCJNVLtddLhSg?view)  
 [287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  

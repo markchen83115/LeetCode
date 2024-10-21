@@ -1,4 +1,4 @@
-# Leetcode - 31. Next Permutation (H)
+# Leetcode - 31. Next Permutation (M)
 
 [Leetcode](https://leetcode.com/problems/next-permutation/description/)
 
@@ -38,7 +38,7 @@ Output: [1,5,1]
 
 ---
 ```java
-// Java
+// Java 0ms(Beats 100%), Time O(N), Space O(N)
 class Solution {
     public void nextPermutation(int[] nums) {
         if (nums.length == 1)  return;
@@ -70,6 +70,48 @@ class Solution {
     }
 }
 ```
+```java
+// Java 0ms(Beats 100%), Time O(N), Space O(N)
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int i = nums.length - 1;
+        while(i >= 1 && nums[i - 1] >= nums[i])
+            i--;
+
+        // 如果整個數列為遞增數列 -> 答案為從小排到大 (example 2)
+        if (i == 0)
+        {
+            Arrays.sort(nums);
+            return;
+        }
+
+        i--;
+        // 找到第一個大於nums[i]的數字 並將其交換, 剩餘數字由小排到大
+        // 1 5 3 5 4 3 2
+        // 1 5 4 5 3 3 2
+        int j = nums.length - 1;
+        while (nums[i] >= nums[j])   
+            j--;
+        
+        swap(nums, i ,j);
+        sort(nums, i + 1, nums.length - 1);
+    }
+
+    void swap(int[] nums, int i, int j)
+    {
+        int tmp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = tmp;
+    }
+
+    void sort(int[] nums, int i, int j)
+    {
+        while (i < j)
+            swap(nums, i++, j--);
+    }
+}
+
+```
 
 ---
 [參考官方解答](https://leetcode.com/problems/next-permutation/solutions/127524/next-permutation/?orderBy=most_votes)
@@ -77,4 +119,4 @@ class Solution {
 
 
 
-###### tags: `Leetcode` `Math`
+###### tags: `Leetcode` `Greedy` `Lexicographical Sequence`
