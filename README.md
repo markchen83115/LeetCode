@@ -322,6 +322,7 @@
 [2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 [3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
+[3326. Minimum Division Operations to Make Array Non Decreasing (M)](https://hackmd.io/mbgIEA_SQTyDkKPcnmHP3w?view)  
 * `Boyer-Moore Majority Voting`  
 * `Lexicographical Sequence`  
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
