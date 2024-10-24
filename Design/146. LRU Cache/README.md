@@ -42,78 +42,84 @@ lRUCache.get(4);    // return 4
 ---
 
 ```java
-// Java
+// Java 43ms(Beats 86.35%), Time O(1), Space O(N)
 class LRUCache {
-    class Node {
+    class ListNode {
         int key;
-        int value;
-        Node next;
-        Node prev;
+        int val;
+        ListNode prev;
+        ListNode next;
     }
 
-    HashMap<Integer, Node> nodeMap;
-    Node head = new Node();
-    Node tail = new Node();
-    int capacity;
+    int n = 0;
+    ListNode head, tail;
+    HashMap<Integer, ListNode> key2Node;
     public LRUCache(int capacity) {
-        nodeMap = new HashMap<>();
-        this.capacity = capacity;
+        this.n = capacity;
+        head = new ListNode();
+        tail = new ListNode();
         head.next = tail;
         tail.prev = head;
+        key2Node = new HashMap<>();
     }
-    
+    // head x x x x x tail
+    //          k
     public int get(int key) {
-        int val = -1;
-        Node node = nodeMap.get(key);
-        if (node != null) {
-            val = node.value;
-            remove(node);
-            addHead(node);
-        }
-        return val;
+        if (!key2Node.containsKey(key))
+            return -1;
+        ListNode k = key2Node.get(key);
+        updateCache(k);
+
+        return k.val;
     }
     
     public void put(int key, int value) {
-        Node node = nodeMap.get(key);
-        if (node != null) {
-            node.value = value;
-            remove(node);
-            addHead(node);
-        } else {
-            if (capacity == nodeMap.size()) {    // full
-                nodeMap.remove(tail.prev.key);
-                remove(tail.prev);
-            }
-            Node newNode = new Node();
-            newNode.key = key;
-            newNode.value = value;
-            nodeMap.put(key, newNode);
-            addHead(newNode);
+        if (key2Node.containsKey(key))
+        {
+            ListNode k = key2Node.get(key);
+            k.val = value;
+            updateCache(k);
+            return;
         }
+
+        // evict head
+        if (key2Node.size() == n)
+        {
+            ListNode k = head.next;
+            key2Node.remove(k.key);
+            k.next.prev = head;
+            head.next = k.next;
+        }
+
+        ListNode k = new ListNode();
+        k.key = key;
+        k.val = value;
+        key2Node.put(key, k);
+        updateCache(k);
     }
 
-    public void addHead(Node node) {
-        Node headNext = head.next;
-        node.prev = head;
-        node.next = headNext;
-        headNext.prev = node;
-        head.next = node;
-    }
-
-    public void remove(Node node) {
-        Node nextNode = node.next;
-        Node prevNode = node.prev;
-        prevNode.next = node.next;
-        nextNode.prev = node.prev;
+    void updateCache(ListNode k)
+    {
+        //remove k
+        ListNode pre = k.prev;
+        ListNode nxt = k.next;
+        if (pre != null)
+            pre.next = nxt;
+        if (nxt != null)
+            nxt.prev = pre;
+        // put k to tail
+        pre = tail.prev;
+        pre.next = k;
+        k.next = tail;
+        k.prev = pre;
+        tail.prev = k;
     }
 }
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache obj = new LRUCache(capacity);
- * int param_1 = obj.get(key);
- * obj.put(key,value);
- */
+/*
+evict head
+update -> put last
+[x x x x x x x]
+*/
 ```
 ---
 
