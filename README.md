@@ -203,6 +203,7 @@
 [208. Implement Trie (Prefix Tree) (M+)](https://hackmd.io/hTfwjbjXRmWUYGZdWR7SWA?view)  
 [212. Word Search II (H)](https://hackmd.io/GvMtD1yNRYC0RH16NKP8Nw?view)  
 [211. Design Add and Search Words Data Structure (H-)](https://hackmd.io/_ewYhc3vQuGAp9hrfKm1Fg?view)  
+[1233. Remove Sub-Folders from the Filesystem (M)](https://hackmd.io/iMWbmXICTyCa71dmh2aEYQ?view)  
 [2416. Sum of Prefix Scores of Strings (M)](https://hackmd.io/AYs0GyyISuCyPw3a2Za3Rw?view)  
 [3043. Find the Length of the Longest Common Prefix (M-)](https://hackmd.io/KcXrMknoR2CPf0jAtlJQwg?view)  
 
