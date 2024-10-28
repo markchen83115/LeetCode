@@ -235,6 +235,7 @@
 [1277. Count Square Submatrices with All Ones (M)](https://hackmd.io/WWxDkyzPRD-bT_pgnr8tuA?view)  
 [2501. Longest Square Streak in an Array (E+)](https://hackmd.io/-ZHJWnsbRHeYMbwAmQ5Jgw?view)  
 [2707. Extra Characters in a String (M)](https://hackmd.io/Rqt7M9ZuRv2RV4UqMF0Ssg?view)  
+[3334. Find the Maximum Factor Score of Array (M+)](https://hackmd.io/I6Wyb1eaRfaYnwush42ezQ?view)  
 * `基本型 I`  
 [198. House Robber (E)](https://hackmd.io/LRCcfTSdQ8CVW0MOVajV_A?view)  
 * `基本型II`  
