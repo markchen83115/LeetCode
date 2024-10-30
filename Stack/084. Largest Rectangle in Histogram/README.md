@@ -110,7 +110,7 @@ class Solution {
 對於每個`heights[i]`而言, 它能產生的最大長方形為`高度 * (右邊界 - 左邊界)`,
 左右邊界代表為`< heights[i]`的位置
 
-使用three pass來計算, 
+使用Three-pass來計算, 
 1. 在`i的左邊`, 找出`最接近i且長度 < heights[i]`
 2. 在`i的右邊`, 找出`最接近i且長度 < heights[i]`
 3. 對於每個`i`計算, `面積 = heights[i] * (右邊界 - 左邊界 - 1)`

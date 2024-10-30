@@ -99,7 +99,7 @@ class Solution {
 
 ---
 
-> Three Pass
+> Three-pass
 
 [wisdompeak/YouTube](https://www.youtube.com/watch?v=0Tjuy464sP8)
 題目要求兩個區間, 因此用k為分界點
@@ -132,4 +132,4 @@ Max(pre[k]    |  +  post[k])
 
 
 
-###### tags: `Leetcode` `Greedy` `Three Pass` `Dynamic Programming`
+###### tags: `Leetcode` `Greedy` `Three-pass` `Dynamic Programming`

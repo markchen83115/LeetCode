@@ -26,7 +26,7 @@ Output: 9
 ---
 
 ```java
-// Three Pass 1ms, Time O(N), Space O(N)
+// Three-pass 1ms, Time O(N), Space O(N)
 class Solution {
     public int trap(int[] height) {
         int n = height.length;
@@ -82,4 +82,4 @@ ex: `[2, 1, 3]`, 格子1的儲水高度為`min(2, 3) - 1 = 1`
 因此先算出`leftMax[i]: i左邊最高的高度`與`rightMax[i]: i右邊最高的高度`, 
 
 
-###### tags: `Leetcode` `Stack` `Monotonic stack: next greater / smaller` `Greedy` `Three Pass`
+###### tags: `Leetcode` `Stack` `Monotonic stack: next greater / smaller` `Greedy` `Three-pass`

@@ -82,4 +82,4 @@ class Solution {
 [Right and Left O(n)](https:leetcode.comproblemssubsequence-with-the-minimum-scoresolutions3174041right-and-left-o-n?orderBy=most_votes)
 
 
-###### tags: `Leetcode` `Greedy` `Three Pass`
+###### tags: `Leetcode` `Greedy` `Three-pass`
