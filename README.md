@@ -246,6 +246,8 @@
 * `背包型`  
 [322. Coin Change (M)](https://hackmd.io/vhhrL8qgQau79weQZNWNYw?view)  
 [416. Partition Equal Subset Sum (M+)](https://hackmd.io/lYSTVhpdT4Kc1Gai_wufPQ?view)  
+* `區間型 I`  
+[2463. Minimum Total Distance Traveled (M+)](https://hackmd.io/7SzbxdCoQ9aZkVWnp-gWyw?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
 [152. Maximum Product Subarray (M+)](https://hackmd.io/i_bOj3PVS0qkvSRdV0Y80w?view)  
