@@ -66,6 +66,31 @@ class Solution {
     }
 }
 ```
+```java
+// Java 56ms(Beats 8.48%), Time O(NlogN), Space O(N)
+class Solution {
+    public int leastInterval(char[] tasks, int n) {
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> a - b);
+        int[] time = new int[26];
+        for (char task : tasks)
+        {
+            int t = time[task - 'A'];
+            pq.offer(t);
+            time[task - 'A'] += n + 1;
+        }
+
+        int ret = 0;
+        while (!pq.isEmpty())
+        {
+            int curr = pq.poll();
+            ret = Math.max(ret, curr);
+            ret++;
+        }
+
+        return ret;
+    }
+}
+```
 ---
 
 假設目前有`3A, 3B, 3C, 2D, n = 3`
@@ -77,6 +102,8 @@ class Solution {
 
 但若n較小, `ex: n = 1`
 因此會是`A ? A ? A B C`, 最短的長度會是`tasks.length`
+
+
 
 
 ###### tags: `Leetcode` `Priority Queue` `Arrangement with Stride`
