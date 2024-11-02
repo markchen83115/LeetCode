@@ -57,6 +57,35 @@ class Solution {
     */
 }
 ```
+```java
+// Java 40ms(Beats 15.65%), Time O(NlogK), Space O(K)
+class Solution {
+    public List<Integer> findClosestElements(int[] arr, int k, int x) {
+        PriorityQueue<Integer> pq = new PriorityQueue<>(
+            (a, b) -> {
+                if (Math.abs(a - x) == Math.abs(b - x))
+                    return b - a;
+                return Math.abs(b - x) - Math.abs(a - x);
+            }
+        );
+
+        for (int a : arr)
+        {
+            pq.offer(a);
+            if (pq.size() > k)
+                pq.poll();
+        }
+
+        List<Integer> ret = new ArrayList<>();
+        for (int a : pq)
+            ret.add(a);
+        Collections.sort(ret);
+
+        return ret;
+
+    }
+}
+```
 ---
 
 [wisdompeak/YouTube](https://www.youtube.com/watch?v=gfwLpRYbCx0)
