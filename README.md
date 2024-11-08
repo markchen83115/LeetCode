@@ -330,6 +330,7 @@
 [2275. Largest Combination With Bitwise AND Greater Than Zero (M+)](https://hackmd.io/m4PD9_kMS9i0I_TKJimDhQ?view)  
 [2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
+[3011. Find if Array Can Be Sorted (M)](https://hackmd.io/c2b1JAMEQvCMhgzGL2Co2g?view)  
 [3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
 [3219. Minimum Cost for Cutting Cake II (H)](https://hackmd.io/-rMeIMHDRPW3pXPtPu5ETQ?view)  
 [3326. Minimum Division Operations to Make Array Non Decreasing (M)](https://hackmd.io/mbgIEA_SQTyDkKPcnmHP3w?view)  
