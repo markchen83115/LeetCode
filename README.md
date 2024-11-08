@@ -259,6 +259,7 @@
 * `XOR`  
 [136. Single Number (M)](https://hackmd.io/1J1WnQUvSGydJkMfs5LLnQ?view)  
 [268. Missing Number (H-)](https://hackmd.io/8B4r8bmXRTunKAqrWR-Elw?view)  
+[1829. Maximum XOR for Each Query (M)](https://hackmd.io/AciheBxNTjG0PRw8cCK8Fw?view)  
 
 
 > **String**  
