@@ -257,6 +257,7 @@
 
 > **Bit Manipulation**  
 
+[3133. Minimum Array End (M+)](https://hackmd.io/J7rSEozwTYaZ-P_EXRZUAQ?view)  
 [3315. Construct the Minimum Bitwise Array II (M)](https://hackmd.io/lytmFunDTOScPWfJSRbS_A?view)  
 * `XOR`  
 [136. Single Number (M)](https://hackmd.io/1J1WnQUvSGydJkMfs5LLnQ?view)  
