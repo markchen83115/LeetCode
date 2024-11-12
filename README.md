@@ -41,6 +41,7 @@
 [658. Find K Closest Elements (H)](https://hackmd.io/enzG75PxTsOxF5x4jDer3Q?view)  
 [704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
 [981. Time Based Key-Value Store (M)](https://hackmd.io/u6b9tPeBRt26S2ysXimXIQ?view)  
+[2070. Most Beautiful Item for Each Query (M)](https://hackmd.io/ENYzF4EGRt6FQMBsU9x9PA?view)  
 [2602. Minimum Operations to Make All Array Elements Equal (M)](https://hackmd.io/fxrC1FxMTY-OaUxpW2VelA?view)  
 * `Binary Search by Value`  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
