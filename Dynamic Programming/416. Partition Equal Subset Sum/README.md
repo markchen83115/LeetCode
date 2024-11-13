@@ -43,15 +43,56 @@ class Solution {
     }
 }
 ```
+```java
+// Java 13ms (Beats 97.22%), Time O(M*N), Space O(N)
+class Solution {
+    public boolean canPartition(int[] nums) {
+        int sum = 0;
+        for (int num : nums)
+            sum += num;
+        if ((sum & 1) == 1)
+            return false;
+        
+        sum >>= 1;
+
+        int n = nums.length;
+        boolean[] dp = new boolean[sum + 1]; // dp[i] = total is j
+        dp[0] = true;
+        for (int num : nums)
+            for (int j = sum - num; j >= 0; j--)
+            {
+                if (dp[j])
+                    dp[j + num] = true;
+
+                if (dp[sum])
+                    return true;
+            }
+        
+        return false;
+
+    }
+}
+```
 ---
 
 [wisdompeak/YouTube](https://www.youtube.com/watch?v=m1mBZjtvfiA)
-講解背包問題的模板
+講解01背包問題的模板
 ```java
 for (int num : nums) {	//遍歷物品
 	for (int s = 0; s <= sum/2; s++) {	//遍歷容量
-	
+
 	}
 }
 ```
+
+完全背包問題的模板 (與01背包問題相反)
+```java
+for (int capacity = 0; capacity <= n; capacity++) {	//遍歷容量
+	for (int num : nums) {	//遍歷物品
+
+
+	}
+}
+```
+
 ###### tags: `Leetcode` `Dynamic Programming` `背包型`

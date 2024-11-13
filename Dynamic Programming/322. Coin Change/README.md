@@ -1,4 +1,6 @@
-# Leetcode - [322. Coin Change (M)](https://leetcode.com/problems/coin-change/)
+# Leetcode - 322. Coin Change (M)
+
+[Leetcode](https://leetcode.com/problems/coin-change/)
 
 You are given an integer array `coins` representing coins of different denominations and an integer `amount` representing a total amount of money.
 
@@ -30,25 +32,18 @@ Output: 0
 
 ---
 ```java
-// Java 13ms (Beats 93.64%), Time O(N*K), Space O(N) 
+// Java 11ms(Beats 96.22%), Time O(N*K), Space O(N) 
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        if (amount == 0) return 0;
         int[] dp = new int[amount + 1];
-
+        Arrays.fill(dp, amount + 1);
         dp[0] = 0;
-        for (int i = 1; i <= amount; i++) {
-            int min = -1;
-            for (int coin : coins) {
-                if (i >= coin && dp[i - coin] != -1) {
-                    int tmp = dp[i - coin] + 1;
-                    min = min == -1 ? tmp : Math.min(tmp, min);
-                }
-            }
-            dp[i] = min;
-        }
-
-        return dp[amount];
+        for (int i = 1; i <= amount; i++)
+            for (int coin : coins)
+                if (i - coin >= 0)
+                    dp[i] = Math.min(dp[i], dp[i - coin] + 1);
+        
+        return dp[amount] < amount + 1 ? dp[amount] : -1;
     }
 }
 ```

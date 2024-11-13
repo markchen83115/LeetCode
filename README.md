@@ -2,7 +2,7 @@
 [**Grind 169 questions**](https://www.techinterviewhandbook.org/grind75?hours=10&weeks=15&order=topics&grouping=topics)  
 [**wisdompeak/LeetCode**](https://github.com/wisdompeak/LeetCode)  
 [**wisdompeak/YouTube**](https://www.youtube.com/@wisdompeak)  
-
+[**knapsack problem - 演算法筆記**](https://web.ntnu.edu.tw/~algo/KnapsackProblem.html)  
 
 > **Two Pointers**  
 
@@ -250,6 +250,7 @@
 * `背包型`  
 [322. Coin Change (M)](https://hackmd.io/vhhrL8qgQau79weQZNWNYw?view)  
 [416. Partition Equal Subset Sum (M+)](https://hackmd.io/lYSTVhpdT4Kc1Gai_wufPQ?view)  
+[518. Coin Change II (H-)](https://hackmd.io/-dnLQJkZQDeIG6fpPxy0oQ?view)  
 * `區間型 I`  
 [2463. Minimum Total Distance Traveled (M+)](https://hackmd.io/7SzbxdCoQ9aZkVWnp-gWyw?view)  
 * `Maximum Subarray`  
