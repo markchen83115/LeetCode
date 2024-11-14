@@ -2,7 +2,7 @@
 [**Grind 169 questions**](https://www.techinterviewhandbook.org/grind75?hours=10&weeks=15&order=topics&grouping=topics)  
 [**wisdompeak/LeetCode**](https://github.com/wisdompeak/LeetCode)  
 [**wisdompeak/YouTube**](https://www.youtube.com/@wisdompeak)  
-[EndlessCheng (灵茶山艾府 [0x3F]) · GitHub](https://github.com/EndlessCheng)  
+[**EndlessCheng (灵茶山艾府 [0x3F]) - GitHub**](https://github.com/EndlessCheng)  
 [**knapsack problem - 演算法筆記**](https://web.ntnu.edu.tw/~algo/KnapsackProblem.html)  
 
 > **Two Pointers**  
@@ -257,6 +257,8 @@
 [518. Coin Change II (H-)](https://hackmd.io/-dnLQJkZQDeIG6fpPxy0oQ?view)  
 * `區間型 I`  
 [2463. Minimum Total Distance Traveled (M+)](https://hackmd.io/7SzbxdCoQ9aZkVWnp-gWyw?view)  
+* `雙序列型`  
+[1143. Longest Common Subsequence (M)](https://hackmd.io/0NL055xHSYW364o3vD2ykA?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
 [152. Maximum Product Subarray (M+)](https://hackmd.io/i_bOj3PVS0qkvSRdV0Y80w?view)  
