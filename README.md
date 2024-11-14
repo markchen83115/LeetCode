@@ -44,6 +44,7 @@
 [2070. Most Beautiful Item for Each Query (M)](https://hackmd.io/ENYzF4EGRt6FQMBsU9x9PA?view)  
 [2602. Minimum Operations to Make All Array Elements Equal (M)](https://hackmd.io/fxrC1FxMTY-OaUxpW2VelA?view)  
 * `Binary Search by Value`  
+[2064. Minimized Maximum of Products Distributed to Any Store (M)](https://hackmd.io/s_w2NnkPRva89o-x2DvyVg?view)  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
 [2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
 [2616. Minimize the Maximum Difference of Pairs (M)](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
