@@ -72,7 +72,11 @@ class Solution {
     }
 }
 ```
-
 ---
+
+假設每個店最大可裝`k`個商品, 將`quantities[]`分別除以`k`, 則可知道總共需要幾間店
+因此可與當前店數`n`做比較得到`k`是否為可行解
+
+利用`binary search`, 若當前不可行則放大`k`, 若當前可行則縮小`k`, 尋找最佳解
 
 ###### tags: `Leetcode` `Binary Search` `Binary Search by Value`
