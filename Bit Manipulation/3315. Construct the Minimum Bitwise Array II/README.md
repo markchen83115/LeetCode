@@ -95,17 +95,21 @@ class Solution {
 ```
 ---
 [[Java/C++/Python] Bit, O(n)](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/solutions/5904140/java-c-python-bit-o-n)
-`..0111 || (..0111 + 1) = ..1111`  
-The effect is that change the rightmost 0 to 1.
 
-For each `a` in array `A`,  
-find the rightmost 0,  
-and set the next bit from 1 to 0.
-
-`a + 1` will filp the 1-suffix to 0-suffix,  
-and flip the rightmost 0 to 1.  
-`a & -a` is a trick to get the rightmost 1.
 ![image](https://hackmd.io/_uploads/SJuQpHp1ye.png)
+
+利用bit的一個特性 `A & -A = A的bit中右邊第一個1`
+
+```
+ans[i] | ans[i] + 1
+..0111 | (..0111 + 1) = ..1111
+```
+其行為等於將`ans[i]` 最右邊的0補成1
+
+因此利用上面的特性`A + 1 & -(A + 1)` 取得最右邊的1 再`右移1 bit` (意同`/ 2`)
+即為`將ans[i] 最右邊的0補成1`之值
+
+從`A`之中去除該值, 則為`ans[i]`
 
 
 ###### tags: `Leetcode` `Bit Manipulation`

@@ -2,6 +2,7 @@
 [**Grind 169 questions**](https://www.techinterviewhandbook.org/grind75?hours=10&weeks=15&order=topics&grouping=topics)  
 [**wisdompeak/LeetCode**](https://github.com/wisdompeak/LeetCode)  
 [**wisdompeak/YouTube**](https://www.youtube.com/@wisdompeak)  
+[EndlessCheng (灵茶山艾府 [0x3F]) · GitHub](https://github.com/EndlessCheng)  
 [**knapsack problem - 演算法筆記**](https://web.ntnu.edu.tw/~algo/KnapsackProblem.html)  
 
 > **Two Pointers**  
@@ -29,6 +30,7 @@
 [003. Longest Substring Without Repeating Characters (M)](https://hackmd.io/FqmVMnUlQbKuz3XJrBZxVQ?view)  
 [076. Minimum Window Substring (H)](https://hackmd.io/KYxO5ku4TYqU9YQ2HHJwDg?view)  
 [2537. Count the Number of Good Subarrays (M+)](https://hackmd.io/FqLVIl01SraQxqwWy2YZ0A?view)  
+[3306. Count of Substrings Containing Every Vowel and K Consonants II (H-)](https://hackmd.io/oqNwWemgSEWLE09FfyZnyQ?view)  
 
 
 > **Binary Search**  
