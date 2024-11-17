@@ -163,6 +163,7 @@
 > **Deque**  
 
 [239. Sliding Window Maximum (H-)](https://hackmd.io/npC3CaTlRim0EbYno2PsFg?view)  
+[862. Shortest Subarray with Sum at Least K (H)](https://hackmd.io/oibqhlT9Rty0_PQeU4OcJg?view)  
 
 
 > **Priority Queue**  
