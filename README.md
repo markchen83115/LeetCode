@@ -51,6 +51,7 @@
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
 [2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
 [2616. Minimize the Maximum Difference of Pairs (M)](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
+[3356. Zero Array Transformation II (M)](https://hackmd.io/7zpwIvd5TgC80kPyKbxFYQ?view)  
 * `Find K-th Element`    
 [215. Kth Largest Element in an Array (M)](https://hackmd.io/RSCDGNUnTBCtm0mCPjAHAA?view)  
 [287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  
