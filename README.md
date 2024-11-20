@@ -187,6 +187,8 @@
 > **DFS**  
 
 [037. Sudoku Solver (M+)](https://hackmd.io/nS12B5FlTfC_fOpD8gnjOA?view)  
+[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
+[040. Combination Sum II (M+)](https://hackmd.io/V4J9xECJRwC_mdYlT32AtQ?view)  
 [051. N-Queens (M)](https://hackmd.io/5Xw54RPpR5WQcswEL5ZqFA?view)  
 [079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
 [200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
@@ -333,7 +335,6 @@
 * `Combinatorics`  
 [017. Letter Combinations of a Phone Number (M)](https://hackmd.io/2wp7NvXzQr6fUX2m2HOcZA?view)  
 [022. Generate Parentheses (M)](https://hackmd.io/5t2VvHVYS9i5UCq7pCvFFw?view)  
-[039. Combination Sum (M)](https://hackmd.io/TBBaPssxQg6vvL8jFwx9Iw?view)  
 [046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
 [078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
 [2597. The Number of Beautiful Subsets f(M)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
