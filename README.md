@@ -341,6 +341,7 @@
 
 > **Greedy**  
 
+[045. Jump Game II (M)](https://hackmd.io/vzoOWdbnTZWRxTeFv3b8xg?view)  
 [055. Jump Game (E+)](https://hackmd.io/8i4V4KnRRd-vf8HWvbayvA?view)  
 [134. Gas Station (H)](https://hackmd.io/ncQTitK0SgKhf-H8Vlp11g?view)  
 [386. Lexicographical Numbers (H)](https://hackmd.io/OByI-KdNQ3mcIJebyzLnug?view)  
