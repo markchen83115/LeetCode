@@ -318,6 +318,7 @@
 > **Math**  
 
 [013. Roman to Integer (E)](https://hackmd.io/s9Q_ZndPQmGMvPGnGK54Lg?view)  
+[043. Multiply Strings (M)](https://hackmd.io/JCWuCz6oSlSrvb-6xcLhLA?view)  
 [050. Pow(x, n) (M)](https://hackmd.io/qQPe9P7DSN6LqLOqQdb7KQ?view)  
 [1497. Check If Array Pairs Are Divisible by k (M-)](https://hackmd.io/8YJaqvBeTUWlvIx9rdzm2g?view)  
 [2191. Sort the Jumbled Numbers (M)](https://hackmd.io/nWEyn88ISaiTx9iAofx_kw?view)  
