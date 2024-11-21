@@ -349,6 +349,7 @@
 [1717. Maximum Score From Removing Substrings (M+)](https://hackmd.io/Rq_i1gViQJ6QmpQqjS_aww?view)  
 [2275. Largest Combination With Bitwise AND Greater Than Zero (M+)](https://hackmd.io/m4PD9_kMS9i0I_TKJimDhQ?view)  
 [2551. Put Marbles in Bags (M+)](https://hackmd.io/RtGlGzsjTYWRymqPvfdFcw?view)  
+[2257. Count Unguarded Cells in the Grid (M)](https://hackmd.io/BYWTTQSiRAWrgdUVkSVSwQ?view)  
 [2561. Rearranging Fruits (H-)](https://hackmd.io/BZi2RfzrQXeBE681ADnlyw?view)  
 [2601. Prime Subtraction Operation (M)](https://hackmd.io/Mv2yogIWTyqQjM0E71d1sg?view)  
 [3011. Find if Array Can Be Sorted (M)](https://hackmd.io/c2b1JAMEQvCMhgzGL2Co2g?view)  
