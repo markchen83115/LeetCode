@@ -245,6 +245,7 @@
 
 [062. Unique Paths (E+)](https://hackmd.io/2O_4F8f4TrWs6OteKDAnLQ?view)  
 [070. Climbing Stairs (E)](https://hackmd.io/GGHxb1AEQCG3oAfmBbBYJQ?view)  
+[072. Edit Distance (H-)](https://hackmd.io/cBsfxdyNSHSQb16avJXHmA?view)  
 [221. Maximal Square (H-)](https://hackmd.io/tvNx1eXzSeqFXfMekzNUZQ?view)  
 [377. Combination Sum IV (M)](https://hackmd.io/D0Y4Uk4zRAWkr13x104UWA?view)  
 [542. 01 Matrix (M)](https://hackmd.io/-nL8rzAlQHacc18cZv-rfg?view)  
