@@ -320,6 +320,7 @@
 [2642. Design Graph With Shortest Path Calculator (M+)](https://hackmd.io/CJeJ-Op9RFSYIARsOSi0SA?view)  
 * `Dijkstra`  
 [787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
+[2577. Minimum Time to Visit a Cell In a Grid (H-)](https://hackmd.io/7ZbcHfXURkWP9ozAtr3z1Q?view)  
 
 > **Math**  
 
