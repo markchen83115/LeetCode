@@ -111,6 +111,7 @@
 [1448. Count Good Nodes in Binary Tree (M-)](https://hackmd.io/hNbwp1g4R7KQ7CDSDaTtNA?view)  
 [1530. Number of Good Leaf Nodes Pairs (M)](https://hackmd.io/LQZj3MUOStSD7gvNgkMFNA?view)  
 [2385. Amount of Time for Binary Tree to Be Infected (M)](https://hackmd.io/pxlU0qguRySU4WZTtY1jTg?view)  
+[2415. Reverse Odd Levels of Binary Tree (M)](https://hackmd.io/YRyAovHfSkOdj9JT3zkBPw?view)  
 [2641. Cousins in Binary Tree II (M)](https://hackmd.io/pTvXbT7oSj2RbNZskAQzPg?view)  
 [3319. K-th Largest Perfect Subtree Size in Binary Tree (M)](https://hackmd.io/vu16GNmARVumqHYJtuEbCA?view)  
 

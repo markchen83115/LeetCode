@@ -1,4 +1,4 @@
-# Leetcode - 72. Edit Distance (H-)
+# Leetcode - 072. Edit Distance (H-)
 
 [Leetcode](https://leetcode.com/problems/edit-distance/)
 
@@ -72,6 +72,7 @@ class Solution {
 }
 ```
 ---
+[【每日一题】72. Edit Distance, 3/23/2020 - YouTube](https://youtu.be/MLBFJpDxjTA)
 
 `dp[i][j] = the minimum number of operations required to convert word1[0:i] to word2[0:j]`
 
