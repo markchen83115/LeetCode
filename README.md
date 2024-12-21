@@ -113,6 +113,7 @@
 [2385. Amount of Time for Binary Tree to Be Infected (M)](https://hackmd.io/pxlU0qguRySU4WZTtY1jTg?view)  
 [2415. Reverse Odd Levels of Binary Tree (M)](https://hackmd.io/YRyAovHfSkOdj9JT3zkBPw?view)  
 [2641. Cousins in Binary Tree II (M)](https://hackmd.io/pTvXbT7oSj2RbNZskAQzPg?view)  
+[2872. Maximum Number of K-Divisible Components (H)](https://hackmd.io/1BEd0dTGRTSLZjeod7pygg?view)  
 [3319. K-th Largest Perfect Subtree Size in Binary Tree (M)](https://hackmd.io/vu16GNmARVumqHYJtuEbCA?view)  
 
 * `Path in a tree`  
