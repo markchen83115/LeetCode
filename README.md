@@ -258,6 +258,7 @@
 [2684. Maximum Number of Moves in a Grid (M)](https://hackmd.io/JvgNYJLCTZu4TxLGxqoG_Q?view)  
 [2707. Extra Characters in a String (M)](https://hackmd.io/Rqt7M9ZuRv2RV4UqMF0Ssg?view)  
 [3334. Find the Maximum Factor Score of Array (M+)](https://hackmd.io/I6Wyb1eaRfaYnwush42ezQ?view)  
+[3393. Count Paths With the Given XOR Value (M-)](https://hackmd.io/_ps1FPDVRle8QtGBWkJ51Q?view)  
 * `基本型 I`  
 [198. House Robber (E)](https://hackmd.io/LRCcfTSdQ8CVW0MOVajV_A?view)  
 * `基本型II`  
