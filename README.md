@@ -413,6 +413,7 @@
 [056. Merge Intervals (M)](https://hackmd.io/6jaM6VeJRX64oyNTD8kjgA?view)  
 [057. Insert Interval (M)](https://hackmd.io/zahPB5qUS2Og7socv5dqXw?view)  
 [995. Minimum Number of K Consecutive Bit Flips (H-)](https://hackmd.io/8IT5UumGS7ORk2tIfSPEcg?view)  
+[3394. Check if Grid can be Cut into Sections (M)](https://hackmd.io/n2wINEr_RSe1k_0NmI1PaQ?view)  
 * `二維差分`  
 [2536. Increment Submatrices by One (H-)](https://hackmd.io/grkBOMRoRD-EzRTr_qb7xA?view)  
 * `Enumeration`  
