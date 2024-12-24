@@ -122,6 +122,7 @@
 [113. Path Sum II (M)](https://hackmd.io/F3aTPgoaQYuyZv9lQucwPg?view)  
 [124. Binary Tree Maximum Path Sum (M)](https://hackmd.io/ygtZ3IpTSWmVWc2DDYC6Qw?view)  
 [543. Diameter of Binary Tree (M)](https://hackmd.io/XwS59g56Tr6o7gnqKN7t3g?view)  
+[3203. Find Minimum Diameter After Merging Two Trees (H-)](https://hackmd.io/1QWAtPIATwW1sO9RIki89Q?view)  
 * `Serialization & Hashing`  
 [297. Serialize and Deserialize Binary Tree (H-)](https://hackmd.io/793ybFN-QqWgAcfqXv9CzQ?view)  
 * `Tree & Sequence`  
