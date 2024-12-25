@@ -420,6 +420,7 @@
 * `二維差分`  
 [2536. Increment Submatrices by One (H-)](https://hackmd.io/grkBOMRoRD-EzRTr_qb7xA?view)  
 * `Enumeration`  
+[2013. Detect Squares (M+)](https://hackmd.io/WChQDdtZQKG3k2GMbYhGPw?view)  
 [2552. Count Increasing Quadruplets (H-)](https://hackmd.io/63w0pWHnS7imHwm_YUewHQ?view)  
 * `Matrix`  
 [036. Valid Sudoku (M)](https://hackmd.io/PMgDKfUfTqGfoa1Ohm3Dpw?view)  
