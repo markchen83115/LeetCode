@@ -270,6 +270,7 @@
 * `背包型`  
 [322. Coin Change (M)](https://hackmd.io/vhhrL8qgQau79weQZNWNYw?view)  
 [416. Partition Equal Subset Sum (M+)](https://hackmd.io/lYSTVhpdT4Kc1Gai_wufPQ?view)  
+[494. Target Sum (M+)](https://hackmd.io/H7i0oHgxTG6FOKU6q3gqLQ?view)  
 [518. Coin Change II (H-)](https://hackmd.io/-dnLQJkZQDeIG6fpPxy0oQ?view)  
 * `區間型 I`  
 [2463. Minimum Total Distance Traveled (M+)](https://hackmd.io/7SzbxdCoQ9aZkVWnp-gWyw?view)  
