@@ -306,6 +306,7 @@
 * `Manacher`  
 [005. Longest Palindromic Substring (H)](https://hackmd.io/p4Idh9bpSiO41XWY9PIJLQ?view)  
 [214. Shortest Palindrome (H)](https://hackmd.io/adqTPiuBQV-sFpcgdzEKRw?view)  
+[647. Palindromic Substrings (M+)](https://hackmd.io/UT5lhsMfRq-AZz1l-mR75w?view)  
 
 > **Union Find**  
 
