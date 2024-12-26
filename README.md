@@ -392,6 +392,7 @@
 [287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  
 [2471. Minimum Number of Operations to Sort a Binary Tree by Level (M+)](https://hackmd.io/q_3GGMLgRBGQbgcBRpGd1Q?view)  
 * `Parenthesis`  
+[678. Valid Parenthesis String (H-)](https://hackmd.io/KBUtRtOHTUWDQ3giFTtsZA?view)  
 [921. Minimum Add to Make Parentheses Valid (M+)](https://hackmd.io/NkxBUYnuRsGHAtphQB-AtQ?view)  
 [1963. Minimum Number of Swaps to Make the String Balanced (M+)](https://hackmd.io/nF4CrGSERriY6bBKk2FtXg?view)  
 * `Intervals`  
