@@ -313,6 +313,8 @@
 
 [128. Longest Consecutive Sequence (H-)](https://hackmd.io/RIV_NM2ZRaqHwx8cZFCAFg?view)  
 [721. Accounts Merge (M+)](https://hackmd.io/Xb4feMS3RdeiBGMU-mqKbA?view)  
+* `MST`  
+[1584. Min Cost to Connect All Points (H-)](https://hackmd.io/EyysekjoQ5uFzvlZU3ty6w?view)  
 
 
 > **Recursion**  

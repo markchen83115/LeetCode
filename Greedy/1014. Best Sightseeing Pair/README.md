@@ -26,15 +26,16 @@ Return _the maximum score of a pair of sightseeing spots_.
 
 ---
 ```java
-// Java 4ms(Beats 89.46%), Time O(N), Space O(N)
+// Java 3ms(Beats 97.03%), Time O(N), Space O(N)
 class Solution {
     public int maxScoreSightseeingPair(int[] values) {
         int ret = 0;
-        int currMax = 0;
+        int prefixMax = 0;
         for (int value : values)
         {
-            ret = Math.max(ret, currMax + value);
-            currMax = Math.max(currMax, value) - 1;
+            prefixMax--;
+            ret = Math.max(ret, prefixMax + value);
+            prefixMax = Math.max(prefixMax, value);
         }
 
         return ret;
@@ -43,15 +44,14 @@ class Solution {
 ```
 ---
 
-想法為越右邊的數因為距離越遠造成整體越小
-把題目想成: 固定右端點`j`, 在右端點`j`之前找一個加總最大的左端點`i`
-```
-[x x x x x x] x x x
-     i        j
-```
-因此我們必須記錄當前左端點`i`中最大的值
-當有新的右端點`j`進來後, 當前的最大值會因為距離拉遠而-1
-`currMax = Math.max(currMax, value) - 1`
+把 score 拆解成：`（vi + i) + (vj - j)`
+那我今天站在`j`，想要讓 score 最大，就是要找一個最大的 `vi + i` 給他，所以上面問題的答案就是： 
+1. 方向：往前找
+2. 某個資訊：最大值
+
+轉換成功之後我就可以： 
+1. 跑一次 values，紀錄每個位置當下的最大值
+2. 再跑一次 values，配合最大值去計算最大分數
 
 
 ###### tags: `Leetcode` `Greedy`
