@@ -312,6 +312,7 @@
 > **Union Find**  
 
 [128. Longest Consecutive Sequence (H-)](https://hackmd.io/RIV_NM2ZRaqHwx8cZFCAFg?view)  
+[684. Redundant Connection (M)](https://hackmd.io/in0hPvGgR8OyR3TfcC9CFg?view)  
 [721. Accounts Merge (M+)](https://hackmd.io/Xb4feMS3RdeiBGMU-mqKbA?view)  
 * `MST`  
 [1584. Min Cost to Connect All Points (H-)](https://hackmd.io/EyysekjoQ5uFzvlZU3ty6w?view)  
