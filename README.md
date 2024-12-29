@@ -257,6 +257,7 @@
 [377. Combination Sum IV (M)](https://hackmd.io/D0Y4Uk4zRAWkr13x104UWA?view)  
 [542. 01 Matrix (M)](https://hackmd.io/-nL8rzAlQHacc18cZv-rfg?view)  
 [1277. Count Square Submatrices with All Ones (M)](https://hackmd.io/WWxDkyzPRD-bT_pgnr8tuA?view)  
+[1639. Number of Ways to Form a Target String Given a Dictionary (H-)](https://hackmd.io/EUi9iblaT3SdTAVlZ83wmg?view)  
 [2501. Longest Square Streak in an Array (E+)](https://hackmd.io/-ZHJWnsbRHeYMbwAmQ5Jgw?view)  
 [2684. Maximum Number of Moves in a Grid (M)](https://hackmd.io/JvgNYJLCTZu4TxLGxqoG_Q?view)  
 [2707. Extra Characters in a String (M)](https://hackmd.io/Rqt7M9ZuRv2RV4UqMF0Ssg?view)  
