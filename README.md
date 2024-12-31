@@ -267,6 +267,7 @@
 * `基本型 I`  
 [198. House Robber (E)](https://hackmd.io/LRCcfTSdQ8CVW0MOVajV_A?view)  
 * `基本型II`  
+[983. Minimum Cost For Tickets (H-)](https://hackmd.io/wub80YrXSE6LagQjruyDqw?view)  
 [1043. Partition Array for Maximum Sum (M+)](https://hackmd.io/bblnVx8KSLeng4uSkScfwg?view)  
 * `走迷宮型`  
 [576. Out of Boundary Paths (H)](https://hackmd.io/2AZVmHafR-azmJO7V_jJgQ?view)  
