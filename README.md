@@ -201,6 +201,7 @@
 [079. Word Search (M)](https://hackmd.io/9hK957nPTJGNXYNsJw6qGw?view)  
 [200. Number of Islands (M)](https://hackmd.io/7YAJFPp1QMiTc6EEcMk_kQ?view)  
 [417. Pacific Atlantic Water Flow (M)](https://hackmd.io/47TbEsxsSf6fOqUnDMloiw?view)  
+[695. Max Area of Island (M-)](https://hackmd.io/jyZRGkZ9S5OZsuwsQBADmg?view)  
 [733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
 * `search in an array`  
 [090. Subsets II (M+)](https://hackmd.io/Ne4jvRLzTaSwc-mXQ8s4xQ?view)  
