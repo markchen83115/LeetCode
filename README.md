@@ -267,7 +267,6 @@
 * `基本型 I`  
 [198. House Robber (E)](https://hackmd.io/LRCcfTSdQ8CVW0MOVajV_A?view)  
 * `基本型II`  
-[010. Regular Expression Matching (H)](https://hackmd.io/GCv0SpuOSM-xlqZOFGySog?view)  
 [983. Minimum Cost For Tickets (H-)](https://hackmd.io/wub80YrXSE6LagQjruyDqw?view)  
 [1043. Partition Array for Maximum Sum (M+)](https://hackmd.io/bblnVx8KSLeng4uSkScfwg?view)  
 * `走迷宮型`  
@@ -280,7 +279,9 @@
 * `區間型 I`  
 [2463. Minimum Total Distance Traveled (M+)](https://hackmd.io/7SzbxdCoQ9aZkVWnp-gWyw?view)  
 * `雙序列型`  
+[010. Regular Expression Matching (H)](https://hackmd.io/GCv0SpuOSM-xlqZOFGySog?view)  
 [097. Interleaving String (H-)](https://hackmd.io/5S9uOf0CTcOyHMdQOpT_iQ?view)  
+[115. Distinct Subsequences (H-)](https://hackmd.io/7AoOSN7bRFaG4YRxR6d8xg?view)
 [1143. Longest Common Subsequence (M)](https://hackmd.io/0NL055xHSYW364o3vD2ykA?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
