@@ -267,6 +267,7 @@
 [3393. Count Paths With the Given XOR Value (M-)](https://hackmd.io/_ps1FPDVRle8QtGBWkJ51Q?view)  
 * `基本型 I`  
 [198. House Robber (E)](https://hackmd.io/LRCcfTSdQ8CVW0MOVajV_A?view)  
+[213. House Robber II (M+)](https://hackmd.io/ZbPnjz3XQJqg6rfyqmcP-A?view)  
 * `基本型II`  
 [983. Minimum Cost For Tickets (H-)](https://hackmd.io/wub80YrXSE6LagQjruyDqw?view)  
 [1043. Partition Array for Maximum Sum (M+)](https://hackmd.io/bblnVx8KSLeng4uSkScfwg?view)  
@@ -453,6 +454,12 @@
 [190. Reverse Bits (E)](https://hackmd.io/ZppprEWpQ5aXrbGkSykiKQ?view)  
 [191. Number of 1 Bits (E+)](https://hackmd.io/lJ9pYcSOQx6JxihNBnqRHg?view)  
 [338. Counting Bits (E)](https://hackmd.io/FwPzLKj0QHmatwLNCxmP9g?view)  
+
+
+> **Note**  
+
+
+[倒序DFS](https://hackmd.io/qqp4-L4ORjSHNP6BCnAu7A?view)  
 
 
 ###### tags: `Leetcode`
