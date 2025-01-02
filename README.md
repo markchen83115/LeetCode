@@ -334,9 +334,12 @@
 [133. Clone Graph (M+)](https://hackmd.io/-Tjs6kg9RgmuQ0-9-UvJIQ?view)  
 * `Evaluate Expressions`  
 [241. Different Ways to Add Parentheses (M+)](https://hackmd.io/oSfzL2xHQpea8lRCbIlTOg?view)  
+* `Min-Max Strategy`  
+[877. Stone Game (M+)](https://hackmd.io/TW4C492uSvGQ5rMEIqROfQ?view)  
 * `Digit counting & finding`  
 [440. K-th Smallest in Lexicographical Order (H-)](https://hackmd.io/S4N2vf5zQiSWZJHKhxzA2A?view)  
 [3307. Find the K-th Character in String Game II (M+)](https://hackmd.io/p93xYU12QTylO1cZ1gkTVw?view)  
+
 
 > **Graph**  
 

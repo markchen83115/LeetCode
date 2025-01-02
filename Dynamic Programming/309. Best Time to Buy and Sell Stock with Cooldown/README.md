@@ -46,6 +46,8 @@ class Solution {
 ```
 ---
 
+參考[(1873) 【每日一题】309. Best Time to Buy and Sell Stock with Cooldown, 3/14/2020 - YouTube](https://youtu.be/jNy8yM0NBdw)
+
 此題比較特殊的情況是，僅有hold和sold兩個狀態是不夠的
 考慮hold表示手上有股票時候的收益，sold表示手上已經賣出了股票的收益
 
