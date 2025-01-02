@@ -365,6 +365,7 @@
 [046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
 [078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
 [2597. The Number of Beautiful Subsets f(M)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
+[3405. Count the Number of Arrays with K Matching Adjacent Elements (H-)](https://hackmd.io/2TOCUrq7TzmkPP67B2z2Yw?view)  
 
 > **Greedy**  
 

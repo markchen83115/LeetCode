@@ -26,6 +26,18 @@ public:
     double myPow(double x, int n) {        
         return n >= 0 ? quickMul(x, n) : 1.0 / quickMul(x, -n);
     }
+
+    long quickPow(long base, int exp) {
+    long result = 1;
+    while (exp > 0) {
+        if ((exp & 1) == 1) {
+            result = (result * base) % mod;
+        }
+        base = (base * base) % mod;
+        exp >>= 1;
+    }
+    return result;
+}
 };
 ```
 
