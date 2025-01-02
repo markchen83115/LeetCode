@@ -434,6 +434,7 @@
 * `掃描線/差分陣列`  
 [056. Merge Intervals (M)](https://hackmd.io/6jaM6VeJRX64oyNTD8kjgA?view)  
 [057. Insert Interval (M)](https://hackmd.io/zahPB5qUS2Og7socv5dqXw?view)  
+[763. Partition Labels (M-)](https://hackmd.io/xLL1Rk2yTRaMPv7bSvexTA?view)  
 [995. Minimum Number of K Consecutive Bit Flips (H-)](https://hackmd.io/8IT5UumGS7ORk2tIfSPEcg?view)  
 [3394. Check if Grid can be Cut into Sections (M)](https://hackmd.io/n2wINEr_RSe1k_0NmI1PaQ?view)  
 * `二維差分`  
