@@ -465,6 +465,7 @@
 [Inverse Element 逆元](https://hackmd.io/iKAm5sIIT9SNkMW6Ar-ZBQ?view)  
 [Combination 排列組合](https://hackmd.io/C0n_cjOUQHmi6X5A1eNmWg?view)  
 [Quick Pow 快速冪](https://hackmd.io/OtQK6r97TNukzU_aCFx8_Q?view)  
+[Prime 質數](https://hackmd.io/lSBj1CgdQcy-rrOY69m6UA?view)  
 
 
 ###### tags: `Leetcode`
