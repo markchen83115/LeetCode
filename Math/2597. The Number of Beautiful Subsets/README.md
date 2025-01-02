@@ -1,4 +1,4 @@
-# Leetcode - 2597. The Number of Beautiful Subsets (M)
+# Leetcode - 2597. The Number of Beautiful Subsets (M+)
 
 [Leetcode](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
 
@@ -61,4 +61,4 @@ class Solution {
 
 利用backtracking窮舉所有答案, 對於每個nums可選擇放或不放
 
-###### tags: `Leetcode` `Math` `Combinatorics`
+###### tags: `Leetcode` `DFS` `search in an array`

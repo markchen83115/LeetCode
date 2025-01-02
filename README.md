@@ -206,6 +206,8 @@
 * `search in an array`  
 [090. Subsets II (M+)](https://hackmd.io/Ne4jvRLzTaSwc-mXQ8s4xQ?view)  
 [1593. Split a String Into the Max Number of Unique Substrings (M)](https://hackmd.io/bqoA_2ynSwazvWchcqyYjA?view)  
+[2597. The Number of Beautiful Subsets (M+)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
+
 
 
 > **BFS**  
@@ -364,7 +366,6 @@
 [022. Generate Parentheses (M)](https://hackmd.io/5t2VvHVYS9i5UCq7pCvFFw?view)  
 [046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
 [078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
-[2597. The Number of Beautiful Subsets f(M)](https://hackmd.io/toJV3oV2QR-8Zu218MTL9A?view)  
 [3405. Count the Number of Arrays with K Matching Adjacent Elements (H-)](https://hackmd.io/2TOCUrq7TzmkPP67B2z2Yw?view)  
 
 > **Greedy**  
