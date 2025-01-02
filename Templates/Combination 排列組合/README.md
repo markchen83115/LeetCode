@@ -1,5 +1,7 @@
 # Leetcode - Combination 排列組合
 
+參考[LeetCode/Template/Math/Combination-Number.cpp at master · wisdompeak/LeetCode · GitHub](https://github.com/wisdompeak/LeetCode/blob/master/Template/Math/Combination-Number.cpp)
+
 ```java
 /*********************************/
 //  Version 1: compute along C(n,m) saved in comb

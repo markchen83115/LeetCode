@@ -1,4 +1,4 @@
-# Leetcode - Inverse_Element(逆元)
+# Leetcode - Inverse Element 逆元
 
 參考[LeetCode/Template/Inverse_Element at master · wisdompeak/LeetCode · GitHub](https://github.com/wisdompeak/LeetCode/tree/master/Template/Inverse_Element)
 
