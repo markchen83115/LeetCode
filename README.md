@@ -140,6 +140,7 @@
 
 > **Design**  
 
+[355. Design Twitter (H)](https://hackmd.io/prWZb-5aTxu-VxJ8JSmC5w?view)  
 [380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
 [895. Maximum Frequency Stack (H)](https://hackmd.io/Ft9A6CTXRgm_jQNBlIJd6A?view)  
 [1381. Design a Stack With Increment Operation (H-)](https://hackmd.io/30cisQDdQlKCsV6MykK91A?view)  
@@ -455,7 +456,7 @@
 * `Matrix`  
 [036. Valid Sudoku (M)](https://hackmd.io/PMgDKfUfTqGfoa1Ohm3Dpw?view)  
 [048. Rotate Image (M+)](https://hackmd.io/250xKM-WQjGrlHjlOEfh7w?view)  
-[054. Spiral Matrix(M)](https://hackmd.io/FWH6iLB1SOehkzC75NMYHw?view)  
+[054. Spiral Matrix (M)](https://hackmd.io/FWH6iLB1SOehkzC75NMYHw?view)  
 [073. Set Matrix Zeroes (M)](https://hackmd.io/7H4S6-EHQOaqoURYcP_T-A?view)  
 [1072. Flip Columns For Maximum Number of Equal Rows (M)](https://hackmd.io/iDtQ4AQMS4Wg_0WbelG_EQ?view)  
 [1605. Find Valid Matrix Given Row and Column Sums (E+)](https://hackmd.io/cOEUMN21RiykbdKcDI8_wQ?view)  
