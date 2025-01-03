@@ -221,6 +221,7 @@
 [310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
 * `Dijkstra (BFS+PQ)`  
 [743. Network Delay Time (H-)](https://hackmd.io/C2lEI9UXTielIYGArVSKmA?view)  
+[778. Swim in Rising Water (H)](https://hackmd.io/mSc7grMkQoG47_ALPydjfg?view)  
 
 
 > **Trie**  
