@@ -444,6 +444,8 @@
 [1861. Rotating the Box (M)](https://hackmd.io/_KlV8y6-R7GkeBPm1g45PQ?view)  
 [1975. Maximum Matrix Sum (M)](https://hackmd.io/DMfIRhJwTtOClJoVnkiWDg?view)  
 [2584. Split the Array to Make Coprime Products (H)](https://hackmd.io/ylxsSCGTQAaDUFbFi7khlg?view)  
+* `Collision`  
+[853. Car Fleet (M)](https://hackmd.io/jAf6LyCoQT2U0VQcIPYbpg?view)  
 * `掃描線/差分陣列`  
 [056. Merge Intervals (M)](https://hackmd.io/6jaM6VeJRX64oyNTD8kjgA?view)  
 [057. Insert Interval (M)](https://hackmd.io/zahPB5qUS2Og7socv5dqXw?view)  
