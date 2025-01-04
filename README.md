@@ -351,6 +351,7 @@
 
 > **Graph**  
 
+[332. Reconstruct Itinerary (H)](https://hackmd.io/oScxDWNdSeeJaRClQj4PCw?view)  
 [2097. Valid Arrangement of Pairs (H)](https://hackmd.io/qqp4-L4ORjSHNP6BCnAu7A?view)  
 [2556. Disconnect Path in a Binary Matrix by at Most One Flip (H)](https://hackmd.io/Y72-pUmhTDyGetymI_MudQ?view)  
 [2642. Design Graph With Shortest Path Calculator (M+)](https://hackmd.io/CJeJ-Op9RFSYIARsOSi0SA?view)  
