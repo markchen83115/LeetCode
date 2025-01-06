@@ -433,6 +433,7 @@
 [435. Non-overlapping Intervals (M)](https://hackmd.io/AcMK4Ml_QQCXeWZjrsXOwg?view)  
 [1235. Maximum Profit in Job Scheduling (H-)](https://hackmd.io/yIlSZth9RKGeqRfi9Ibopg?view)  
 [2580. Count Ways to Group Overlapping Ranges (M)](https://hackmd.io/cR69KpFRSHSD5YbU-agvKg?view)  
+[3413. Maximum Coins From K Consecutive Bags (H-)](https://hackmd.io/3cdu5mJLQ3aIHKOCEHkYwA?view)  
 * `Constructive Problems`  
 [2568. Minimum Impossible OR (H-)](https://hackmd.io/kFBnG7fwT-iQn5HClvO06w?view)  
 [2571. Minimum Operations to Reduce an Integer to 0 (H-)](https://hackmd.io/ti9hkKdHSg-ky3CsL5yPww?view)  
