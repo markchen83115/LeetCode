@@ -57,6 +57,7 @@
 [2616. Minimize the Maximum Difference of Pairs (M)](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
 [3356. Zero Array Transformation II (M)](https://hackmd.io/7zpwIvd5TgC80kPyKbxFYQ?view)  
 [3399. Smallest Substring With Identical Characters II (H-)](https://hackmd.io/HP2jEy3RQmKbCqGEGferdQ?view)  
+[3419. Minimize the Maximum Edge Weight of Graph (M+)](https://hackmd.io/IKSmoKtZQhmn-QHUn-Q_aA?view)  
 * `Find K-th Element`    
 [215. Kth Largest Element in an Array (M)](https://hackmd.io/RSCDGNUnTBCtm0mCPjAHAA?view)  
 [287. Find the Duplicate Number (H-)](https://hackmd.io/73tEWF87TgWFe2jJjgmR0g?view)  
