@@ -10,6 +10,7 @@
 [011. Container With Most Water (M+)](https://hackmd.io/x8eAmORIQme2AHYVjomQPA?view)  
 [015. 3Sum (M)](https://hackmd.io/UDpXOzB_TW6be_-hhnYwZA?view)  
 [016. 3Sum Closest (M)](https://hackmd.io/bdMPOJdsQf63BSCLZt5Y6A?view)  
+[030. Substring with Concatenation of All Words (H)](https://hackmd.io/L2DREEEmSfe3tfC00pd2sA?view)  
 [075. Sort Colors (M+)](https://hackmd.io/H2MWiPunSgm1LPMAd3_gjg?view)  
 [080. Remove Duplicates from Sorted Array II (H-)](https://hackmd.io/wAquOWweTwKsZfsSoeUcmg?view)  
 [125. Valid Palindrome(E)](https://hackmd.io/eLJ1oBVtTMawK0Qulvjmeg?view)  
