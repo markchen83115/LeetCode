@@ -172,6 +172,7 @@
 [221. Maximal Square (H-)](https://hackmd.io/tvNx1eXzSeqFXfMekzNUZQ?view)  
 [739. Daily Temperatures (H-)](https://hackmd.io/ZM26Gp6kRxqYSjOreT2uzA?view)  
 * `monotonic stack: other usages`  
+[085. Maximal Rectangle (H-)](https://hackmd.io/nqVvYYTETiWdYA8PalOsRg?view)  
 [962. Maximum Width Ramp (H)](https://hackmd.io/5uVjkJgESzu2MN9RTcmqHw?view)  
 * `Parse expression`  
 [224. Basic Calculator (H-)](https://hackmd.io/_mKJUa0nROyP8lzo9Y79pA?view)  
