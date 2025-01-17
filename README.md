@@ -88,6 +88,7 @@
 
 > **Sorted Container**  
 
+[220. Contains Duplicate III (M)](https://hackmd.io/G2bCzIqPTCaASbBiZT0jHQ?view)  
 [729. My Calendar I (M)](https://hackmd.io/5i7CpC_UQtmAdFmmJ2uqVg?view)  
 [846. Hand of Straights (M)](https://hackmd.io/0_J2yII0SzCP42Sf_lOhmg?view)  
 [1296. Divide Array in Sets of K Consecutive Numbers (M)](https://hackmd.io/9_7q8Ik8SwGUskY_fb8TSg?view)  
