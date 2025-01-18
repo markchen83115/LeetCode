@@ -234,6 +234,7 @@
 * `Dijkstra (BFS+PQ)`  
 [743. Network Delay Time (H-)](https://hackmd.io/C2lEI9UXTielIYGArVSKmA?view)  
 [778. Swim in Rising Water (H)](https://hackmd.io/mSc7grMkQoG47_ALPydjfg?view)  
+[1368. Minimum Cost to Make at Least One Valid Path in a Grid (H)](https://hackmd.io/qqoHzTg7S0qSlMv1JCbghQ?view)  
 
 
 > **Trie**  
