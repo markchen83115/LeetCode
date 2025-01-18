@@ -416,9 +416,10 @@
 [3404. Count Special Subsequences (M+)](https://hackmd.io/1k4GrDZmTmu3NWavuZ1v9A?view)  
 * `Lexicographical Sequence`  
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
-* `DI Sequence`  
 * `LIS`  
 [300. Longest Increasing Subsequence (M+)](https://hackmd.io/FXtQ9HvFRpWcA8qvaRUhqA?view)  
+* `Two-pass distribution`  
+[135. Candy (M+)](https://hackmd.io/paoG-MoMRduIFXTWx1JTIw?view)  
 * `Three-pass`  
 [042. Trapping Rain Water (H-)](https://hackmd.io/YMAInEDXQcqfEPQ6YcWMoQ?view)  
 [689. Maximum Sum of 3 Non-Overlapping Subarrays (M+)](https://hackmd.io/Oc-a5ejrS5OG0fokl0UdBA?view)  
