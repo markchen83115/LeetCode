@@ -45,6 +45,7 @@
 [033. Search in Rotated Sorted Array (M)](https://hackmd.io/MIvR4t6QQOa2ZAFRsOaTyQ?view)  
 [074. Search a 2D Matrix (M)](https://hackmd.io/jlw0JaWGQxekpRXmo0nZ4g?view)  
 [153. Find Minimum in Rotated Sorted Array (M+)](https://hackmd.io/7-XWy0N8Q3iW2RwwP9VQ0g?view)  
+[162. Find Peak Element (H-)](https://hackmd.io/xiVgBN5vQ_eiIkwDL3_FOg?view)  
 [278. First Bad Version (E)](https://hackmd.io/UPKecvtYRJm4gbkn7al5IQ?view)  
 [658. Find K Closest Elements (H)](https://hackmd.io/enzG75PxTsOxF5x4jDer3Q?view)  
 [704. Binary Search (E)](https://hackmd.io/JjWhjsA8RJaw_ABP2JJMIw?view)  
