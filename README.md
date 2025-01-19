@@ -391,6 +391,8 @@
 [046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
 [078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
 [3405. Count the Number of Arrays with K Matching Adjacent Elements (H-)](https://hackmd.io/2TOCUrq7TzmkPP67B2z2Yw?view)  
+[3428. Maximum and Minimum Sums of at Most Size K Subsequences (M+)](https://hackmd.io/SeEX2elYRGOwLGj9WIlpog?view)  
+
 
 > **Greedy**  
 
