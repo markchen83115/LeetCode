@@ -58,7 +58,7 @@ Since the answer may be very large, return it **modulo** `109 + 7`.
 
 ---
 ```java
-// Java 1202ms(Beats 100.00%), Time O(M*N), Space O(N)
+// Java 484ms(Beats 100.00%), Time O(M*N), Space O(N)
 class Solution {
     long mod = (int) 1e9 + 7;
     long[] factorial;
