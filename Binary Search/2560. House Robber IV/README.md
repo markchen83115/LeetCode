@@ -37,26 +37,33 @@ Explanation: There are 7 ways to rob the houses. The way which leads to minimum 
 
 ---
 ```java
-// Java
+// Java 18ms(Beats 83.33%), Time O(NlogN), Space O(1)
 class Solution {
     public int minCapability(int[] nums, int k) {
-        int left = 0, right = (int)1e9;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            int sum = 0;
-            for (int i = 0; i < nums.length; i++) {
-                if (nums[i] <= mid) {
-                    sum++;
-                    i++;
-                }
-            }
-            if (sum >= k) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+        int l = 0, r = (int) 1e9;
+        while (l < r)
+        {
+            int mid = l + (r - l) / 2;
+            if (isOK(nums, k, mid))
+                r = mid;
+            else
+                l = mid + 1;
         }
-        return left;    // left == right
+
+        return l;
+    }
+
+    boolean isOK(int[] nums, int k, int minCap)
+    {
+        int sum = 0;
+        for (int i = 0; i < nums.length; i++)
+            if (nums[i] <= minCap)
+            {
+                sum++;
+                i++;
+            }
+        
+        return sum >= k;
     }
 }
 ```
