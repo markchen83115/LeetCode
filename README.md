@@ -324,6 +324,10 @@
 [2429. Minimize XOR (M)](https://hackmd.io/wQGnDr1_S-CbEmsnJ3WxUg?view)  
 
 
+> **Divide and Conquer**
+[315. Count of Smaller Numbers After Self (H-)](https://hackmd.io/4XvHj_2MTEidXQKVDgeGEw?view)  
+
+
 > **String**  
 
 [008. String to Integer (atoi) (M)](https://hackmd.io/GjWKBGy6TmSTJfwNE-t4rA?view)  
