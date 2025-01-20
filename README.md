@@ -369,6 +369,7 @@
 [2097. Valid Arrangement of Pairs (H)](https://hackmd.io/qqp4-L4ORjSHNP6BCnAu7A?view)  
 [2556. Disconnect Path in a Binary Matrix by at Most One Flip (H)](https://hackmd.io/Y72-pUmhTDyGetymI_MudQ?view)  
 [2642. Design Graph With Shortest Path Calculator (M+)](https://hackmd.io/CJeJ-Op9RFSYIARsOSi0SA?view)  
+[2661. First Completely Painted Row or Column (M-)](https://hackmd.io/ayh6W-8wRtOG0Bf6N3zmRQ?view)  
 * `Dijkstra`  
 [787. Cheapest Flights Within K Stops (H)](https://hackmd.io/ILWJXd9NT6Gkm0NX1PZR6Q?view)  
 [2577. Minimum Time to Visit a Cell In a Grid (H-)](https://hackmd.io/7ZbcHfXURkWP9ozAtr3z1Q?view)  
