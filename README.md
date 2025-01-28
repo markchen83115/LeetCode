@@ -430,8 +430,9 @@
 [3218. Minimum Cost for Cutting Cake I (M)](https://hackmd.io/5dLjkNR3QhCEXQDOJ4YH9A?view)  
 [3219. Minimum Cost for Cutting Cake II (H)](https://hackmd.io/-rMeIMHDRPW3pXPtPu5ETQ?view)  
 [3326. Minimum Division Operations to Make Array Non Decreasing (M)](https://hackmd.io/mbgIEA_SQTyDkKPcnmHP3w?view)  
-[3403. Find the Lexicographically Largest String From the Box I (M)](https://hackmd.io/P21O80YnRO-DUeO8-04VkQ?view)
+[3403. Find the Lexicographically Largest String From the Box I (M)](https://hackmd.io/P21O80YnRO-DUeO8-04VkQ?view)  
 [3404. Count Special Subsequences (M+)](https://hackmd.io/1k4GrDZmTmu3NWavuZ1v9A?view)  
+[3433. Count Mentions Per User (M)](https://hackmd.io/4O9HFJsjSUGKrQVrE-H5IQ?view)  
 * `Lexicographical Sequence`  
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
 * `LIS`  
