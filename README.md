@@ -100,6 +100,8 @@
 [846. Hand of Straights (M)](https://hackmd.io/0_J2yII0SzCP42Sf_lOhmg?view)  
 [1296. Divide Array in Sets of K Consecutive Numbers (M)](https://hackmd.io/9_7q8Ik8SwGUskY_fb8TSg?view)  
 [2948. Make Lexicographically Smallest Array by Swapping Elements (M+)](https://hackmd.io/DOSXT3EXQh-IuBmdXhOkNg?view)  
+* `Dual Multiset`  
+[2653. Sliding Subarray Beauty (M+)](https://hackmd.io/SqjGSyHfRCCwg6JGn_sm_w?view)  
 * `Sorted_Container w/ monotonic mapping values`  
 [2940. Find Building Where Alice and Bob Can Meet (H)](https://hackmd.io/HO2FJwHEQsmKkmXBG_be6Q?view)  
 
@@ -203,6 +205,7 @@
 [1792. Maximum Average Pass Ratio (M+)](https://hackmd.io/RUv-pWxvRaSwbrW6L2yuCg?view)  
 * `Dual PQ`  
 [1942. The Number of the Smallest Unoccupied Chair (M+)](https://hackmd.io/vTalAppXRDmp6ORqfaoBHQ?view)  
+[2653. Sliding Subarray Beauty (M+)](https://hackmd.io/SqjGSyHfRCCwg6JGn_sm_w?view)  
 * `Sort+PQ`  
 [1851. Minimum Interval to Include Each Query (H)](https://hackmd.io/4wXG4JU0RZiuoVuobl9c2g?view)  
 [2406. Divide Intervals Into Minimum Number of Groups (M+)](https://hackmd.io/osojF1FFTViLCdE8OTfJZA?view)  
