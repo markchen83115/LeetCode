@@ -30,6 +30,7 @@
 [1248. Count Number of Nice Subarrays (M+)](https://hackmd.io/TYgGvpOOSCqvJJtk5hQBUQ?view)  
 [1423. Maximum Points You Can Obtain from Cards (M)](https://hackmd.io/AhTGTOd3R9u0Bx3TOI68fA?view)  
 [1838. Frequency of the Most Frequent Element (H-)](https://hackmd.io/qtnEb_l3SEaKXSX5195G6Q?view)  
+[2134. Minimum Swaps to Group All 1's Together II (M)](https://hackmd.io/r3gObS3aSwCQ0bfHHdEYww?view)  
 [2516. Take K of Each Character From Left and Right (M+)](https://hackmd.io/4OKZyTNUSc2wZ0WSjJl6uQ?view)  
 [2962. Count Subarrays Where Max Element Appears at Least K Times (M)](https://hackmd.io/ujvXJ5r9SNOUxi0D5zsATw?view)  
 [3097. Shortest Subarray With OR at Least K II (M)](https://hackmd.io/67_kPZPERJ-OnS15H0lmaA?view)  
