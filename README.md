@@ -325,6 +325,7 @@
 
 > **Bit Manipulation**  
 
+[1461. Check If a String Contains All Binary Codes of Size K (M+)](https://hackmd.io/XHW111XaQtiOmPw-mOIhpQ?view)  
 [3133. Minimum Array End (M+)](https://hackmd.io/J7rSEozwTYaZ-P_EXRZUAQ?view)  
 [3315. Construct the Minimum Bitwise Array II (M)](https://hackmd.io/lytmFunDTOScPWfJSRbS_A?view)  
 * `XOR`  
