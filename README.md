@@ -454,6 +454,7 @@
 [042. Trapping Rain Water (H-)](https://hackmd.io/YMAInEDXQcqfEPQ6YcWMoQ?view)  
 [689. Maximum Sum of 3 Non-Overlapping Subarrays (M+)](https://hackmd.io/Oc-a5ejrS5OG0fokl0UdBA?view)  
 [1671. Minimum Number of Removals to Make Mountain Array (M+)](https://hackmd.io/qcZkgZ1FRVy6T7fzNJy8Ow?view)  
+[1888. Minimum Number of Flips to Make the Binary String Alternating (M+)](https://hackmd.io/b0mOKmNsTTyR8IzIc-Zw5g?view)  
 [2555. Maximize Win From Two Segments (M+)](https://hackmd.io/bnJ9rx2mTjGQdRRW4y3HFQ?view)  
 [2565. Subsequence With the Minimum Score (H-)](https://hackmd.io/Rp--sEMRQUyjm0F1vQrjiw?view)  
 * `Sort`  
