@@ -353,6 +353,8 @@
 [242. Valid Anagram (E)](https://hackmd.io/qDumxx3aQmeit23RZlj24A?view)  
 [336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
 [409. Longest Palindrome (E)](https://hackmd.io/i9Aif8A5S0-0c1zRRpQkBg?view)  
+* `Rolling Hash`  
+[2156. Find Substring With Given Hash Value (M)](https://hackmd.io/E1DdS2ttQjGlUrHG49XH6w?view)  
 * `KMP`  
 [214. Shortest Palindrome (H)](https://hackmd.io/adqTPiuBQV-sFpcgdzEKRw?view)  
 [572. Subtree of Another Tree (H)](https://hackmd.io/Uw2QUEFXQoa0C1DtaX8Plw?view)

@@ -4,27 +4,27 @@
 
 ```java
 class Solution {
-long MOD = 1e9+7;
+long mod = 1e9+7;
 public:
-    long quickMul(long x, long N) {
-        if (N == 0) {
+    long quickPow(long x, long k) {
+        if (k == 0) {
             return 1;
         }
-        LL y = quickMul(x, N / 2) % MOD;
-        return N % 2 == 0 ? (y * y % MOD) : (y * y % MOD * x % MOD);
+        long y = quickPow(x, k / 2) % mod;
+        return k % 2 == 0 ? (y * y % mod) : (y * y % mod * x % mod);
     }
 
-    double quickMul(double x, long N) {
-        if (N == 0) {
+    double quickPow(double x, long k) {
+        if (k == 0) {
             return 1.0;
         }
-        double y = quickMul(x, N / 2);
-        return N % 2 == 0 ? y * y : y * y * x;
+        double y = quickPow(x, k / 2);
+        return k % 2 == 0 ? y * y : y * y * x;
     }
 
     // n can be negative.
     double myPow(double x, int n) {        
-        return n >= 0 ? quickMul(x, n) : 1.0 / quickMul(x, -n);
+        return n >= 0 ? quickPow(x, n) : 1.0 / quickPow(x, -n);
     }
 
     long quickPow(long base, int exp) {
