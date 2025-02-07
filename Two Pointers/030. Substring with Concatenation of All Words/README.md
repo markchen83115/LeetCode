@@ -52,6 +52,50 @@ Return an array of _the starting indices_ of all the concatenated substrings in 
 
 ---
 ```java
+// Java 19ms(Beats 25.70%), Time O(M*N), Space O(M)
+class Solution {
+    public List<Integer> findSubstring(String s, String[] words) {
+        List<Integer> ret = new ArrayList<>();
+        int n = s.length();
+        int k = words.length;
+        int m = words[0].length();
+        HashMap<String, Integer> wordMap = new HashMap<>();
+        int count = 0;
+        for (String w : words)
+        {
+            wordMap.merge(w, 1, Integer::sum);
+            if (wordMap.get(w) == 1)
+                count++;
+        }
+
+        for (int p = 0; p < m; p++)
+        {
+            int need = count;
+            HashMap<String, Integer> freqMap = new HashMap<>(wordMap); //copy HashMap
+            for (int i = p; i + m <= n; i += m)
+            {
+                String t = s.substring(i, i + m);
+                freqMap.merge(t, -1, Integer::sum);
+                if (freqMap.get(t) == 0)
+                    need--;
+                
+                if (i >= m * k)
+                {
+                    t = s.substring(i - m * k, i - m * k + m);
+                    freqMap.merge(t, 1, Integer::sum);
+                    if (freqMap.get(t) == 1)
+                        need++;
+                }
+
+                if (need == 0)
+                    ret.add(i - m * k + m);
+            }
+        }
+
+        return ret;
+    }
+}
+
 // Java 17ms(Beats 47.24%), Time O(N*M), Space O(M)
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
@@ -119,6 +163,12 @@ class Solution {
 若`(key, value)`的`value`已經是`0`, 記得要`remove key`
 否則會影響`HashMap.eqauls()`比對
 
+---
+
+#### 如何copy HashMap
+```java
+myobjectListB = new HashMap<Integer,myObject>(myobjectListA);
+```
 
 
 ###### tags: `Leetcode` `Two Pointers`
