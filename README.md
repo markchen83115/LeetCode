@@ -83,6 +83,7 @@
 [438. Find All Anagrams in a String (M)](https://hackmd.io/AugPdiZsSp2YTR_6GzADdQ?view)  
 [1282. Group the People Given the Group Size They Belong To (E+)](https://hackmd.io/6BHd4_B4QEa3hRaeuAdLlw?view)  
 [1647. Minimum Deletions to Make Character Frequencies Unique (M-)](https://hackmd.io/ypzKIA_-SoCnloiv-VivNw?view)  
+[3160. Find the Number of Distinct Colors Among the Balls (M-)](https://hackmd.io/j6V5IWN4QL2evcy9Qu3pFQ?view)  
 [3412. Find Mirror Score of a String (M-)](https://hackmd.io/iPE4M5aKSse8wbfZcotgeA?view)  
 * `Hash+Prefix`  
 [525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
