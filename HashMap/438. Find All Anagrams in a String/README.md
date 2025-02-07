@@ -32,74 +32,37 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 
 
 ```java
-// Java O(s*26)  
-class Solution {  
-    public List<Integer> findAnagrams(String s, String p) {  
-        List<Integer> ret = new LinkedList<>();  
-        int[] freqP = new int[26];  
-        int[] freqS = new int[26];  
-        for (char c : p.toCharArray()) {  
-            freqP[c - 'a']++;  
-        }  
-  
-        for (int i = 0; i < s.length(); i++) {  
-            freqS[s.charAt(i) - 'a']++;  
-            if (i >= p.length()) {  
-                freqS[s.charAt(i - p.length()) - 'a']--;  
-            }  
-            if (Arrays.equals(freqS, freqP)) {  
-                ret.add(i - p.length() + 1);  
-            }  
-        }  
-        return ret;  
-    }  
+// Java 7ms(Beats 96.00%), Time O(N), Space O(26)
+class Solution {
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> ret = new ArrayList<>();
+        int n1 = s.length();
+        int n2 = p.length();
+        int[] freq = new int[26];
+        int need = 0;
+        for (char ch : p.toCharArray())
+            if (++freq[ch - 'a'] == 1)
+                need++;
+        
+        for (int i = 0; i < n1; i++)
+        {
+            if (--freq[s.charAt(i) - 'a'] == 0)
+                need--;
+            if (i >= n2 && ++freq[s.charAt(i - n2) - 'a'] == 1)
+                need++;
+            if (need == 0)
+                ret.add(i - n2 + 1);
+        }
+
+        return ret;
+    }
 }
 ```
-
-
-```java
-// Java O(s+p)  
-class Solution {  
-    public List<Integer> findAnagrams(String s, String p) {  
-        List<Integer> ret = new LinkedList<>();  
-        HashMap<Character, Integer> map = new HashMap<>();  
-        for (char c : p.toCharArray()) {  
-            map.put(c, map.getOrDefault(c, 0) + 1);  
-        }  
-        int needMatch = map.size();  
-  
-        for (int i = 0; i < s.length(); i++) {  
-            char c = s.charAt(i);  
-            if (map.containsKey(c)) {  
-                if (map.get(c) == 1) {  
-                    needMatch--;  
-                }  
-                map.put(c, map.get(c) - 1);  
-            }  
-            if (i >= p.length()) {  
-                char d = s.charAt(i - p.length());  
-                if (map.containsKey(d)) {  
-                    if (map.get(d) == 0) {  
-                        needMatch++;  
-                    }  
-                    map.put(d, map.get(d) + 1);  
-                }  
-            }  
-            if (needMatch == 0) {  
-                ret.add(i - p.length() + 1);  
-            }  
-        }  
-        return ret;  
-    }  
-}
-
-```
-
-
 ---
 
-利用frequency來比較p跟s的字串內容,  
-找出相同的frequency
+利用frequency來比較p跟s的字串內容, 找出相同的frequency
+若s[i]加入時, --freq[s[i]] == 0, 代表該字母已經足夠, 則need--
+若s[i]退出時, --freq[s[i]] == 1, 代表該字母從足夠變為不足夠, 則need++
 
 
 ###### tags: `Leetcode` `HashMap`
