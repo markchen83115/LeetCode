@@ -34,6 +34,7 @@
 [2516. Take K of Each Character From Left and Right (M+)](https://hackmd.io/4OKZyTNUSc2wZ0WSjJl6uQ?view)  
 [2730. Find the Longest Semi-Repetitive Substring (M+)](https://hackmd.io/T59rjFubR-aBdeijxMLgsQ?view)  
 [2953. Count Complete Substrings (H)](https://hackmd.io/t0xZSYKuRfGVFx0iYGuFhw?view)  
+[2958. Length of Longest Subarray With at Most K Frequency (M)](https://hackmd.io/JIGxoLdRQkerYhk470yQ1g?view)  
 [2962. Count Subarrays Where Max Element Appears at Least K Times (M)](https://hackmd.io/ujvXJ5r9SNOUxi0D5zsATw?view)  
 [3097. Shortest Subarray With OR at Least K II (M)](https://hackmd.io/67_kPZPERJ-OnS15H0lmaA?view)  
 [3298. Count Substrings That Can Be Rearranged to Contain a String II (M+)](https://hackmd.io/VFsZVSYfQwuMXJ-W8i5riQ?view)  
