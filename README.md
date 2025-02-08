@@ -434,6 +434,7 @@
 [670. Maximum Swap (M+)](https://hackmd.io/xu6MzC_NQIOY8N56EJC30g?view)  
 [916. Word Subsets (M+)](https://hackmd.io/1j5UlGl1RUKFrmAkW1Le2A?view)  
 [1014. Best Sightseeing Pair (M)](https://hackmd.io/NUrxX0D3Tci7mbirKP4QBA?view)  
+[1016. Binary String With Substrings Representing 1 To N (M)](https://hackmd.io/nxVHPdAXRQuVUcmrls3nEA?view)  
 [1717. Maximum Score From Removing Substrings (M+)](https://hackmd.io/Rq_i1gViQJ6QmpQqjS_aww?view)  
 [1899. Merge Triplets to Form Target Triplet (M-)](https://hackmd.io/3TFryenHQ624SAtCQXgQ_g?view)  
 [1930. Unique Length-3 Palindromic Subsequences (M-)](https://hackmd.io/8muBsTvRSEangwL_P6WnJA?view)  
