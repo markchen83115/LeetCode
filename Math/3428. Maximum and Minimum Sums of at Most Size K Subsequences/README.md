@@ -126,4 +126,4 @@ class Solution {
 貢獻為`comb(i, size - 1)`
 
 
-###### tags: `Leetcode` `Math` `Combinatorics`
+###### tags: `Leetcode` `Math` `Combinatorics` `Others` `Count Subarray by Element`

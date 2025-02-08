@@ -502,6 +502,8 @@
 [2584. Split the Array to Make Coprime Products (H)](https://hackmd.io/ylxsSCGTQAaDUFbFi7khlg?view)  
 * `Collision`  
 [853. Car Fleet (M)](https://hackmd.io/jAf6LyCoQT2U0VQcIPYbpg?view)  
+* `Count Subarray by Element`  
+[3428. Maximum and Minimum Sums of at Most Size K Subsequences (M+)](https://hackmd.io/SeEX2elYRGOwLGj9WIlpog?view)  
 * `掃描線/差分陣列`  
 [056. Merge Intervals (M)](https://hackmd.io/6jaM6VeJRX64oyNTD8kjgA?view)  
 [057. Insert Interval (M)](https://hackmd.io/zahPB5qUS2Og7socv5dqXw?view)  
