@@ -165,6 +165,7 @@
 [380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
 [895. Maximum Frequency Stack (H)](https://hackmd.io/Ft9A6CTXRgm_jQNBlIJd6A?view)  
 [1381. Design a Stack With Increment Operation (H-)](https://hackmd.io/30cisQDdQlKCsV6MykK91A?view)  
+[3408. Design Task Manager (M+)](https://hackmd.io/wxV_PxVdQQWXxAw-Xz406w?view)  
 * `Linked List`  
 [146. LRU Cache (H-)](https://hackmd.io/BAvst0prT22nnJuXSuDBPw?view)  
 
@@ -206,6 +207,7 @@
 [1337. The K Weakest Rows in a Matrix (E)](https://hackmd.io/XYcCvhQHQ9SMVEnw3m-4lA?view)  
 [1642. Furthest Building You Can Reach (H-)](https://hackmd.io/g35hZhyCRMCaZh83yZ9J0A?view)  
 [1792. Maximum Average Pass Ratio (M+)](https://hackmd.io/RUv-pWxvRaSwbrW6L2yuCg?view)  
+[3408. Design Task Manager (M+)](https://hackmd.io/wxV_PxVdQQWXxAw-Xz406w?view)  
 * `Dual PQ`  
 [1942. The Number of the Smallest Unoccupied Chair (M+)](https://hackmd.io/vTalAppXRDmp6ORqfaoBHQ?view)  
 [2653. Sliding Subarray Beauty (M+)](https://hackmd.io/SqjGSyHfRCCwg6JGn_sm_w?view)  
