@@ -26,6 +26,7 @@
 * `Sliding window`  
 [424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
 [567. Permutation in String (M)](https://hackmd.io/81ltDKRkS_aP8enYjJqvdA?view)  
+[1004. Max Consecutive Ones III (M)](https://hackmd.io/-otEAFSsSgSqOCyUNctW-Q?view)  
 [1052. Grumpy Bookstore Owner (M)](https://hackmd.io/NB46oVdbSHmTTSNmOOZQLA?view)  
 [1248. Count Number of Nice Subarrays (M+)](https://hackmd.io/TYgGvpOOSCqvJJtk5hQBUQ?view)  
 [1423. Maximum Points You Can Obtain from Cards (M)](https://hackmd.io/AhTGTOd3R9u0Bx3TOI68fA?view)  
