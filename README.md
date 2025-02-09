@@ -415,6 +415,7 @@
 [2191. Sort the Jumbled Numbers (M)](https://hackmd.io/nWEyn88ISaiTx9iAofx_kw?view)  
 [2491. Divide Players Into Teams of Equal Skill (E+)](https://hackmd.io/scvNS3XwT4mTI7F4UuCK6w?view)  
 [2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/_QVr0XzzRS6A27Yd_vDuRw?view)  
+[3447. Assign Elements to Groups with Constraints (M)](https://hackmd.io/deksvb6RTwGmywBlkWr6fw?view)  
 * `Random Pick`  
 [528. Random Pick with Weight (H-)](https://hackmd.io/0kgp_H0OTUGjgSrqCvu2DA?view)  
 * `Numerical Theory`  
