@@ -420,7 +420,6 @@
 [2191. Sort the Jumbled Numbers (M)](https://hackmd.io/nWEyn88ISaiTx9iAofx_kw?view)  
 [2491. Divide Players Into Teams of Equal Skill (E+)](https://hackmd.io/scvNS3XwT4mTI7F4UuCK6w?view)  
 [2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/_QVr0XzzRS6A27Yd_vDuRw?view)  
-[3447. Assign Elements to Groups with Constraints (M)](https://hackmd.io/deksvb6RTwGmywBlkWr6fw?view)  
 * `Random Pick`  
 [528. Random Pick with Weight (H-)](https://hackmd.io/0kgp_H0OTUGjgSrqCvu2DA?view)  
 * `Numerical Theory`  
@@ -527,6 +526,7 @@
 * `Enumeration`  
 [2013. Detect Squares (M+)](https://hackmd.io/WChQDdtZQKG3k2GMbYhGPw?view)  
 [2552. Count Increasing Quadruplets (H-)](https://hackmd.io/63w0pWHnS7imHwm_YUewHQ?view)  
+[3447. Assign Elements to Groups with Constraints (M)](https://hackmd.io/deksvb6RTwGmywBlkWr6fw?view)  
 * `Matrix`  
 [036. Valid Sudoku (M)](https://hackmd.io/PMgDKfUfTqGfoa1Ohm3Dpw?view)  
 [048. Rotate Image (M+)](https://hackmd.io/250xKM-WQjGrlHjlOEfh7w?view)  

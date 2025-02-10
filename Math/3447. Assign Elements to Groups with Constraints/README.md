@@ -1,4 +1,4 @@
-# Leetcode - 3447. Assign Elements to Groups with Constraints (M)
+# Leetcode - 3447. Assign Elements to Groups with Constraints (M+)
 
 [Leetcode](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/)
 
@@ -78,10 +78,44 @@ class Solution {
     }
 }
 ```
+```java
+// Java 優化 6ms(Beats 100.00%), Time O(NlogN), Space O(N)
+class Solution {
+    public int[] assignElements(int[] groups, int[] elements) {
+        int n = 0;
+        for (int g : groups)
+            n = Math.max(n, g);
+            
+        int[] index = new int[n + 1];  // 優化
+        Arrays.fill(index, -1);
+        for (int i = 0; i < elements.length; i++)
+        {
+            // 優化
+            if (elements[i] > n)
+                continue;
+            if (index[elements[i]] != -1)
+                continue;
+            
+            for (int e = elements[i]; e <= n; e += elements[i])
+                if (index[e] == -1)
+                    index[e] = i;
+        }
+
+        for (int i = 0; i < groups.length; i++)
+            groups[i] = index[groups[i]];
+
+        return groups;
+    }
+}
+```
 ---
 
-將所有1 ~ 100000的數字先處理好, 透過elements來往上加
-最後再遍歷groups[i]所使用的elements[i]
+突破點在於groups裡的元素的數值不超過1e5.在這個範圍是，如果枚舉所有1的倍數，然後枚舉所有2的倍數，然後枚舉所有3的倍數，直至枚舉n的倍數，那麼總共的時間複雜度是`n+n/2+n/3+...n/n = n*(1+1/2+n/3+...n/n = n*(1+1/2+n/3+...n/n = n*(1+1/2+n/3(n-73)`所以本題可以用暴力枚舉
+
+所以本題的演算法很簡單。我們開一個長度為1e5的陣列assign，來記錄每個自然數最早能被哪個element所assign。我們依序考察element裡的每個元素，比如說`elements[j]=x`，然後枚舉x的所有倍數（直至1e5），比如說kx，那樣就有`assign[kx] = j`，當然根據題意，我們對於每個assign我們只更新一次
+
+最後根據groups的數值，從assgin裡把答案拷貝過去即可
 
 
-###### tags: `Leetcode` `Math`
+
+###### tags: `Leetcode` `Others` `Enumeration`
