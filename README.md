@@ -38,6 +38,7 @@
 [2730. Find the Longest Semi-Repetitive Substring (M+)](https://hackmd.io/T59rjFubR-aBdeijxMLgsQ?view)  
 [2779. Maximum Beauty of an Array After Applying Operation (M)](https://hackmd.io/uzKFxLwvTYGx7xmDsGLfuA?view)  
 [2831. Find the Longest Equal Subarray (M)](https://hackmd.io/XsWRAUMDRgafzBdePiPoBQ?view)  
+[2904. Shortest and Lexicographically Smallest Beautiful String (M-)](https://hackmd.io/UQ1tMM-yRC2NKXbafvzlfg?view)  
 [2953. Count Complete Substrings (H)](https://hackmd.io/t0xZSYKuRfGVFx0iYGuFhw?view)  
 [2958. Length of Longest Subarray With at Most K Frequency (M)](https://hackmd.io/JIGxoLdRQkerYhk470yQ1g?view)  
 [2962. Count Subarrays Where Max Element Appears at Least K Times (M)](https://hackmd.io/ujvXJ5r9SNOUxi0D5zsATw?view)  
