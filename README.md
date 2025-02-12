@@ -21,6 +21,7 @@
 [283. Move Zeroes (M)](https://hackmd.io/dHDMn0piTkKVUuCE-LRG3Q?view)  
 [876. Middle of the Linked List (E)](https://hackmd.io/_aZ7GjtpQK6f-JKBbn0cGw?view)  
 [977. Squares of a Sorted Array (E)](https://hackmd.io/hDA2bwzWR4W_HKNZHUrIsw?view)  
+[1234. Replace the Substring for Balanced String (H-)](https://hackmd.io/LqbJTOKKROegB6JOcpdU-w?view)  
 [1574. Shortest Subarray to be Removed to Make Array Sorted (H-)](https://hackmd.io/yWxwbobjQ9KUoHVfqTE21Q?view)  
 [2563. Count the Number of Fair Pairs (M+)](https://hackmd.io/H0NhbPRZTluiVbB_kOjbtg?view)  
 * `Sliding window`  
