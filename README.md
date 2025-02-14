@@ -179,6 +179,7 @@
 [355. Design Twitter (H)](https://hackmd.io/prWZb-5aTxu-VxJ8JSmC5w?view)  
 [380. Insert Delete GetRandom O(1) (M+)](https://hackmd.io/Zvsvsd13QcG_IR9_xiJYng?view)  
 [895. Maximum Frequency Stack (H)](https://hackmd.io/Ft9A6CTXRgm_jQNBlIJd6A?view)  
+[1352. Product of the Last K Numbers (M+)](https://hackmd.io/ofeBe0rLSjyGT94FCsDGTQ?view)  
 [1381. Design a Stack With Increment Operation (H-)](https://hackmd.io/30cisQDdQlKCsV6MykK91A?view)  
 [3408. Design Task Manager (M+)](https://hackmd.io/wxV_PxVdQQWXxAw-Xz406w?view)  
 * `Linked List`  
