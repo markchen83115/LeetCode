@@ -369,6 +369,7 @@
 
 [008. String to Integer (atoi) (M)](https://hackmd.io/GjWKBGy6TmSTJfwNE-t4rA?view)  
 [014. Longest Common Prefix (E)](https://hackmd.io/HLSG36tsTsiUC2npRKwyMg?view)  
+[068. Text Justification (H)](https://hackmd.io/jr11CMjeQIqQSYnH0o85Dw?view)  
 [091. Decode Ways (M)](https://hackmd.io/RhmtdGaxT_uLm6zboHXANQ?view)  
 [242. Valid Anagram (E)](https://hackmd.io/qDumxx3aQmeit23RZlj24A?view)  
 [336. Palindrome Pairs (H-)](https://hackmd.io/Ou5yAuKASHGB5lT4k_UHIw?view)  
