@@ -442,6 +442,7 @@
 [017. Letter Combinations of a Phone Number (M)](https://hackmd.io/2wp7NvXzQr6fUX2m2HOcZA?view)  
 [022. Generate Parentheses (M)](https://hackmd.io/5t2VvHVYS9i5UCq7pCvFFw?view)  
 [046. Permutations (M+)](https://hackmd.io/KijrDi01R2KCRfmDgHgTWQ?view)  
+[077. Combinations (H-)](https://hackmd.io/T8TMZEHWSB2nvicACmMv6Q?view)  
 [078. Subsets (M+)](https://hackmd.io/mHuf-PhWRzeVmsB39Ea0xQ?view)  
 [3405. Count the Number of Arrays with K Matching Adjacent Elements (H-)](https://hackmd.io/2TOCUrq7TzmkPP67B2z2Yw?view)  
 [3428. Maximum and Minimum Sums of at Most Size K Subsequences (M+)](https://hackmd.io/SeEX2elYRGOwLGj9WIlpog?view)  
