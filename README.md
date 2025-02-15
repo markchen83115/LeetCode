@@ -205,6 +205,7 @@
 [085. Maximal Rectangle (H-)](https://hackmd.io/nqVvYYTETiWdYA8PalOsRg?view)  
 [962. Maximum Width Ramp (H)](https://hackmd.io/5uVjkJgESzu2MN9RTcmqHw?view)  
 * `Parse expression`  
+[071. Simplify Path (M)](https://hackmd.io/DvCrR6F0SpGxsWQYLFbYlg?view)  
 [224. Basic Calculator (H-)](https://hackmd.io/_mKJUa0nROyP8lzo9Y79pA?view)  
 [227. Basic Calculator II (H-)](https://hackmd.io/aWEcLthSRvqTqYYA_PGK_w?view)  
 [1106. Parsing A Boolean Expression (H-)](https://hackmd.io/J21g96XnSBiFZqx7Voa3FQ?view)  
