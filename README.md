@@ -250,6 +250,7 @@
 [695. Max Area of Island (M-)](https://hackmd.io/jyZRGkZ9S5OZsuwsQBADmg?view)  
 [733. Flood Fill (E)](https://hackmd.io/DwAwNZnXSWOFtAy-jYLhTQ?view)  
 [827. Making A Large Island (M+)](https://hackmd.io/fOftISRPTkSQR748iLqBsw?view)  
+[1079. Letter Tile Possibilities (M)](https://hackmd.io/WarQYj87RWSSQWnkF2q3Sg?view)  
 [1718. Construct the Lexicographically Largest Valid Sequence (H-)](https://hackmd.io/FwDf_5DlReuxK-eXoIZ9rg?view)  
 [2658. Maximum Number of Fish in a Grid (M-)](https://hackmd.io/sr32yjOfSHOyb3vEPEPDEw?view)  
 * `search in an array`  
