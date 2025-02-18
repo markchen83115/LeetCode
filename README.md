@@ -480,6 +480,8 @@
 [3433. Count Mentions Per User (M)](https://hackmd.io/4O9HFJsjSUGKrQVrE-H5IQ?view)  
 * `Lexicographical Sequence`  
 [031. Next Permutation (H)](https://hackmd.io/564va39pSIKxG8Pxyb582A?view)  
+* `DI Sequence`  
+[2375. Construct Smallest Number From DI String (M)](https://hackmd.io/WYtrVMOtQvOiiYVZ4xBYww?view)  
 * `LIS`  
 [300. Longest Increasing Subsequence (M+)](https://hackmd.io/FXtQ9HvFRpWcA8qvaRUhqA?view)  
 * `Two-pass distribution`  
