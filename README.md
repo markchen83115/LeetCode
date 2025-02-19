@@ -412,6 +412,7 @@
 [877. Stone Game (M+)](https://hackmd.io/TW4C492uSvGQ5rMEIqROfQ?view)  
 * `Digit counting & finding`  
 [440. K-th Smallest in Lexicographical Order (H-)](https://hackmd.io/S4N2vf5zQiSWZJHKhxzA2A?view)  
+[1415. The k-th Lexicographical String of All Happy Strings of Length n (H-)](https://hackmd.io/-uV3FhcjSkSzffPtUi3pQA?view)  
 [3307. Find the K-th Character in String Game II (M+)](https://hackmd.io/p93xYU12QTylO1cZ1gkTVw?view)  
 
 
