@@ -166,6 +166,7 @@
 * `Tree & Sequence`  
 [105. Construct Binary Tree from Preorder and Inorder Traversal (H-)](https://hackmd.io/4hC6uXAVR7WBcwAeeWjI5g?view)  
 [106. Construct Binary Tree from Inorder and Postorder Traversal (M+)](https://hackmd.io/oHLC03E2Qp6uzm7v2FD9sA?view)  
+[889. Construct Binary Tree from Preorder and Postorder Traversal (M+)](https://hackmd.io/JuiHiuZIQHSbAFLnWrj-Tg?view)  
 [1028. Recover a Tree From Preorder Traversal (H-)](https://hackmd.io/VOwRID1AT3qvPDqD7lsDaQ?view)  
 * `LCA`  
 [235. Lowest Common Ancestor of a Binary Search Tree](https://hackmd.io/uYaKmosKTtyBRVtGUmZxyQ?view)  
