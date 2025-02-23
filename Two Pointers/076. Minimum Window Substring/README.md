@@ -41,93 +41,51 @@ Since the largest window of s only has one 'a', return empty string.
 ---
 
 ```java
-// Java 110ms  
-class Solution {  
-    public String minWindow(String s, String t) {  
-        String minStr = "";  
-        int minLen = Integer.MAX_VALUE;  
-        HashMap<Character, Integer> tMap = new HashMap<>();  
-        // t char hashmap  
-        for (char ch : t.toCharArray()) {  
-            tMap.put(ch, tMap.getOrDefault(ch, 0) + 1);  
-        }  
-  
-        int start = 0;  
-        int need = t.length();  
-        for (int i = 0; i < s.length(); i++) {  
-            // increase window  
-            char curChar = s.charAt(i);  
-            if (tMap.containsKey(curChar)) {  
-                if (tMap.get(curChar) > 0) {  
-                    need--;  
-                }  
-                tMap.merge(curChar, -1, Integer::sum);  
-            }  
-  
-            while (need == 0) {  
-                // update Min length  
-                if ( i - start + 1 < minLen) {  
-                    minLen = i - start + 1;  
-                    minStr = s.substring(start, i + 1);  
-                }  
-  
-                // decrease window  
-                char startChar = s.charAt(start);  
-                if (tMap.containsKey(startChar)) {  
-                    if (tMap.get(startChar) == 0) {  
-                        need++;  
-                    }  
-                    tMap.merge(startChar, 1, Integer::sum);  
-                }  
-                start++;  
-            }  
-        }  
-        return minStr;  
-    }  
+// Java 2ms(Beats 99.89%), Time O(N), Space O(N)
+class Solution {
+    public String minWindow(String s, String t) {
+        int[] freq = new int[128];
+        int need = 0;
+        for (char ch : t.toCharArray())
+            if (++freq[ch - 'A'] == 1)
+                need++;
+        
+        int j = 0;
+        int n = s.length();
+        int start = 0, end = n + 1;
+        for (int i = 0; i < n; i++)
+        {
+            while (j < n && need > 0)
+            {
+                if (--freq[s.charAt(j) - 'A'] == 0)
+                    need--;
+                j++;
+            }
+
+            if (need == 0 && end - start > j - i)
+            {
+                start = i;
+                end = j;
+            }
+
+            if (++freq[s.charAt(i) - 'A'] == 1)
+                need++;
+        }
+
+        return end == n + 1 ? "" : s.substring(start, end);
+    }
 }
 ```
-
-```java
-// Java 2ms  
-// use HashMap -> int[]  
-// store answer String -> store int  
-class Solution {  
-    public String minWindow(String s, String t) {  
-                int[] map = new int[128];  
-        for (int i = 0; i < t.length(); i++) {  
-            map[t.charAt(i)]++;  
-        }  
-        int left = 0;  
-        int right = 0;  
-        int count = t.length();  
-        int min = Integer.MAX_VALUE;  
-        int start = 0;  
-        while (right < s.length()) {  
-            if (map[s.charAt(right++)]-- > 0) {  
-                count--;  
-            }  
-            while (count == 0) {  
-                if (right - left < min) {  
-                    min = right - left;  
-                    start = left;  
-                }  
-                if (map[s.charAt(left++)]++ == 0) {  
-                    count++;  
-                }  
-            }  
-        }  
-        return min == Integer.MAX_VALUE ? "" : s.substring(start, start + min);  
-    }   
-}  
-```
-
 ---
 
+典型的雙指針題型。
 
-> **Sliding Window**
+對於每個新加入的元素`s[j]`，首先更新該字元出現次數的`Map[s[i]]++`
+如果更新後，`Map[s[i]]`等於需要出現的次數`Table[s[i]]`，則計數器`count++`，說明有一個字元滿足了出現次數的要求．
 
-calculate t’s frequency,  
-**increase window** by every character  
-if hit t’s frequency, then **decrease window** until not hit t’s frequency
+當`count`等於`t`中的字元類型數`COUNT`時，表示任務已經實現。此時，讓左指針不斷右移，對應的`Map[s[i]]`就要自減，一旦`Map[s[i]] < Table[s[i]]`，則count需要自減1從而不再滿足`COUNT`，說明需要繼續加入新元素才能滿足任務. 從而j才可以右移繼續遍歷。
+
+在這個過程中如果滿足條件`count==COUNT`，都需要不斷更新和記錄結果。
+
 
 ###### tags: `Leetcode` `Two Pointers` `Sliding window : Distinct Characters`
