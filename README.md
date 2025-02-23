@@ -30,6 +30,7 @@
 [1004. Max Consecutive Ones III (M)](https://hackmd.io/-otEAFSsSgSqOCyUNctW-Q?view)  
 [1052. Grumpy Bookstore Owner (M)](https://hackmd.io/NB46oVdbSHmTTSNmOOZQLA?view)  
 [1248. Count Number of Nice Subarrays (M+)](https://hackmd.io/TYgGvpOOSCqvJJtk5hQBUQ?view)  
+[1358. Number of Substrings Containing All Three Characters (M)](https://hackmd.io/JsrV7DxASO-HSTn5I8gdng?view)  
 [1423. Maximum Points You Can Obtain from Cards (M)](https://hackmd.io/AhTGTOd3R9u0Bx3TOI68fA?view)  
 [1658. Minimum Operations to Reduce X to Zero (M)](https://hackmd.io/CFd6KayVROeohP3Shna1ww?view)  
 [1838. Frequency of the Most Frequent Element (H-)](https://hackmd.io/qtnEb_l3SEaKXSX5195G6Q?view)  
