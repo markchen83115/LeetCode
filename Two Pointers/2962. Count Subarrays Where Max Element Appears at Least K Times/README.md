@@ -28,35 +28,35 @@ Explanation: No subarray contains the element 4 at least 3 times.
 
 ---
 ```java
-// Java 4ms (Beats 100.00%), Time O(N), Space O(1)
+// Java 6ms(Beats 34.91%), Time O(N), Space O(1)
 class Solution {
     public long countSubarrays(int[] nums, int k) {
-        HashMap<Integer, Integer> indexMap = new HashMap<>();
+        long ret = 0;
         int max = 0;
         for (int num : nums)
             max = Math.max(max, num);
-
-        int count = 0;
+        
+        int n = nums.length;
         int j = 0;
-        long ret = 0;
-        for (int i = 0; i < nums.length; i++)
+        for (int i = 0; i < n; i++)
         {
-            if (nums[i] == max)
-                count++;
-            while (count >= k)
+            while (j < n && k > 0)
             {
                 if (nums[j] == max)
-                    count--;
+                    k--;
                 j++;
             }
 
-            ret += j;
+            if (k == 0)
+                ret += n - j + 1;
+            
+            if (nums[i] == max)
+                k++;
         }
 
         return ret;
     }
 }
-
 ```
 ---
 
