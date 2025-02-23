@@ -30,7 +30,7 @@ Output: [1,1]
 
 ---
 ```java
-// Java 39ms(Beats 60.77%), Time O(NlogN), Space O(N)
+// Java PQ 39ms(Beats 60.77%), Time O(NlogN), Space O(N)
 class Solution {
     public int[] smallestRange(List<List<Integer>> nums) {
         PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> (a[0] - b[0]));
@@ -64,36 +64,41 @@ class Solution {
     }
 }
 ```
+```java
+// Java Sliding Window 66ms(Beats 95.84%), Time O(NlogN), Space O(N)
+class Solution {
+    public int[] smallestRange(List<List<Integer>> nums) {
+        int need = nums.size();
+        int[] freq = new int[need];
+        List<int[]> list = new ArrayList<>();
+        for (int group = 0; group < nums.size(); group++)
+            for (int num : nums.get(group))
+                list.add(new int[] {num, group});
 
-```csharp
-// C# 190ms(Beats 53.57%), Time O(NlogN), Space O(N)
-public class Solution {
-    public int[] SmallestRange(IList<IList<int>> nums) {
-        PriorityQueue<int[], int> pq = new PriorityQueue<int[], int>();
-        int n = nums.Count;
-        int max = Int32.MinValue;
+        Collections.sort(list, (a, b) -> a[0] - b[0]);
+
+        int n = list.size();
         int start = -100000, end = 100000;
-        for (int i = 0; i < n; i++) {
-            int[] element = new int[] {nums[i][0], 0, i}; // num, index, group
-            max = Math.Max(max, nums[i][0]);
-            pq.Enqueue(element, element[0]);
-        }
-
-        while (pq.Count == n) {
-            int[] element = pq.Dequeue();
-            int min = element[0], index = element[1], group = element[2];
-            // update result
-            if (end - start > max - min) {
-                start = min;
-                end = max;
+        int j = 0;
+        for (int i = 0; i < n; i++)
+        {
+            while (j < n && need > 0)
+            {
+                int group = list.get(j)[1];
+                if (++freq[group] == 1)
+                    need--;
+                j++;
             }
 
-            // add new element
-            if (++index < nums[group].Count) {
-                int[] newElement = new int[] {nums[group][index], index, group};
-                pq.Enqueue(newElement, newElement[0]);
-                max = Math.Max(max, nums[group][index]);
+            if (need == 0 && list.get(j - 1)[0] - list.get(i)[0] < end - start)
+            {
+                start = list.get(i)[0];
+                end = list.get(j - 1)[0];
             }
+
+            int group = list.get(i)[1];
+            if (--freq[group] == 0)
+                need++;
         }
 
         return new int[] {start, end};
@@ -103,8 +108,8 @@ public class Solution {
 
 ---
 
-[wisdompeak/YouTube](https://www.youtube.com/watch?v=ejVD92bJe34)
-
+#### Sorted Container
+參考[【每日一题】632. Smallest Range Covering Elements from K Lists, 12/3/2020 - YouTube](https://youtu.be/ejVD92bJe34)
 ```
 [4,10,15,24,26]
 [0,9,12,20]
@@ -114,4 +119,11 @@ public class Solution {
 從剔除的那組找下一個 -> [0,9,12,20] 找到9放入PQ
 ```
 
-###### tags: `Leetcode` `Heap`
+#### Sliding Window
+![image](https://hackmd.io/_uploads/Hk0VDUOcJl.png)
+將每個數字及分組放入List中, 並依數字從小到大排序
+若分組不夠時, 則右指針往右, 擴大範圍
+若分組已夠時, 則左指針往左, 縮小範圍
+
+
+###### tags: `Leetcode` `Sorted Container`

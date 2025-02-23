@@ -74,18 +74,30 @@ class MedianFinder {
         }
     }
 }
-
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * MedianFinder obj = new MedianFinder();
- * obj.addNum(num);
- * double param_2 = obj.findMedian();
- */
 ```
-
 ---
-[Java/Python two heap solution, O(log n) add, O(1) find](https://leetcode.com/problems/find-median-from-data-stream/solutions/74047/java-python-two-heap-solution-o-log-n-add-o-1-find/?orderBy=most_votes)
+
+參考 [Java/Python two heap solution, O(log n) add, O(1) find](https://leetcode.com/problems/find-median-from-data-stream/solutions/74047/java-python-two-heap-solution-o-log-n-add-o-1-find/?orderBy=most_votes)
 
 
+參考[【每日一題】 295. Find Median from Data Stream, 06/25/2019 - YouTube](https://youtu.be/dy8AdRodlkQ)
+#### 解法1:
 
-###### tags: `Leetcode` `Heap`
+[ ](https://github.com/wisdompeak/LeetCode/tree/master/Sorted_Container/295.Find-Median-from-Data-Stream#%E8%A7%A3%E6%B3%951)
+
+設計兩個可以即時排序的multiset，其中一個Large存放較大的那一半數據，另一個Small存放較小的那一半數據。
+
+每次讀入新數num，和Large的首元素比較大小，決定要加入Large還是Small。加入之後，需要調整Large和Small的個數，使得總是保持Large比Small多一個或兩者數目相等。
+
+產出的Median是Large的首元素，或是Large首元素和Small尾元素的平均值。
+
+#### 解法2:
+
+[ ](https://github.com/wisdompeak/LeetCode/tree/master/Sorted_Container/295.Find-Median-from-Data-Stream#%E8%A7%A3%E6%B3%952)
+
+使用multiset容器和相應的迭代器的操作,非常簡單明了.不斷更新處於正中間或者中間偏左的那個迭代器位置即可.
+
+注意,multiset裡有相同的元素加入時,新元素的迭代器位置在舊元素迭代器位置的後面.
+
+
+###### tags: `Leetcode` `Sorted Container` `Dual Multiset`

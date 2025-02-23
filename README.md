@@ -114,20 +114,17 @@
 > **Sorted Container**  
 
 [220. Contains Duplicate III (M)](https://hackmd.io/G2bCzIqPTCaASbBiZT0jHQ?view)  
+[632. Smallest Range Covering Elements from K Lists (H-)](https://hackmd.io/xh4o28IcS-ugjUYrBNMJkA?view)  
 [729. My Calendar I (M)](https://hackmd.io/5i7CpC_UQtmAdFmmJ2uqVg?view)  
 [846. Hand of Straights (M)](https://hackmd.io/0_J2yII0SzCP42Sf_lOhmg?view)  
 [1296. Divide Array in Sets of K Consecutive Numbers (M)](https://hackmd.io/9_7q8Ik8SwGUskY_fb8TSg?view)  
 [2948. Make Lexicographically Smallest Array by Swapping Elements (M+)](https://hackmd.io/DOSXT3EXQh-IuBmdXhOkNg?view)  
 * `Dual Multiset`  
+[295. Find Median from Data Stream (M)](https://hackmd.io/0pwBxH5CTqeCr8s60i9K5w?view)  
 [2653. Sliding Subarray Beauty (M+)](https://hackmd.io/SqjGSyHfRCCwg6JGn_sm_w?view)  
 * `Sorted_Container w/ monotonic mapping values`  
 [2940. Find Building Where Alice and Bob Can Meet (H)](https://hackmd.io/HO2FJwHEQsmKkmXBG_be6Q?view)  
 
-
-> **Heap**  
-
-[295. Find Median from Data Stream (M)](https://hackmd.io/0pwBxH5CTqeCr8s60i9K5w?view)  
-[632. Smallest Range Covering Elements from K Lists (H-)](https://hackmd.io/xh4o28IcS-ugjUYrBNMJkA?view)  
 
 > **Tree**  
 
