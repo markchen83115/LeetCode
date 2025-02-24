@@ -155,7 +155,8 @@
 [2641. Cousins in Binary Tree II (M)](https://hackmd.io/pTvXbT7oSj2RbNZskAQzPg?view)  
 [2872. Maximum Number of K-Divisible Components (H)](https://hackmd.io/1BEd0dTGRTSLZjeod7pygg?view)  
 [3319. K-th Largest Perfect Subtree Size in Binary Tree (M)](https://hackmd.io/vu16GNmARVumqHYJtuEbCA?view)  
-
+* `Regular DFS`  
+[2467. Most Profitable Path in a Tree (M+)](https://hackmd.io/YjWlvz3rRe-yz8QcwMh8UQ?view)  
 * `Path in a tree`  
 [113. Path Sum II (M)](https://hackmd.io/F3aTPgoaQYuyZv9lQucwPg?view)  
 [124. Binary Tree Maximum Path Sum (M)](https://hackmd.io/ygtZ3IpTSWmVWc2DDYC6Qw?view)  
