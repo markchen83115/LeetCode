@@ -106,6 +106,7 @@
 [525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
 [560. Subarray Sum Equals K (M)](https://hackmd.io/NUW0LxU4QimnkDewOAVr4g?view)  
 [1371. Find the Longest Substring Containing Vowels in Even Counts (H-)](https://hackmd.io/PYdo0tHFSjyqagMZ8A6D2A?view)  
+[1524. Number of Sub-arrays With Odd Sum (M)](https://hackmd.io/sHjlHnXVTICaylkjfKI8og?view)  
 [1590. Make Sum Divisible by P (M+)](https://hackmd.io/NKwWWEHhQoCLgwzw4P85Jg?view)  
 [1658. Minimum Operations to Reduce X to Zero (M)](https://hackmd.io/CFd6KayVROeohP3Shna1ww?view)  
 [2364. Count Number of Bad Pairs (M)](https://hackmd.io/B-oT0yj0Q7yESfDU0o3_ZA?view)  
