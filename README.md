@@ -355,6 +355,7 @@
 [010. Regular Expression Matching (H)](https://hackmd.io/GCv0SpuOSM-xlqZOFGySog?view)  
 [097. Interleaving String (H-)](https://hackmd.io/5S9uOf0CTcOyHMdQOpT_iQ?view)  
 [115. Distinct Subsequences (H-)](https://hackmd.io/7AoOSN7bRFaG4YRxR6d8xg?view)
+[1092. Shortest Common Supersequence (H-)](https://hackmd.io/G9elFDdwTN-SgQ_udTqkeg?view)  
 [1143. Longest Common Subsequence (M)](https://hackmd.io/0NL055xHSYW364o3vD2ykA?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
