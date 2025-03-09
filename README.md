@@ -25,6 +25,7 @@
 [1234. Replace the Substring for Balanced String (H-)](https://hackmd.io/LqbJTOKKROegB6JOcpdU-w?view)  
 [1574. Shortest Subarray to be Removed to Make Array Sorted (H-)](https://hackmd.io/yWxwbobjQ9KUoHVfqTE21Q?view)  
 [2563. Count the Number of Fair Pairs (M+)](https://hackmd.io/H0NhbPRZTluiVbB_kOjbtg?view)  
+[3208. Alternating Groups II (M)](https://hackmd.io/5rkuLMh_SFO2BrTUo0EC6w?view)  
 * `Sliding window`  
 [424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
 [567. Permutation in String (M)](https://hackmd.io/81ltDKRkS_aP8enYjJqvdA?view)  
