@@ -223,6 +223,7 @@
 
 [239. Sliding Window Maximum (H-)](https://hackmd.io/npC3CaTlRim0EbYno2PsFg?view)  
 [862. Shortest Subarray with Sum at Least K (H)](https://hackmd.io/oibqhlT9Rty0_PQeU4OcJg?view)  
+[1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (H)](https://hackmd.io/PAn5PWEqSoO8HqZjiiu_JA?view)  
 [2762. Continuous Subarrays (M+)](https://hackmd.io/UptF4lGaRIi3d80G3h-LcQ?view)  
 
 
