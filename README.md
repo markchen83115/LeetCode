@@ -29,6 +29,7 @@
 * `Sliding window`  
 [424. Longest Repeating Character Replacement (H-)](https://hackmd.io/mNv0PwV_Spm4OG1r4irkoQ?view)  
 [567. Permutation in String (M)](https://hackmd.io/81ltDKRkS_aP8enYjJqvdA?view)  
+[930. Binary Subarrays With Sum (M+)](https://hackmd.io/HqRD822DQVOvB6ltdu6E0Q?view)  
 [1004. Max Consecutive Ones III (M)](https://hackmd.io/-otEAFSsSgSqOCyUNctW-Q?view)  
 [1052. Grumpy Bookstore Owner (M)](https://hackmd.io/NB46oVdbSHmTTSNmOOZQLA?view)  
 [1248. Count Number of Nice Subarrays (M+)](https://hackmd.io/TYgGvpOOSCqvJJtk5hQBUQ?view)  
@@ -107,6 +108,7 @@
 * `Hash+Prefix`  
 [525. Contiguous Array (M)](https://hackmd.io/kAy-XsXqQ3q2xOxlpeuQxQ?view)  
 [560. Subarray Sum Equals K (M)](https://hackmd.io/NUW0LxU4QimnkDewOAVr4g?view)  
+[930. Binary Subarrays With Sum (M)](https://hackmd.io/HqRD822DQVOvB6ltdu6E0Q?view)  
 [1371. Find the Longest Substring Containing Vowels in Even Counts (H-)](https://hackmd.io/PYdo0tHFSjyqagMZ8A6D2A?view)  
 [1524. Number of Sub-arrays With Odd Sum (M)](https://hackmd.io/sHjlHnXVTICaylkjfKI8og?view)  
 [1590. Make Sum Divisible by P (M+)](https://hackmd.io/NKwWWEHhQoCLgwzw4P85Jg?view)  
