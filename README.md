@@ -81,6 +81,7 @@
 [2226. Maximum Candies Allocated to K Children (M)](https://hackmd.io/1mbWKWY8T-W-ADe7K5pUWA?view)  
 [2528.Maximize-the-Minimum-Powered-City (H-)](https://hackmd.io/DOlnGdJ-RYWahoyaXCP1sQ?view)  
 [2560. House Robber IV (H-)](https://hackmd.io/wdeIsFuIQcyYUF32W_CV3A?view)  
+[2594. Minimum Time to Repair Cars (M)](https://hackmd.io/_9yEReNnTI-1K61adJ6RCQ?view)  
 [2616. Minimize the Maximum Difference of Pairs (M)](https://hackmd.io/VsjcxBraTt-kCae3GMlyWw?view)  
 [3356. Zero Array Transformation II (M)](https://hackmd.io/7zpwIvd5TgC80kPyKbxFYQ?view)  
 [3399. Smallest Substring With Identical Characters II (H-)](https://hackmd.io/HP2jEy3RQmKbCqGEGferdQ?view)  
