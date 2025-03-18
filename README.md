@@ -40,6 +40,7 @@
 [2024. Maximize the Confusion of an Exam (M)](https://hackmd.io/XiLpKd-UTDKP1fZcQ8zCZQ?view)  
 [2134. Minimum Swaps to Group All 1's Together II (M)](https://hackmd.io/r3gObS3aSwCQ0bfHHdEYww?view)  
 [2302. Count Subarrays With Score Less Than K (M+)](https://hackmd.io/tXoI7avQT9u3AszYECdGQQ?view)  
+[2401. Longest Nice Subarray (H-)](https://hackmd.io/a7bH41DpRhSFzi5Op3twJg?view)  
 [2516. Take K of Each Character From Left and Right (M+)](https://hackmd.io/4OKZyTNUSc2wZ0WSjJl6uQ?view)  
 [2730. Find the Longest Semi-Repetitive Substring (M+)](https://hackmd.io/T59rjFubR-aBdeijxMLgsQ?view)  
 [2779. Maximum Beauty of an Array After Applying Operation (M)](https://hackmd.io/uzKFxLwvTYGx7xmDsGLfuA?view)  
