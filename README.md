@@ -284,6 +284,7 @@
 [310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
 [802. Find Eventual Safe States (H-)](https://hackmd.io/IJrvds0YSUacpntq8ijm7Q?view)  
 [1462. Course Schedule IV (M)](https://hackmd.io/44vlxBdNSaKDn5NPVuBliQ?view)  
+[2115. Find All Possible Recipes from Given Supplies (M)](https://hackmd.io/4btfwTouQaqt3kGsO7m4Ag?view)  
 [2127. Maximum Employees to Be Invited to a Meeting (H)](https://hackmd.io/cZQFiqolRiWfORbvEEA13g?view)  
 * `Dijkstra (BFS+PQ)`  
 [407. Trapping Rain Water II (H)](https://hackmd.io/K_02RC2RRXujq-n_P_1N3A?view)  
