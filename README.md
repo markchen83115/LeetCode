@@ -410,6 +410,7 @@
 [128. Longest Consecutive Sequence (H-)](https://hackmd.io/RIV_NM2ZRaqHwx8cZFCAFg?view)  
 [684. Redundant Connection (M)](https://hackmd.io/in0hPvGgR8OyR3TfcC9CFg?view)  
 [721. Accounts Merge (M+)](https://hackmd.io/Xb4feMS3RdeiBGMU-mqKbA?view)  
+[2685. Count the Number of Complete Components (M+)](https://hackmd.io/G7oYVX2BS2eEYT7ASNGcFA?view)  
 [3108. Minimum Cost Walk in Weighted Graph (H-)](https://hackmd.io/I_CUe6e9Tmm36Z1luJzDoQ?view)  
 * `MST`  
 [1584. Min Cost to Connect All Points (H-)](https://hackmd.io/EyysekjoQ5uFzvlZU3ty6w?view)  
