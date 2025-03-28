@@ -292,6 +292,7 @@
 [778. Swim in Rising Water (H)](https://hackmd.io/mSc7grMkQoG47_ALPydjfg?view)  
 [1368. Minimum Cost to Make at Least One Valid Path in a Grid (H)](https://hackmd.io/qqoHzTg7S0qSlMv1JCbghQ?view)  
 [1976. Number of Ways to Arrive at Destination (M+)](https://hackmd.io/yGzljqODQYWrWI-ijM9G6A?view)  
+[2503. Maximum Number of Points From Grid Queries (H-)](https://hackmd.io/QfnVEwFeRIOKA_AJxyRFHg?view)  
 
 
 > **Trie**  
