@@ -452,6 +452,7 @@
 [043. Multiply Strings (M)](https://hackmd.io/JCWuCz6oSlSrvb-6xcLhLA?view)  
 [050. Pow(x, n) (M)](https://hackmd.io/qQPe9P7DSN6LqLOqQdb7KQ?view)  
 [1497. Check If Array Pairs Are Divisible by k (M-)](https://hackmd.io/8YJaqvBeTUWlvIx9rdzm2g?view)  
+[1922. Count Good Numbers (M)](https://hackmd.io/lFTtOqvkQOKHaz07enBTIA?view)  
 [2191. Sort the Jumbled Numbers (M)](https://hackmd.io/nWEyn88ISaiTx9iAofx_kw?view)  
 [2491. Divide Players Into Teams of Equal Skill (E+)](https://hackmd.io/scvNS3XwT4mTI7F4UuCK6w?view)  
 [2598. Smallest Missing Non-negative Integer After Operations (M-)](https://hackmd.io/_QVr0XzzRS6A27Yd_vDuRw?view)  
