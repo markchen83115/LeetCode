@@ -555,6 +555,7 @@
 * `Collision`  
 [853. Car Fleet (M)](https://hackmd.io/jAf6LyCoQT2U0VQcIPYbpg?view)  
 * `Count Subarray by Element`  
+[2444. Count Subarrays With Fixed Bounds (M+)](https://hackmd.io/c0hXCImZS0Cf_FCx81V4xw?view)  
 [2818. Apply Operations to Maximize Score (H-)](https://hackmd.io/0QbY2jcCQCK_YBmMpfXBtw?view)  
 [3428. Maximum and Minimum Sums of at Most Size K Subsequences (M+)](https://hackmd.io/SeEX2elYRGOwLGj9WIlpog?view)  
 * `掃描線/差分陣列`  
