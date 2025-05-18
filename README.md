@@ -370,6 +370,8 @@
 [115. Distinct Subsequences (H-)](https://hackmd.io/7AoOSN7bRFaG4YRxR6d8xg?view)
 [1092. Shortest Common Supersequence (H-)](https://hackmd.io/G9elFDdwTN-SgQ_udTqkeg?view)  
 [1143. Longest Common Subsequence (M)](https://hackmd.io/0NL055xHSYW364o3vD2ykA?view)  
+* `狀態壓縮DP`  
+[1931. Painting a Grid With Three Different Colors (M+)](https://hackmd.io/xaUHVRD3QRGxiVxN_2_znQ?view)  
 * `Maximum Subarray`  
 [053. Maximum Subarray (E+)](https://hackmd.io/1YmoJ2HUTMSycH9fStHrHg?view)  
 [152. Maximum Product Subarray (M+)](https://hackmd.io/i_bOj3PVS0qkvSRdV0Y80w?view)  
