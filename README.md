@@ -286,6 +286,7 @@
 [310. Minimum Height Trees (H-)](https://hackmd.io/UfXMFrBMQ1uJrwJVkl4tkw?view)  
 [802. Find Eventual Safe States (H-)](https://hackmd.io/IJrvds0YSUacpntq8ijm7Q?view)  
 [1462. Course Schedule IV (M)](https://hackmd.io/44vlxBdNSaKDn5NPVuBliQ?view)  
+[1857. Largest Color Value in a Directed Graph (H-)](https://hackmd.io/Kv1jmjd0SNCkN27S5s7TZQ?view)  
 [2115. Find All Possible Recipes from Given Supplies (M)](https://hackmd.io/4btfwTouQaqt3kGsO7m4Ag?view)  
 [2127. Maximum Employees to Be Invited to a Meeting (H)](https://hackmd.io/cZQFiqolRiWfORbvEEA13g?view)  
 * `Dijkstra (BFS+PQ)`  
