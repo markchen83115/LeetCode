@@ -266,6 +266,7 @@
 [1079. Letter Tile Possibilities (M)](https://hackmd.io/WarQYj87RWSSQWnkF2q3Sg?view)  
 [1718. Construct the Lexicographically Largest Valid Sequence (H-)](https://hackmd.io/FwDf_5DlReuxK-eXoIZ9rg?view)  
 [2658. Maximum Number of Fish in a Grid (M-)](https://hackmd.io/sr32yjOfSHOyb3vEPEPDEw?view)  
+[3372. Maximize the Number of Target Nodes After Connecting Trees I (M+)](https://hackmd.io/KgP8y1-aT5q81v8uat240A?view)  
 * `search in an array`  
 [090. Subsets II (M+)](https://hackmd.io/Ne4jvRLzTaSwc-mXQ8s4xQ?view)  
 [1593. Split a String Into the Max Number of Unique Substrings (M)](https://hackmd.io/bqoA_2ynSwazvWchcqyYjA?view)  
