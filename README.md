@@ -558,6 +558,7 @@
 [238. Product of Array Except Self (M)](https://hackmd.io/mNZmK-UtTSGEtdv9rE-NOw?view)  
 [1861. Rotating the Box (M)](https://hackmd.io/_KlV8y6-R7GkeBPm1g45PQ?view)  
 [1975. Maximum Matrix Sum (M)](https://hackmd.io/DMfIRhJwTtOClJoVnkiWDg?view)  
+[2359. Find Closest Node to Given Two Nodes (M)](https://hackmd.io/i2PyPukdR7-58v5VMQcMVw?view)  
 [2584. Split the Array to Make Coprime Products (H)](https://hackmd.io/ylxsSCGTQAaDUFbFi7khlg?view)  
 * `Collision`  
 [853. Car Fleet (M)](https://hackmd.io/jAf6LyCoQT2U0VQcIPYbpg?view)  
